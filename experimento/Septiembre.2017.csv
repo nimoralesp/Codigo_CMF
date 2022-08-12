@@ -1,0 +1,178 @@
+Unnamed: 0,Cuentas,ADDWISE 09 / 2017,AVLA 09 / 2017,BAN TATTERSALL 09 / 2017,BCI 09 / 2017,CONTEMPORA 09 / 2017,DANK 09 / 2017,ECR OSORNO 09 / 2017,ELOY 09 / 2017,FINANCIA CAPITAL 09 / 2017,FINMAS 09 / 2017,LARRAIN VIAL 09 / 2017,LATAM TRADE CAPITAL 09 / 2017,MOONK 09 / 2017,TANNER 09 / 2017,Fecha
+1,RUT,76.147.513-4,76.268.236-2,76.977.670-2,76.466.468-K,76.686.240-3,76.249.106-0,76.030.732-7,76.389.487-8,76.089.848-1,76.609.787-1,99.587.310-9,76.148.647-0,76.727.442-4,76.313.350-8,Septiembre de 2017
+2,Razón social,ADDWISE,AVLA,BAN TATTERSALL,BCI,CONTEMPORA,DANK,ECR OSORNO,ELOY,FINANCIA CAPITAL,FINMAS,LARRAIN VIAL,LATAM TRADE CAPITAL,MOONK,TANNER,Septiembre de 2017
+3,,,,,,,,,,,,,,,,Septiembre de 2017
+4,Estado de situación financiera,,,,,,,,,,,,,,,Septiembre de 2017
+5,Activos,,,,,,,,,,,,,,,Septiembre de 2017
+6,11.01.00 Efectivo y efectivo equivalente,272801,261350,628578,137,508791,28361,64247,50124,514524,224958,762449,101622,428705,351056,Septiembre de 2017
+7,11.02.00 Instrumentos financieros,,0,2026822,434836,0,0,0,0,0,0,700000,0,0,562308,Septiembre de 2017
+8,11.02.10 A valor razonable - Cartera propia disponible,,0,0,434836,0,0,0,0,0,0,700000,0,0,562308,Septiembre de 2017
+9,11.02.11 Renta variable (IRV),,,,,0,,,,,,700000,,,562308,Septiembre de 2017
+10,11.02.12 Renta fija e Intermediación Financiera (IRF e IIF),,,,434836,,,,,,,,0,,,Septiembre de 2017
+11,11.02.20 A valor razonable - Cartera propia comprometida,,0,0,0,0,0,0,0,0,0,0,0,0,0,Septiembre de 2017
+12,11.02.21 Renta variable,,,,,,,,,,,,0,,,Septiembre de 2017
+13,11.02.22 Renta fija e Intermediación Financiera,,,,,,,,,,,,0,,,Septiembre de 2017
+14,11.02.30 A valor razonable - Instrumentos financieros derivados,,,,,,,,,,,,0,,,Septiembre de 2017
+15,11.02.40 A costo amortizado - Cartera propia disponible,,,2026822,,,,,,,,,0,,,Septiembre de 2017
+16,11.02.50 A costo amortizado - Cartera propia comprometida,,,,,,,,,,,,0,,,Septiembre de 2017
+17,11.02.60 A costo amortizado - Operaciones de financiamiento,,0,0,0,0,0,0,0,0,0,0,0,0,0,Septiembre de 2017
+18,11.02.61 Operaciones de compra con retroventa sobre IRV,,,,,,,,,,,,0,,,Septiembre de 2017
+19,11.02.62 Operaciones de compra con retroventa sobre IRF e IIF,,,,,,,,,,,,0,,,Septiembre de 2017
+20,11.02.63 Otras,,,,,,,,,0,,,0,,,Septiembre de 2017
+21,11.03.00 Productos,,0,0,7284561,0,0,185912,0,0,0,490364,429382,0,208501,Septiembre de 2017
+22,11.03.10 A valor razonable - Cartera propia disponible,,0,0,7284561,0,0,185912,0,0,0,490364,0,0,0,Septiembre de 2017
+23,11.03.11 Productos agropecuarios,,,,,,,,,,,,0,,,Septiembre de 2017
+24,11.03.12 Títulos representativos de productos agropecuarios (TRP),,,,,,,,,,,,0,,,Septiembre de 2017
+25,11.03.13 Facturas,,,,7284561,,,185912,,,,490364,0,,,Septiembre de 2017
+26,11.03.14 Títulos representativos de facturas (TRF),,,,,,,,,,,,0,,,Septiembre de 2017
+27,11.03.15 Otros,,,,,,,,,,,,0,,,Septiembre de 2017
+28,11.03.20 A valor razonable - Cartera propia comprometida,,0,0,0,0,0,0,0,0,0,0,0,0,0,Septiembre de 2017
+29,11.03.21 Productos agropecuarios,,,,,,,,,,,,0,,,Septiembre de 2017
+30,11.03.22 Títulos representativos de productos agropecuarios,,,,,,,,,,,,0,,,Septiembre de 2017
+31,11.03.23 Otros,,,,,,,,,,,,0,,,Septiembre de 2017
+32,11.03.30 A valor razonable - Instrumentos derivados,,,,,,,,,,,,0,,,Septiembre de 2017
+33,11.03.40 A costo amortizado - Cartera propia disponible,,0,0,0,0,0,0,0,0,0,0,429382,0,208501,Septiembre de 2017
+34,11.03.41 Facturas,,,,,,,,,,,,429382,,208501,Septiembre de 2017
+35,11.03.42 Títulos representativos de facturas,,,,,,,,,,,,0,,,Septiembre de 2017
+36,11.03.43 Otros,,,,,,,,,,,,0,,,Septiembre de 2017
+37,11.03.50 A costo amortizado - Cartera propia comprometida,,,,,,,,,,,,0,,,Septiembre de 2017
+38,11.03.60 A costo amortizado - Operaciones de financiamiento,,0,0,0,0,0,0,0,0,0,0,0,0,0,Septiembre de 2017
+39,11.03.61 Operaciones de compra con retroventa sobre productos agropecuarios,,,,,,,,,,,,0,,,Septiembre de 2017
+40,11.03.62 Operaciones de compra con retroventa sobre TRP,,,,,,,,,,,0,0,,,Septiembre de 2017
+41,11.03.63 Otras,,,,,,,,,,,,0,,,Septiembre de 2017
+42,11.04.00 Deudores por intermediación,28,,142624,,0,,,665616,,748560,0,0,,,Septiembre de 2017
+43,11.05.00 Cuentas por cobrar por operaciones de cartera propia,,,,,,,,,,,,0,,49623,Septiembre de 2017
+44,11.06.00 Cuentas por cobrar a partes relacionadas,,,88601,,,36718,,,2493,152,320409,0,,,Septiembre de 2017
+45,11.07.00 Otras cuentas por cobrar,8138,,562478,642595,20370,4860,9684,101334,0,20774,99497,0,,34807,Septiembre de 2017
+46,11.08.00 Impuestos por cobrar,9598,4667,98106,970,,4302,6191,7329,9529,2124,37976,24393,,8196,Septiembre de 2017
+47,11.09.00 Impuestos diferidos,1979,0,4001,23513,57022,25228,1178,2302,812,17471,10897,2120,,29349,Septiembre de 2017
+48,11.10.00 Inversiones en sociedades,,24936,199291,,171439,24409,147951,26230,0,,147807,0,,138380,Septiembre de 2017
+49,11.11.00 Intangibles,10087,6561,758,20908,0,,,7746,21202,25410,1532,33705,,,Septiembre de 2017
+50,"11.12.00 Propiedades, planta y equipo",164,0,3177,,189,,,6682,510,,,445,,138,Septiembre de 2017
+51,11.13.00 Otros activos,,4901,2210,589,,188966,506,2221,1844,2801,0,42014,,3033,Septiembre de 2017
+52,10.00.00 Total Activos,302795,302415,3756646,8408109,757811,312844,415669,869584,550914,1042250,2570931,633681,428705,1385391,Septiembre de 2017
+53,Pasivos y Patrimonio,,,,,,,,,,,,,,,Septiembre de 2017
+54,Pasivos,,,,,,,,,,,,,,,Septiembre de 2017
+55,21.01.00 Pasivos financieros,,0,0,0,0,0,0,0,0,0,0,0,0,0,Septiembre de 2017
+56,21.01.10 A valor razonable,,,,,,,,,,,,0,,,Septiembre de 2017
+57,21.01.20 A valor razonable - Instrumentos financieros derivados,,,,,,,,,,,,0,,,Septiembre de 2017
+58,21.01.30 Obligaciones por financiamiento,,0,0,0,0,0,0,0,0,0,0,0,0,0,Septiembre de 2017
+59,21.01.31 Operaciones de venta con retrocompra sobre IRV,,,,,,,,,,,,0,,,Septiembre de 2017
+60,21.01.32 Operaciones de venta con retrocompra sobre IRF e IIF,,,,,,,,,,,,0,,,Septiembre de 2017
+61,21.01.33 Otras,,,,,,,,,,,,0,,,Septiembre de 2017
+62,21.02.00 Pasivos del mercado de productos,,0,0,0,0,0,0,0,0,0,0,0,0,0,Septiembre de 2017
+63,21.02.10 A valor razonable,,,,,,,,,,,,0,,,Septiembre de 2017
+64,21.02.20 A valor razonable - Instrumentos derivados,,,,,,,,,,,,0,,,Septiembre de 2017
+65,21.02.30 Obligaciones por financiamiento,,0,0,0,0,0,0,0,0,0,0,0,0,0,Septiembre de 2017
+66,21.02.31 Operaciones de venta con retrocompra sobre productos agropecuarios,,,,,,,,,,,,0,,,Septiembre de 2017
+67,21.02.32 Operaciones de venta con retrocompra sobre TRP,,,,,,,,,,,0,0,,,Septiembre de 2017
+68,21.02.33 Otras,,,,,,,,,,,,0,,,Septiembre de 2017
+69,21.03.00 Obligaciones con bancos e instituciones financieras,,,1349157,,,,,,0,,,0,,,Septiembre de 2017
+70,21.04.00 Acreedores por intermediación,119431,,,,0,,,555613,9703,621405,0,0,,,Septiembre de 2017
+71,21.05.00 Cuentas por pagar por operaciones de cartera propia,,,,127150,,,,,,,,0,,,Septiembre de 2017
+72,21.06.00 Cuentas por pagar a partes relacionadas,,92988,164945,7685952,,,,,6716,140634,,0,1102,134,Septiembre de 2017
+73,21.07.00 Otras cuentas por pagar,10491,3866,734946,11483,49925,7684,5174,93572,10184,5018,1369688,29352,0,110428,Septiembre de 2017
+74,21.08.00 Provisiones,6620,6807,17726,62825,7659,19768,7140,14102,3186,,48138,1596,0,11614,Septiembre de 2017
+75,21.09.00 Impuestos por pagar,,0,1114,32627,1178,5615,620,9213,0,3287,50205,6302,1242,,Septiembre de 2017
+76,21.10.00 Impuestos diferidos,,0,0,,,,,,0,,,0,0,773,Septiembre de 2017
+77,21.11.00 Otros pasivos,,0,3941,,,,,,,,,0,0,,Septiembre de 2017
+78,21.00.00 Total Pasivos,136542,103661,2271829,7920037,58762,33067,12934,672500,29789,770344,1468031,37250,2344,122949,Septiembre de 2017
+79,Patrimonio,,,,,,,,,,,,,,,Septiembre de 2017
+80,22.01.00 Capital,197000,180000,433711,460000,720453,319571,387118,214000,285060,322996,701188,484476,423000,902046,Septiembre de 2017
+81,22.02.00 Reservas,,,149,1277,-18865,,4940,1678,-5060,0,17693,,,-25833,Septiembre de 2017
+82,22.03.00 Resultados acumulados,46118,42309,1024183,-29664,-11679,-102247,-12137,-634,252663,-6650,236677,76083,0,441087,Septiembre de 2017
+83,22.04.00 Resultado del ejercicio,-76865,-23555,26774,80656,9140,62453,22814,-17960,-11538,-44440,147342,35872,3361,-54858,Septiembre de 2017
+84,22.05.00 Dividendos provisorios o participaciones,,,,-24197,,,,,0,,,0,0,,Septiembre de 2017
+85,22.00.00 Total Patrimonio,166253,198754,1484817,488072,699049,279777,402735,197084,521125,271906,1102900,596431,426361,1262442,Septiembre de 2017
+86,20.00.00 TOTAL PAC.M.F Y PATRIMONIO,302795,302415,3756646,8408109,757811,312844,415669,869584,550914,1042250,2570931,633681,428705,1385391,Septiembre de 2017
+87,,,,,,,,,,,,,,,,Septiembre de 2017
+88,Estado de resultados integrales,,,,,,,,,,,,,,,Septiembre de 2017
+89,Estado de resultados,,,,,,,,,,,,,,,Septiembre de 2017
+90,Resultado por intermediación,,,,,,,,,,,,,,,Septiembre de 2017
+91,30.10.01 Comisiones por operaciones bursátiles,33476,42702,547513,124281,131847,305066,19406,417181,65050,12878,147976,122953,,1536,Septiembre de 2017
+92,30.10.02 Comisiones por operaciones extra bursátiles,,,,,,,,,,,,0,,,Septiembre de 2017
+93,30.10.03 Gastos por comisiones y servicios,-37775,-41940,-151620,,-26273,-101364,-22741,-31906,-23581,-7469,-46573,-32438,,-27721,Septiembre de 2017
+94,30.10.04 Otras comisiones,,0,14368,,,25545,,,33167,486,,7700,,,Septiembre de 2017
+95,30.10.00 Total resultado por intermediación,-4299,762,410261,124281,105574,229247,-3335,385275,74636,5895,101403,98215,0,-26185,Septiembre de 2017
+96,Ingresos por servicios,,,,,,,,,,,,,,,Septiembre de 2017
+97,30.20.01 Ingresos por custodia,,,,,,,,,,,,0,,,Septiembre de 2017
+98,30.20.02 Ingresos por asesorías,,,,,,13500,86850,,,21074,286094,0,,,Septiembre de 2017
+99,30.20.03 Otros ingresos por servicios,38161,0,,,,,,,,,,0,,,Septiembre de 2017
+100,30.20.00 Total ingresos por servicios,38161,0,0,0,0,13500,86850,0,0,21074,286094,0,0,0,Septiembre de 2017
+101,Resultado por productos,,,,,,,,,,,,,,,Septiembre de 2017
+102,30.30.01 A valor razonable,,,,,,,6147,,,,16270,0,2506,,Septiembre de 2017
+103,30.30.02 A valor razonable - Instrumentos derivados,,,,,,,,,,,,0,,,Septiembre de 2017
+104,30.30.03 A costo amortizado,,,,248370,,,,,,,,0,,6700,Septiembre de 2017
+105,30.30.04 A costo amortizado - Operaciones de financiamiento,,,,,,,,,,,,0,,,Septiembre de 2017
+106,30.30.00 Total resultado por productos,,0,0,248370,0,0,6147,0,0,0,16270,0,2506,6700,Septiembre de 2017
+107,Resultado por instrumentos financieros,,,,,,,,,,,,,,,Septiembre de 2017
+108,30.40.01 A valor razonable,,2348,,,155,10360,,,0,2417,15789,0,,10242,Septiembre de 2017
+109,30.40.02 A valor razonable - Instrumentos financieros derivados,,,,,,,,,,,,0,,,Septiembre de 2017
+110,30.40.03 A costo amortizado,,,,,,,,,238,,,0,,,Septiembre de 2017
+111,30.40.04 A costo amortizado - Operaciones de financiamiento,,,,15701,,,,,,,,0,,,Septiembre de 2017
+112,30.40.00 Total resultado por instrumentos financieros,,2348,0,15701,155,10360,0,0,238,2417,15789,0,0,10242,Septiembre de 2017
+113,Resultado por operaciones de financiamiento,,,,,,,,,,,,,,,Septiembre de 2017
+114,30.50.01 Gastos por financiamiento del mercado de productos,,,,,,,,,,,,0,,,Septiembre de 2017
+115,30.50.02 Gastos por financiamiento del mercado de valores,,,,,,,,,,,,0,,,Septiembre de 2017
+116,30.50.03 Otros gastos financieros,,,-58343,-101224,,-2526,,,,-171,-6252,0,,,Septiembre de 2017
+117,30.50.00 Total resultado por operaciones de financiamiento,,0,-58343,-101224,0,-2526,0,0,0,-171,-6252,0,0,0,Septiembre de 2017
+118,Gastos de administración y comercialización,,,,,,,,,,,,,,,Septiembre de 2017
+119,30.60.01 Remuneraciones y gastos de personal,-62899,0,-175255,-122462,-63413,-64044,-61443,-291762,-17681,-42014,-202840,-18270,,-43537,Septiembre de 2017
+120,30.60.02 Gastos de comercialización,-47828,0,,-44038,,,,,,-738,-23272,0,,-880,Septiembre de 2017
+121,30.60.03 Otros gastos de administración,,-29604,-152401,-48246,-36934,-108125,-8651,-111463,-68677,-46283,,-33604,-1371,-24459,Septiembre de 2017
+122,30.60.00 Total gastos de administración y comercialización,-110727,-29604,-327656,-214746,-100347,-172169,-70094,-403225,-86358,-89035,-226112,-51874,-1371,-68876,Septiembre de 2017
+123,Otros resultados,,,,,,,,,,,,,,,Septiembre de 2017
+124,30.70.01 Reajuste y diferencia de cambio,,2629,520,16325,,,,19,8,9,,-503,,32,Septiembre de 2017
+125,30.70.02 Resultado de inversiones en sociedades,,604,3106,0,2314,,2218,,,,1920,0,,,Septiembre de 2017
+126,30.70.03 Otros ingresos (gastos),,-6,0,16449,1444,,1145,,,,3999,0,3468,12534,Septiembre de 2017
+127,30.70.00 Total otros resultados,0,3227,3626,32774,3758,0,3363,19,8,9,5919,-503,3468,12566,Septiembre de 2017
+128,30.80.00 Resultado antes de impuesto a la renta,-76865,-23267,27888,105156,9140,78412,22931,-17931,-11476,-59811,193111,45838,4603,-65553,Septiembre de 2017
+129,30.90.00 Impuesto a la renta,,-288,-1114,-24500,0,-15959,-117,-29,-62,15371,-45769,-9966,-1242,10695,Septiembre de 2017
+130,30.00.00 Utilidad (pérdida) del ejercicio,-76865,-23555,26774,80656,9140,62453,22814,-17960,-11538,-44440,147342,35872,3361,-54858,Septiembre de 2017
+131,Estado de otros resultados integrales,,,,,,,,,,,,,,,Septiembre de 2017
+132,30.00.00 Utilidad (pérdida) del ejercicio,-76865,-23555,26774,80656,9140,62453,22814,-17960,-11538,-44440,147342,35872,3361,-54858,Septiembre de 2017
+133,Ingresos (gastos) registrados con abono (cargo) a patrimonio,,,,,,,,,,,,,,,Septiembre de 2017
+134,"31.10.00 Revalorización de propiedades, planta y equipo",,,,,,,,,,,,0,,,Septiembre de 2017
+135,31.20.00 Activos financieros a valor razonable por patrimonio,,,,,,,,393,,,,0,,,Septiembre de 2017
+136,31.30.00 Participación de otros resultados integrales de inversiones en sociedades,,,,,,,,,,,,0,,,Septiembre de 2017
+137,31.40.00 Otros ingresos (gastos) registrados con abono (cargo) a patrimonio,,,,2014,,,,,,,296,0,,,Septiembre de 2017
+138,31.50.00 Impuesto a la renta de otros resultados integrales,,,,,,,,,,,,0,,,Septiembre de 2017
+139,31.00.00 Total ingresos (gastos) registrados con abono (cargo) a patrimonio,,0,0,2014,0,0,0,393,0,0,296,0,0,0,Septiembre de 2017
+140,32.00.00 Total resultados integrales reconocidos del ejercicio,-76865,-23555,26774,82670,9140,62453,22814,-17567,-11538,-44440,147638,35872,3361,-54858,Septiembre de 2017
+141,,,,,,,,,,,,,,,,Septiembre de 2017
+142,Estados de Flujos de efectivo - Método directo,,,,,,,,,,,,,,,Septiembre de 2017
+143,Flujo neto originado por actividades de la operación,,,,,,,,,,,,,,,Septiembre de 2017
+144,51.11.00 Comisiones recaudadas (pagadas) por intermediación de productos,71630,-247493,144654,124,105574,-323146,19406,417181,41468,5895,486902,235277,,-24289,Septiembre de 2017
+145,51.12.00 Ingreso (egreso) neto por cuenta de clientes,,0,-47093,,20038,,,-252130,,11842,,0,,12835,Septiembre de 2017
+146,51.13.00 Ingreso (egreso) neto por instrumentos a valor razonable del mercado de productos,,0,,,,,39507,,,,,0,,,Septiembre de 2017
+147,51.14.00 Ingreso (egreso) neto por instrumentos derivados del mercado de productos,,,,,,,,,,,,0,,,Septiembre de 2017
+148,51.15.00 Ingreso (egreso) neto por instrumentos a costo amortizado del mercado de productos,,,251240,-3378,,,,,,,,-383196,,6565,Septiembre de 2017
+149,51.16.00 Ingreso (egreso) neto por asesorías y custodia,,0,,,,,77166,,,3245,,0,,-341,Septiembre de 2017
+150,51.17.00 Gastos de administración y comercialización pagados,-96890,-45452,-588968,,-103322,-175090,-76653,-403225,-77035,-82317,-294113,-104621,-269,-49646,Septiembre de 2017
+151,51.18.00 Impuestos pagados,,0,,,-223,-39621,-5118,,-11875,-2516,-216659,-771,,-2006,Septiembre de 2017
+152,51.19.00 Otros ingresos (egresos) netos por actividades de la operación,,993,23111,248,-1594,131514,-8524,48,33167,,-133797,,,-884,Septiembre de 2017
+153,51.10.00 Flujo neto originado por actividades de la operación,-25260,-291952,-217056,-3006,20473,-406343,45784,-238126,-14275,-63851,-157667,-253311,-269,-57766,Septiembre de 2017
+154,Flujo neto originado por actividades de financiamiento,,,,,,,,,,,,,,,Septiembre de 2017
+155,52.11.00 Ingreso (egreso) neto por pasivos del mercado de productos,,,,,,,,,0,,,0,,76957,Septiembre de 2017
+156,52.12.00 Ingreso (egreso) neto por pasivos financieros del mercado de valores,,,,,,,,,,,,0,,,Septiembre de 2017
+157,52.13.00 Ingreso (egreso) neto por financiamiento de partes relacionadas,,0,-19069,-42768,,-96000,,,,,-139377,45075,3468,,Septiembre de 2017
+158,52.14.00 Aumentos de capital,,0,,,,,,,,142998,,106476,423000,,Septiembre de 2017
+159,52.15.00 Reparto de utilidades y de capital,,,,,,,,-130215,,,,0,,,Septiembre de 2017
+160,52.16.00 Otros ingresos (egresos) netos por actividades de financiamiento,,0,453958,,,,,,,-171,,0,,,Septiembre de 2017
+161,52.10.00 Flujo neto originado por actividades de financiamiento,,0,434889,-42768,0,-96000,0,-130215,0,142827,-139377,151551,426468,76957,Septiembre de 2017
+162,Flujo neto originado por actividades de inversión,,,,,,,,,,,,,,,Septiembre de 2017
+163,53.11.00 Ingreso (egreso) neto por instrumentos financieros a valor razonable del mercado de valores,92530,,,,1170,,,,,,0,0,2506,-562308,Septiembre de 2017
+164,53.12.00 Ingreso (egreso) neto por instrumentos financieros derivados del mercado de valores,,,,,,,,,3498,,,0,,,Septiembre de 2017
+165,53.13.00 Ingreso (egreso) neto por instrumentos financieros a costo amortizado del mercado de valores,,,,,,,,,,,-474314,0,,,Septiembre de 2017
+166,"53.14.00 Ingresos por ventas de propiedades, planta y equipo",,,,,,,,,,,,0,,,Septiembre de 2017
+167,53.15.00 Ingresos por ventas de inversiones en sociedades,,,,,,,,,,,,0,,,Septiembre de 2017
+168,53.16.00 Dividendos y otros ingresos percibidos de inversiones en sociedades,,,,,,,,,511014,,,0,,,Septiembre de 2017
+169,"53.17.00 Incorporación de propiedades, planta y equipo",,,,,,,,-521,,,,0,,,Septiembre de 2017
+170,53.18.00 Inversiones en sociedades,,0,,,0,,,,,,,0,,,Septiembre de 2017
+171,53.19.00 Otros ingresos (egresos) netos de inversión,,4955,,5,,,1056,,-10249,-26515,,0,,,Septiembre de 2017
+172,53.10.00 Flujo neto originado por actividades de inversión,92530,4955,0,5,1170,0,1056,-521,504263,-26515,-474314,0,2506,-562308,Septiembre de 2017
+173,50.10.00 Flujo neto total positivo (negativo) del período,67270,-286997,217833,-45769,21643,-502343,46840,-368862,489988,52461,-771358,-101760,428705,-543117,Septiembre de 2017
+174,50.20.00 Efecto de la variación por tipo de cambio sobre el efectivo y efectivo equivalente,,,,,,,,,24536,,,,,,Septiembre de 2017
+175,50.30.00 Variación neta del efectivo y efectivo equivalente,67270,-286997,217833,-45769,21643,-502343,46840,-368862,514524,52461,-771358,-101760,428705,-543117,Septiembre de 2017
+176,50.40.00 Saldo inicial de efetivo y efectivo equivalente,205531,548347,410745,45906,487148,530704,17407,418986,,172497,1533807,203382,,894173,Septiembre de 2017
+177,50.00.00 Saldo final de efectivo y efectivo equivalente,272801,261350,628578,137,508791,28361,64247,50124,514524,224958,762449,101622,428705,351056,Septiembre de 2017

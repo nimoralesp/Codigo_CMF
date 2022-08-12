@@ -1,0 +1,178 @@
+Unnamed: 0,Cuentas,AVLA 03 / 2020,BAN TATTERSALL 03 / 2020,BCI 03 / 2020,CONTEMPORA 03 / 2020,DANK 03 / 2020,ECR OSORNO 03 / 2020,ELOY 03 / 2020,FINMAS 03 / 2020,LARRAIN VIAL 03 / 2020,LATAM TRADE CAPITAL 03 / 2020,MOONK 03 / 2020,NUEVO CAPITAL 03 / 2020,TANNER 03 / 2020,Fecha
+1,RUT,76.268.236-2,76.977.670-2,76.466.468-K,76.686.240-3,76.249.106-0,76.030.732-7,76.389.487-8,76.609.787-1,99.587.310-9,76.148.647-0,76.727.442-4,76.899.853-1,76.313.350-8,Marzo de 2020
+2,Razón social,AVLA,BAN TATTERSALL,BCI,CONTEMPORA,DANK,ECR OSORNO,ELOY,FINMAS,LARRAIN VIAL,LATAM TRADE CAPITAL,MOONK,NUEVO CAPITAL,TANNER,Marzo de 2020
+3,,,,,,,,,,,,,,,Marzo de 2020
+4,Estado de situación financiera,,,,,,,,,,,,,,Marzo de 2020
+5,Activos,,,,,,,,,,,,,,Marzo de 2020
+6,11.01.00 Efectivo y efectivo equivalente,255603,102869,2658,654435,23789,17826,299308,254718,6942,468833,145468,262020,1066835,Marzo de 2020
+7,11.02.00 Instrumentos financieros,0,0,0,0,0,0,0,0,0,0,0,0,0,Marzo de 2020
+8,11.02.10 A valor razonable - Cartera propia disponible,0,0,0,0,0,0,0,0,0,0,0,0,0,Marzo de 2020
+9,11.02.11 Renta variable (IRV),,,,0,0,,,,0,,,,,Marzo de 2020
+10,11.02.12 Renta fija e Intermediación Financiera (IRF e IIF),,,,,,,,,,0,,,,Marzo de 2020
+11,11.02.20 A valor razonable - Cartera propia comprometida,0,0,0,0,0,0,0,0,0,0,0,0,0,Marzo de 2020
+12,11.02.21 Renta variable,,,,,,,,,,0,,,,Marzo de 2020
+13,11.02.22 Renta fija e Intermediación Financiera,,,,,,,,,,0,,,,Marzo de 2020
+14,11.02.30 A valor razonable - Instrumentos financieros derivados,,,,,,,,,,0,,,,Marzo de 2020
+15,11.02.40 A costo amortizado - Cartera propia disponible,,,,,,,,,,0,,,,Marzo de 2020
+16,11.02.50 A costo amortizado - Cartera propia comprometida,,,,,,,,,,0,,,,Marzo de 2020
+17,11.02.60 A costo amortizado - Operaciones de financiamiento,0,0,0,0,0,0,0,0,0,0,0,0,0,Marzo de 2020
+18,11.02.61 Operaciones de compra con retroventa sobre IRV,,,,,,,,,,0,,,,Marzo de 2020
+19,11.02.62 Operaciones de compra con retroventa sobre IRF e IIF,,,,,,,,,,0,,,,Marzo de 2020
+20,11.02.63 Otras,,,,,,,,,,0,,,,Marzo de 2020
+21,11.03.00 Productos,0,791841,8976662,0,0,316513,0,0,1344218,1245810,0,0,0,Marzo de 2020
+22,11.03.10 A valor razonable - Cartera propia disponible,0,791841,8344570,0,0,316513,0,0,1344218,0,0,0,0,Marzo de 2020
+23,11.03.11 Productos agropecuarios,,,,,,,,,,0,,,,Marzo de 2020
+24,11.03.12 Títulos representativos de productos agropecuarios (TRP),,208842,,,,,,,,0,,,,Marzo de 2020
+25,11.03.13 Facturas,,582999,8344570,,,316513,,,1344218,0,,,,Marzo de 2020
+26,11.03.14 Títulos representativos de facturas (TRF),,,,,,,,,,0,,,,Marzo de 2020
+27,11.03.15 Otros,,,,,,,,,,0,,,,Marzo de 2020
+28,11.03.20 A valor razonable - Cartera propia comprometida,0,0,0,0,0,0,0,0,0,0,0,0,0,Marzo de 2020
+29,11.03.21 Productos agropecuarios,,,,,,,,,,0,,,,Marzo de 2020
+30,11.03.22 Títulos representativos de productos agropecuarios,,,,,,,,,,0,,,,Marzo de 2020
+31,11.03.23 Otros,,,,,,,,,,0,,,,Marzo de 2020
+32,11.03.30 A valor razonable - Instrumentos derivados,,,,,,,,,,0,,,,Marzo de 2020
+33,11.03.40 A costo amortizado - Cartera propia disponible,0,0,632092,0,0,0,0,0,0,1245810,0,0,0,Marzo de 2020
+34,11.03.41 Facturas,,,632092,,,,,,,1245810,,,,Marzo de 2020
+35,11.03.42 Títulos representativos de facturas,,,,,,,,,,0,,,,Marzo de 2020
+36,11.03.43 Otros,,,,,,,,,,0,,,,Marzo de 2020
+37,11.03.50 A costo amortizado - Cartera propia comprometida,,,,,,,,,,0,,,,Marzo de 2020
+38,11.03.60 A costo amortizado - Operaciones de financiamiento,0,0,0,0,0,0,0,0,0,0,0,0,0,Marzo de 2020
+39,11.03.61 Operaciones de compra con retroventa sobre productos agropecuarios,,,,,,,,,,0,,,,Marzo de 2020
+40,11.03.62 Operaciones de compra con retroventa sobre TRP,,,,,,,,,,0,,,,Marzo de 2020
+41,11.03.63 Otras,,,,,,,,,,0,,,,Marzo de 2020
+42,11.04.00 Deudores por intermediación,,,,0,,,511630,491386,,0,,,,Marzo de 2020
+43,11.05.00 Cuentas por cobrar por operaciones de cartera propia,,,,,,,,,,0,,,,Marzo de 2020
+44,11.06.00 Cuentas por cobrar a partes relacionadas,,277119,130761,6406,47145,,,1428,0,0,,417196,,Marzo de 2020
+45,11.07.00 Otras cuentas por cobrar,0,209915,14244,16684,200000,0,,,4556,0,,,64,Marzo de 2020
+46,11.08.00 Impuestos por cobrar,8008,8758,25178,,1785,1083,17733,4121,109446,21400,12014,7434,60650,Marzo de 2020
+47,11.09.00 Impuestos diferidos,0,81782,238794,69450,24053,671,269,38816,197281,3103,27260,3384,53037,Marzo de 2020
+48,11.10.00 Inversiones en sociedades,25945,151340,,174974,24993,151488,26852,,151340,0,,43240,183750,Marzo de 2020
+49,11.11.00 Intangibles,0,11125,6731,0,,0,10983,45595,,33705,51547,45729,,Marzo de 2020
+50,"11.12.00 Propiedades, planta y equipo",0,1361,1642,0,,0,15179,2869,,0,426,,,Marzo de 2020
+51,11.13.00 Otros activos,1702,1255172,1179,,130,562,,4614,1486,5601,1317,1767,2316,Marzo de 2020
+52,10.00.00 Total Activos,291258,2891282,9397849,921949,321895,488143,881954,843547,1815269,1778452,238032,780770,1366652,Marzo de 2020
+53,Pasivos y Patrimonio,,,,,,,,,,,,,,Marzo de 2020
+54,Pasivos,,,,,,,,,,,,,,Marzo de 2020
+55,21.01.00 Pasivos financieros,0,0,0,0,0,0,0,0,0,0,0,0,0,Marzo de 2020
+56,21.01.10 A valor razonable,,,,,,,,,,0,,,,Marzo de 2020
+57,21.01.20 A valor razonable - Instrumentos financieros derivados,,,,,,,,,,0,,,,Marzo de 2020
+58,21.01.30 Obligaciones por financiamiento,0,0,0,0,0,0,0,0,0,0,0,0,0,Marzo de 2020
+59,21.01.31 Operaciones de venta con retrocompra sobre IRV,,,,,,,,,,0,,,,Marzo de 2020
+60,21.01.32 Operaciones de venta con retrocompra sobre IRF e IIF,,,,,,,,,,0,,,,Marzo de 2020
+61,21.01.33 Otras,,,,,,,,,,0,,,,Marzo de 2020
+62,21.02.00 Pasivos del mercado de productos,0,0,0,0,0,0,0,0,0,0,0,0,0,Marzo de 2020
+63,21.02.10 A valor razonable,,,,,,,,,,0,,,,Marzo de 2020
+64,21.02.20 A valor razonable - Instrumentos derivados,,,,,,,,,,0,,,,Marzo de 2020
+65,21.02.30 Obligaciones por financiamiento,0,0,0,0,0,0,0,0,0,0,0,0,0,Marzo de 2020
+66,21.02.31 Operaciones de venta con retrocompra sobre productos agropecuarios,,,,,,,,,,0,,,,Marzo de 2020
+67,21.02.32 Operaciones de venta con retrocompra sobre TRP,,,,,,,,,0,0,,,,Marzo de 2020
+68,21.02.33 Otras,,,,,,,,,,0,,,,Marzo de 2020
+69,21.03.00 Obligaciones con bancos e instituciones financieras,,1343717,,,,,,,,0,,,,Marzo de 2020
+70,21.04.00 Acreedores por intermediación,,,,0,,,544554,493327,,0,,28276,,Marzo de 2020
+71,21.05.00 Cuentas por pagar por operaciones de cartera propia,,,,,,,,,,0,,,,Marzo de 2020
+72,21.06.00 Cuentas por pagar a partes relacionadas,94561,0,8374865,,,,,5081,367416,233594,,76239,240,Marzo de 2020
+73,21.07.00 Otras cuentas por pagar,6589,62117,27660,246574,10768,396,76930,38205,136805,757779,,4680,5268,Marzo de 2020
+74,21.08.00 Provisiones,2288,3937,72822,6307,4221,5623,997,8049,52637,16112,,10290,5919,Marzo de 2020
+75,21.09.00 Impuestos por pagar,0,0,,6414,1061,101,12692,8131,147495,28654,711,52251,,Marzo de 2020
+76,21.10.00 Impuestos diferidos,0,22430,,,,,,,,0,,,,Marzo de 2020
+77,21.11.00 Otros pasivos,0,5142,,,,,,,,0,,,,Marzo de 2020
+78,21.00.00 Total Pasivos,103438,1437343,8475347,259295,16050,6120,635173,552793,704353,1036139,711,171736,11427,Marzo de 2020
+79,Patrimonio,,,,,,,,,,,,,,Marzo de 2020
+80,22.01.00 Capital,206900,433711,1290423,720453,389572,387118,214000,333729,701188,484476,293000,480000,902046,Marzo de 2020
+81,22.02.00 Reservas,,149,1429,-18865,,4940,2300,,18321,0,,,7287,Marzo de 2020
+82,22.03.00 Resultados acumulados,-8184,1034718,-387481,-3080,-96929,101565,63856,-36298,447237,276083,-60555,99877,474400,Marzo de 2020
+83,22.04.00 Resultado del ejercicio,-10896,-14639,25901,-35854,13202,-11600,-33375,-6677,-55830,-4912,4876,29157,-28508,Marzo de 2020
+84,22.05.00 Dividendos provisorios o participaciones,,0,-7770,,,,,,,-13334,,,,Marzo de 2020
+85,22.00.00 Total Patrimonio,187820,1453939,922502,662654,305845,482023,246781,290754,1110916,742313,237321,609034,1355225,Marzo de 2020
+86,20.00.00 TOTAL PAC.M.F Y PATRIMONIO,291258,2891282,9397849,921949,321895,488143,881954,843547,1815269,1778452,238032,780770,1366652,Marzo de 2020
+87,,,,,,,,,,,,,,,Marzo de 2020
+88,Estado de resultados integrales,,,,,,,,,,,,,,Marzo de 2020
+89,Estado de resultados,,,,,,,,,,,,,,Marzo de 2020
+90,Resultado por intermediación,,,,,,,,,,,,,,Marzo de 2020
+91,30.10.01 Comisiones por operaciones bursátiles,0,40437,45493,23507,29220,8585,39705,77593,44410,6531,1832,19918,29,Marzo de 2020
+92,30.10.02 Comisiones por operaciones extra bursátiles,,,,,,,,,,0,,5170,,Marzo de 2020
+93,30.10.03 Gastos por comisiones y servicios,-7584,-19222,-8000,-9969,-7073,-8216,-6339,-11406,-9259,-712,,-12674,-9660,Marzo de 2020
+94,30.10.04 Otras comisiones,0,20513,665,,6710,,,,,126,,,,Marzo de 2020
+95,30.10.00 Total resultado por intermediación,-7584,41728,38158,13538,28857,369,33366,66187,35151,5945,1832,12414,-9631,Marzo de 2020
+96,Ingresos por servicios,,,,,,,,,,,,,,Marzo de 2020
+97,30.20.01 Ingresos por custodia,,,,,,,,,,0,,,,Marzo de 2020
+98,30.20.02 Ingresos por asesorías,,,,,,0,,0,,0,13590,85194,,Marzo de 2020
+99,30.20.03 Otros ingresos por servicios,,,,,,,,,,0,,,,Marzo de 2020
+100,30.20.00 Total ingresos por servicios,0,0,0,0,0,0,0,0,0,0,13590,85194,0,Marzo de 2020
+101,Resultado por productos,,,,,,,,,,,,,,Marzo de 2020
+102,30.30.01 A valor razonable,,9031,83375,,,6033,,,6186,0,,,,Marzo de 2020
+103,30.30.02 A valor razonable - Instrumentos derivados,,,,,,,,,,0,,,,Marzo de 2020
+104,30.30.03 A costo amortizado,,0,4064,,,,,,,19702,,875,97,Marzo de 2020
+105,30.30.04 A costo amortizado - Operaciones de financiamiento,,,,,,,,,,0,,,,Marzo de 2020
+106,30.30.00 Total resultado por productos,0,9031,87439,0,0,6033,0,0,6186,19702,0,875,97,Marzo de 2020
+107,Resultado por instrumentos financieros,,,,,,,,,,,,,,Marzo de 2020
+108,30.40.01 A valor razonable,1305,0,,108,968,,,,1397,0,190,,-4926,Marzo de 2020
+109,30.40.02 A valor razonable - Instrumentos financieros derivados,,,,,,,,,0,0,,,,Marzo de 2020
+110,30.40.03 A costo amortizado,,,,,,,,,,0,,,,Marzo de 2020
+111,30.40.04 A costo amortizado - Operaciones de financiamiento,,,,,,,,,,0,,,,Marzo de 2020
+112,30.40.00 Total resultado por instrumentos financieros,1305,0,0,108,968,0,0,0,1397,0,190,0,-4926,Marzo de 2020
+113,Resultado por operaciones de financiamiento,,,,,,,,,,,,,,Marzo de 2020
+114,30.50.01 Gastos por financiamiento del mercado de productos,,,,,,,,,,0,,,,Marzo de 2020
+115,30.50.02 Gastos por financiamiento del mercado de valores,,,,,,,,,,0,,,,Marzo de 2020
+116,30.50.03 Otros gastos financieros,,-15943,-29675,,,,,-2079,-472,0,,,,Marzo de 2020
+117,30.50.00 Total resultado por operaciones de financiamiento,0,-15943,-29675,0,0,0,0,-2079,-472,0,0,0,0,Marzo de 2020
+118,Gastos de administración y comercialización,,,,,,,,,,,,,,Marzo de 2020
+119,30.60.01 Remuneraciones y gastos de personal,0,-38072,-52529,-32601,-10342,-11044,-37796,-56209,-60095,-8526,,-43010,-24049,Marzo de 2020
+120,30.60.02 Gastos de comercialización,0,,-3496,,,,,,-49703,0,,,,Marzo de 2020
+121,30.60.03 Otros gastos de administración,-4916,-22282,-26606,-13584,-1708,-3511,-28139,-16902,,-21969,-10817,-14235,-5960,Marzo de 2020
+122,30.60.00 Total gastos de administración y comercialización,-4916,-60354,-82631,-46185,-12050,-14555,-65935,-73111,-109798,-30495,-10817,-57245,-30009,Marzo de 2020
+123,Otros resultados,,,,,,,,,,,,,,Marzo de 2020
+124,30.70.01 Reajuste y diferencia de cambio,74,41,19922,,,0,2,,0,-64,,,205,Marzo de 2020
+125,30.70.02 Resultado de inversiones en sociedades,225,-3451,,-3581,-591,-3581,,,-3577,0,,-415,,Marzo de 2020
+126,30.70.03 Otros ingresos (gastos),0,14309,-313,266,0,134,,,2622,0,81,,,Marzo de 2020
+127,30.70.00 Total otros resultados,299,10899,19609,-3315,-591,-3447,2,0,-955,-64,81,-415,205,Marzo de 2020
+128,30.80.00 Resultado antes de impuesto a la renta,-10896,-14639,32900,-35854,17184,-11600,-32567,-9003,-68491,-4912,4876,40823,-44264,Marzo de 2020
+129,30.90.00 Impuesto a la renta,0,0,-6999,,-3982,0,-808,2326,12661,0,,-11666,15756,Marzo de 2020
+130,30.00.00 Utilidad (pérdida) del ejercicio,-10896,-14639,25901,-35854,13202,-11600,-33375,-6677,-55830,-4912,4876,29157,-28508,Marzo de 2020
+131,Estado de otros resultados integrales,,,,,,,,,,,,,,Marzo de 2020
+132,30.00.00 Utilidad (pérdida) del ejercicio,-10896,-14639,25901,-35854,13202,-11600,-33375,-6677,-55830,-4912,4876,29157,-28508,Marzo de 2020
+133,Ingresos (gastos) registrados con abono (cargo) a patrimonio,,,,,,,,,,,,,,Marzo de 2020
+134,"31.10.00 Revalorización de propiedades, planta y equipo",,,,,,,,,,0,,,,Marzo de 2020
+135,31.20.00 Activos financieros a valor razonable por patrimonio,,,,,,,-634,,,0,,,,Marzo de 2020
+136,31.30.00 Participación de otros resultados integrales de inversiones en sociedades,,,,,,,,,0,0,,,,Marzo de 2020
+137,31.40.00 Otros ingresos (gastos) registrados con abono (cargo) a patrimonio,,,1759,,,,,,,0,,,,Marzo de 2020
+138,31.50.00 Impuesto a la renta de otros resultados integrales,,,,,,,,,,0,,,,Marzo de 2020
+139,31.00.00 Total ingresos (gastos) registrados con abono (cargo) a patrimonio,0,0,1759,0,0,0,-634,0,0,0,0,0,0,Marzo de 2020
+140,32.00.00 Total resultados integrales reconocidos del ejercicio,-10896,-14639,27660,-35854,13202,-11600,-34009,-6677,-55830,-4912,4876,29157,-28508,Marzo de 2020
+141,,,,,,,,,,,,,,,Marzo de 2020
+142,Estados de Flujos de efectivo - Método directo,,,,,,,,,,,,,,Marzo de 2020
+143,Flujo neto originado por actividades de la operación,,,,,,,,,,,,,,Marzo de 2020
+144,51.11.00 Comisiones recaudadas (pagadas) por intermediación de productos,0,427026,39157,13538,0,8585,39705,,36548,739477,2180,15522,,Marzo de 2020
+145,51.12.00 Ingreso (egreso) neto por cuenta de clientes,0,0,,,,,89094,61422,0,0,,,142,Marzo de 2020
+146,51.13.00 Ingreso (egreso) neto por instrumentos a valor razonable del mercado de productos,0,0,-2103927,,,-283332,,,0,0,,,,Marzo de 2020
+147,51.14.00 Ingreso (egreso) neto por instrumentos derivados del mercado de productos,,0,,,,,,,0,0,,,,Marzo de 2020
+148,51.15.00 Ingreso (egreso) neto por instrumentos a costo amortizado del mercado de productos,,0,-632092,,,,,,0,-539007,,,,Marzo de 2020
+149,51.16.00 Ingreso (egreso) neto por asesorías y custodia,0,0,,,,0,,,0,0,16172,85194,-11451,Marzo de 2020
+150,51.17.00 Gastos de administración y comercialización pagados,-13088,-95323,,-38332,-11733,-10661,-71114,-28083,-132378,-42184,-12615,-14235,-34070,Marzo de 2020
+151,51.18.00 Impuestos pagados,-25,0,,-3365,-5933,-301,,-17306,-28543,0,-117,,-4206,Marzo de 2020
+152,51.19.00 Otros ingresos (egresos) netos por actividades de la operación,,0,767827,-505593,51069,-199356,12295,,-4100872,,,-568455,,Marzo de 2020
+153,51.10.00 Flujo neto originado por actividades de la operación,-13113,331703,-1929035,-533752,33403,-485065,69980,16033,-4225245,158286,5620,-481974,-49585,Marzo de 2020
+154,Flujo neto originado por actividades de financiamiento,,,,,,,,,,,,,,Marzo de 2020
+155,52.11.00 Ingreso (egreso) neto por pasivos del mercado de productos,,,,,,,,-5280,,0,,,,Marzo de 2020
+156,52.12.00 Ingreso (egreso) neto por pasivos financieros del mercado de valores,,,,,,,,,,0,,,,Marzo de 2020
+157,52.13.00 Ingreso (egreso) neto por financiamiento de partes relacionadas,0,0,1928000,,-35000,,,,376113,204500,,,,Marzo de 2020
+158,52.14.00 Aumentos de capital,,,,,,,,,,0,,,,Marzo de 2020
+159,52.15.00 Reparto de utilidades y de capital,,,,,,,,,0,0,,,,Marzo de 2020
+160,52.16.00 Otros ingresos (egresos) netos por actividades de financiamiento,0,-14817,,,,,,-2079,,0,,,,Marzo de 2020
+161,52.10.00 Flujo neto originado por actividades de financiamiento,0,-14817,1928000,0,-35000,0,0,-7359,376113,204500,0,0,0,Marzo de 2020
+162,Flujo neto originado por actividades de inversión,,,,,,,,,,,,,,Marzo de 2020
+163,53.11.00 Ingreso (egreso) neto por instrumentos financieros a valor razonable del mercado de valores,,0,,108,,,,,3791819,0,190,,,Marzo de 2020
+164,53.12.00 Ingreso (egreso) neto por instrumentos financieros derivados del mercado de valores,,0,,,,,,,,0,,,,Marzo de 2020
+165,53.13.00 Ingreso (egreso) neto por instrumentos financieros a costo amortizado del mercado de valores,,0,,,,,,,0,0,,,1072488,Marzo de 2020
+166,"53.14.00 Ingresos por ventas de propiedades, planta y equipo",,0,,,,,,,,0,,,,Marzo de 2020
+167,53.15.00 Ingresos por ventas de inversiones en sociedades,,0,,,,,,,,0,,,,Marzo de 2020
+168,53.16.00 Dividendos y otros ingresos percibidos de inversiones en sociedades,,0,,,0,,,,,0,,,,Marzo de 2020
+169,"53.17.00 Incorporación de propiedades, planta y equipo",,0,-1043,,,,,-1398,,0,,,,Marzo de 2020
+170,53.18.00 Inversiones en sociedades,0,0,,,,,,,,0,,,,Marzo de 2020
+171,53.19.00 Otros ingresos (egresos) netos de inversión,1305,-360944,,,,192130,,-3896,,437,,,,Marzo de 2020
+172,53.10.00 Flujo neto originado por actividades de inversión,1305,-360944,-1043,108,0,192130,0,-5294,3791819,437,190,0,1072488,Marzo de 2020
+173,50.10.00 Flujo neto total positivo (negativo) del período,-11808,-44058,-2078,-533644,-1597,-292935,69980,3380,-57313,363223,5810,-481974,1022903,Marzo de 2020
+174,50.20.00 Efecto de la variación por tipo de cambio sobre el efectivo y efectivo equivalente,,,,,,,,,,,,,,Marzo de 2020
+175,50.30.00 Variación neta del efectivo y efectivo equivalente,-11808,-44058,-2078,-533644,-1597,-292935,69980,3380,-57313,363223,5810,-481974,1022903,Marzo de 2020
+176,50.40.00 Saldo inicial de efetivo y efectivo equivalente,267411,146927,4736,1188079,25386,310761,229328,251338,64255,105610,139658,743994,43932,Marzo de 2020
+177,50.00.00 Saldo final de efectivo y efectivo equivalente,255603,102869,2658,654435,23789,17826,299308,254718,6942,468833,145468,262020,1066835,Marzo de 2020

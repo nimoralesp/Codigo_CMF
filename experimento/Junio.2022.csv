@@ -1,0 +1,178 @@
+Unnamed: 0,Cuentas,AVLA 06 / 2022,BAN TATTERSALL 06 / 2022,BCI 06 / 2022,CONTEMPORA 06 / 2022,DANK 06 / 2022,ECR OSORNO 06 / 2022,ELOY 06 / 2022,FINMAS 06 / 2022,LARRAIN VIAL 06 / 2022,LATAM TRADE CAPITAL 06 / 2022,MOONK 06 / 2022,NUEVO CAPITAL 06 / 2022,TANNER 06 / 2022,Fecha
+1,RUT,76.268.236-2,76.977.670-2,76.466.468-K,76.686.240-3,76.249.106-0,76.030.732-7,76.389.487-8,76.609.787-1,99.587.310-9,76.148.647-0,76.727.442-4,76.899.853-1,76.313.350-8,Junio de 2022
+2,Razón social,AVLA,BAN TATTERSALL,BCI,CONTEMPORA,DANK,ECR OSORNO,ELOY,FINMAS,LARRAIN VIAL,LATAM TRADE CAPITAL,MOONK,NUEVO CAPITAL,TANNER,Junio de 2022
+3,,,,,,,,,,,,,,,Junio de 2022
+4,Estado de situación financiera,,,,,,,,,,,,,,Junio de 2022
+5,Activos,,,,,,,,,,,,,,Junio de 2022
+6,11.01.00 Efectivo y efectivo equivalente,466581,292911,513231,735436,5202,11595,203908,260442,733083,12277,140732,961449,30016,Junio de 2022
+7,11.02.00 Instrumentos financieros,0,0,0,0,151310,0,0,0,0,0,0,0,0,Junio de 2022
+8,11.02.10 A valor razonable - Cartera propia disponible,0,0,0,0,151310,0,0,0,0,0,0,0,0,Junio de 2022
+9,11.02.11 Renta variable (IRV),,0,,0,151310,,,0,0,,,,,Junio de 2022
+10,11.02.12 Renta fija e Intermediación Financiera (IRF e IIF),,0,,,,,,0,,0,,,,Junio de 2022
+11,11.02.20 A valor razonable - Cartera propia comprometida,0,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2022
+12,11.02.21 Renta variable,,0,,,,,,0,,0,,,,Junio de 2022
+13,11.02.22 Renta fija e Intermediación Financiera,,0,,,,,,0,,0,,,,Junio de 2022
+14,11.02.30 A valor razonable - Instrumentos financieros derivados,,0,,,,,,0,,0,,,,Junio de 2022
+15,11.02.40 A costo amortizado - Cartera propia disponible,,0,,,,,,0,,0,,,,Junio de 2022
+16,11.02.50 A costo amortizado - Cartera propia comprometida,,0,,,,,,0,,0,,,,Junio de 2022
+17,11.02.60 A costo amortizado - Operaciones de financiamiento,0,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2022
+18,11.02.61 Operaciones de compra con retroventa sobre IRV,,0,,,,,,0,,0,,,,Junio de 2022
+19,11.02.62 Operaciones de compra con retroventa sobre IRF e IIF,,0,,,,,,0,,0,,,,Junio de 2022
+20,11.02.63 Otras,,0,,,,,,0,,0,,,,Junio de 2022
+21,11.03.00 Productos,0,1267605,16307392,0,0,258358,0,0,0,714389,0,0,0,Junio de 2022
+22,11.03.10 A valor razonable - Cartera propia disponible,0,1267605,16168611,0,0,258358,0,0,0,0,0,0,0,Junio de 2022
+23,11.03.11 Productos agropecuarios,,0,,,,,,,,0,,,,Junio de 2022
+24,11.03.12 Títulos representativos de productos agropecuarios (TRP),,0,,,,,,,,0,,,,Junio de 2022
+25,11.03.13 Facturas,,1267605,16168611,,,258358,,,0,0,,,,Junio de 2022
+26,11.03.14 Títulos representativos de facturas (TRF),,0,,,,,,,,0,,,,Junio de 2022
+27,11.03.15 Otros,,0,,,,,,,,0,,,,Junio de 2022
+28,11.03.20 A valor razonable - Cartera propia comprometida,0,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2022
+29,11.03.21 Productos agropecuarios,,0,,,,,,,,0,,,,Junio de 2022
+30,11.03.22 Títulos representativos de productos agropecuarios,,0,,,,,,,,0,,,,Junio de 2022
+31,11.03.23 Otros,,0,,,,,,,,0,,,,Junio de 2022
+32,11.03.30 A valor razonable - Instrumentos derivados,,0,,,,,,,,0,,,,Junio de 2022
+33,11.03.40 A costo amortizado - Cartera propia disponible,0,0,0,0,0,0,0,0,0,714389,0,0,0,Junio de 2022
+34,11.03.41 Facturas,,0,0,,,,,,,714389,,,,Junio de 2022
+35,11.03.42 Títulos representativos de facturas,,0,,,,,,,,0,,,,Junio de 2022
+36,11.03.43 Otros,,0,,,,,,,,0,,,,Junio de 2022
+37,11.03.50 A costo amortizado - Cartera propia comprometida,,0,,,,,,,,0,,,,Junio de 2022
+38,11.03.60 A costo amortizado - Operaciones de financiamiento,0,0,138781,0,0,0,0,0,0,0,0,0,0,Junio de 2022
+39,11.03.61 Operaciones de compra con retroventa sobre productos agropecuarios,,0,,,,,,,,0,,,,Junio de 2022
+40,11.03.62 Operaciones de compra con retroventa sobre TRP,,0,138781,,,,,,,0,,,,Junio de 2022
+41,11.03.63 Otras,,0,,,,,,0,,0,,,,Junio de 2022
+42,11.04.00 Deudores por intermediación,,0,,0,,,,0,,0,,1916104,,Junio de 2022
+43,11.05.00 Cuentas por cobrar por operaciones de cartera propia,,0,,,,,,,,0,,,,Junio de 2022
+44,11.06.00 Cuentas por cobrar a partes relacionadas,16847,429841,173622,15594,53623,,,10320,0,0,,,603051,Junio de 2022
+45,11.07.00 Otras cuentas por cobrar,,16013,1601,0,,57,,2774,337329,0,,,1231,Junio de 2022
+46,11.08.00 Impuestos por cobrar,15510,3760,55925,,7378,8192,26777,964,12046,6603,24146,16895,,Junio de 2022
+47,11.09.00 Impuestos diferidos,34791,130755,277504,132049,47750,25476,,14366,418317,68187,39143,10008,65630,Junio de 2022
+48,11.10.00 Inversiones en sociedades,30024,178079,,201741,29408,178252,31602,,178079,0,,50880,154866,Junio de 2022
+49,11.11.00 Intangibles,,2752,0,0,,,1688,53015,0,33705,50652,40884,,Junio de 2022
+50,"11.12.00 Propiedades, planta y equipo",,678,3367,537,,,12400,2686,0,0,,,,Junio de 2022
+51,11.13.00 Otros activos,2731,781749,0,,,,,6089,0,3200,2723,1513,619,Junio de 2022
+52,10.00.00 Total Activos,566484,3104143,17332642,1085357,294671,481930,276375,350656,1678854,838361,257396,2997733,855413,Junio de 2022
+53,Pasivos y Patrimonio,,,,,,,,,,,,,,Junio de 2022
+54,Pasivos,,,,,,,,,,,,,,Junio de 2022
+55,21.01.00 Pasivos financieros,0,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2022
+56,21.01.10 A valor razonable,,0,,,,,,,,0,,,,Junio de 2022
+57,21.01.20 A valor razonable - Instrumentos financieros derivados,,0,,,,,,,,0,,,,Junio de 2022
+58,21.01.30 Obligaciones por financiamiento,0,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2022
+59,21.01.31 Operaciones de venta con retrocompra sobre IRV,,0,,,,,,,,0,,,,Junio de 2022
+60,21.01.32 Operaciones de venta con retrocompra sobre IRF e IIF,,0,,,,,,,,0,,,,Junio de 2022
+61,21.01.33 Otras,,0,,,,,,,,0,,,,Junio de 2022
+62,21.02.00 Pasivos del mercado de productos,0,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2022
+63,21.02.10 A valor razonable,,0,,,,,,,,0,,,,Junio de 2022
+64,21.02.20 A valor razonable - Instrumentos derivados,,0,,,,,,,,0,,,,Junio de 2022
+65,21.02.30 Obligaciones por financiamiento,0,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2022
+66,21.02.31 Operaciones de venta con retrocompra sobre productos agropecuarios,,0,,,,,,,,0,,,,Junio de 2022
+67,21.02.32 Operaciones de venta con retrocompra sobre TRP,,0,,,,,,,0,0,,,,Junio de 2022
+68,21.02.33 Otras,,0,,,,,,,,0,,,,Junio de 2022
+69,21.03.00 Obligaciones con bancos e instituciones financieras,,1387946,,,,,101323,0,,0,,,,Junio de 2022
+70,21.04.00 Acreedores por intermediación,,0,,0,,,,38408,,0,,2352520,,Junio de 2022
+71,21.05.00 Cuentas por pagar por operaciones de cartera propia,,0,87636,,,,,0,,0,,,,Junio de 2022
+72,21.06.00 Cuentas por pagar a partes relacionadas,266088,230,15988261,0,,,,3866,0,62819,,,,Junio de 2022
+73,21.07.00 Otras cuentas por pagar,17974,129523,17050,369172,4513,155,24100,30263,823634,109796,4367,20974,31415,Junio de 2022
+74,21.08.00 Provisiones,,10690,72485,8306,,3948,,3532,35111,6065,,28321,10276,Junio de 2022
+75,21.09.00 Impuestos por pagar,,0,,3072,,,576,3156,1446,61,18,29749,3457,Junio de 2022
+76,21.10.00 Impuestos diferidos,,743,,,,,,,,0,,,,Junio de 2022
+77,21.11.00 Otros pasivos,,21664,,,,,,,,0,,,,Junio de 2022
+78,21.00.00 Total Pasivos,284062,1550796,16165432,380550,4513,4103,125999,79225,860191,178741,4385,2431564,45148,Junio de 2022
+79,Patrimonio,,,,,,,,,,,,,,Junio de 2022
+80,22.01.00 Capital,311661,433711,1290423,720453,389572,387118,214000,358728,701188,484476,353000,480000,902046,Junio de 2022
+81,22.02.00 Reservas,,0,0,-18865,,1078,7050,0,20978,0,,,-21597,Junio de 2022
+82,22.03.00 Resultados acumulados,-41901,1062599,-173591,-12317,-86787,64544,-59919,-120707,156730,177059,-80683,92541,-142115,Junio de 2022
+83,22.04.00 Resultado del ejercicio,12662,57037,125473,15536,-12627,25087,-10755,33410,-60233,-1915,-19306,92169,71931,Junio de 2022
+84,22.05.00 Dividendos provisorios o participaciones,,0,-75095,,,,,0,,0,,-98541,,Junio de 2022
+85,22.00.00 Total Patrimonio,282422,1553347,1167210,704807,290158,477827,150376,271431,818663,659620,253011,566169,810265,Junio de 2022
+86,20.00.00 TOTAL PAC.M.F Y PATRIMONIO,566484,3104143,17332642,1085357,294671,481930,276375,350656,1678854,838361,257396,2997733,855413,Junio de 2022
+87,,,,,,,,,,,,,,,Junio de 2022
+88,Estado de resultados integrales,,,,,,,,,,,,,,Junio de 2022
+89,Estado de resultados,,,,,,,,,,,,,,Junio de 2022
+90,Resultado por intermediación,,,,,,,,,,,,,,Junio de 2022
+91,30.10.01 Comisiones por operaciones bursátiles,20514,36780,85514,27168,,6552,,158050,51548,34905,2198,2126,,Junio de 2022
+92,30.10.02 Comisiones por operaciones extra bursátiles,,0,,,,,,0,,0,,,,Junio de 2022
+93,30.10.03 Gastos por comisiones y servicios,-10910,-22707,-6584,-15156,-20881,-15575,,-44920,-9931,-4412,,-93404,-14905,Junio de 2022
+94,30.10.04 Otras comisiones,,34570,11763,,,,,1791,,0,,265603,,Junio de 2022
+95,30.10.00 Total resultado por intermediación,9604,48643,90693,12012,-20881,-9023,0,114921,41617,30493,2198,174325,-14905,Junio de 2022
+96,Ingresos por servicios,,,,,,,,,,,,,,Junio de 2022
+97,30.20.01 Ingresos por custodia,,0,,,,,,0,,0,,,,Junio de 2022
+98,30.20.02 Ingresos por asesorías,,0,,,,9000,,,0,0,,,,Junio de 2022
+99,30.20.03 Otros ingresos por servicios,,0,,,,,,,,0,,,98648,Junio de 2022
+100,30.20.00 Total ingresos por servicios,0,0,0,0,0,9000,0,0,0,0,0,0,98648,Junio de 2022
+101,Resultado por productos,,,,,,,,,,,,,,Junio de 2022
+102,30.30.01 A valor razonable,,100534,449840,,,5912,,,18942,0,,,,Junio de 2022
+103,30.30.02 A valor razonable - Instrumentos derivados,,0,,,,,,,,0,,,,Junio de 2022
+104,30.30.03 A costo amortizado,,0,299287,,,,,,,37039,,,,Junio de 2022
+105,30.30.04 A costo amortizado - Operaciones de financiamiento,,0,,,,,,,,0,,,,Junio de 2022
+106,30.30.00 Total resultado por productos,0,100534,749127,0,0,5912,0,0,18942,37039,0,0,0,Junio de 2022
+107,Resultado por instrumentos financieros,,,,,,,,,,,,,,Junio de 2022
+108,30.40.01 A valor razonable,6459,0,,1615,7087,,,,6942,0,3275,,,Junio de 2022
+109,30.40.02 A valor razonable - Instrumentos financieros derivados,,0,,,,,,,0,0,,,,Junio de 2022
+110,30.40.03 A costo amortizado,,0,,,,,,,,0,,9156,,Junio de 2022
+111,30.40.04 A costo amortizado - Operaciones de financiamiento,,0,,,,,,,,0,,,,Junio de 2022
+112,30.40.00 Total resultado por instrumentos financieros,6459,0,0,1615,7087,0,0,0,6942,0,3275,9156,0,Junio de 2022
+113,Resultado por operaciones de financiamiento,,,,,,,,,,,,,,Junio de 2022
+114,30.50.01 Gastos por financiamiento del mercado de productos,,0,,,,,,,,0,,-39647,,Junio de 2022
+115,30.50.02 Gastos por financiamiento del mercado de valores,,0,,,,,,,,0,,,,Junio de 2022
+116,30.50.03 Otros gastos financieros,,-57886,-490394,,,,,-3923,-1662,0,,-39663,,Junio de 2022
+117,30.50.00 Total resultado por operaciones de financiamiento,0,-57886,-490394,0,0,0,0,-3923,-1662,0,0,-79310,0,Junio de 2022
+118,Gastos de administración y comercialización,,,,,,,,,,,,,,Junio de 2022
+119,30.60.01 Remuneraciones y gastos de personal,,-67967,-146921,-19867,-14111,-4138,-11106,-36020,-82456,-25579,,,,Junio de 2022
+120,30.60.02 Gastos de comercialización,,0,-32445,,,0,,0,-135450,0,,,,Junio de 2022
+121,30.60.03 Otros gastos de administración,-12517,-41217,-65275,-30017,-911,-2794,,-38373,,-44583,-26036,,-11854,Junio de 2022
+122,30.60.00 Total gastos de administración y comercialización,-12517,-109184,-244641,-49884,-15022,-6932,-11106,-74393,-217906,-70162,-26036,0,-11854,Junio de 2022
+123,Otros resultados,,,,,,,,,,,,,,Junio de 2022
+124,30.70.01 Reajuste y diferencia de cambio,890,201,5162,226,,,351,910,2334,715,,,42,Junio de 2022
+125,30.70.02 Resultado de inversiones en sociedades,3921,23256,0,23279,3840,23122,,0,15953,0,,6645,,Junio de 2022
+126,30.70.03 Otros ingresos (gastos),,22743,15173,627,58,3012,,0,3581,0,1257,,,Junio de 2022
+127,30.70.00 Total otros resultados,4811,46200,20335,24132,3898,26134,351,910,21868,715,1257,6645,42,Junio de 2022
+128,30.80.00 Resultado antes de impuesto a la renta,8357,28307,125120,-12125,-24918,25091,-10755,37515,-130199,-1915,-19306,110816,71931,Junio de 2022
+129,30.90.00 Impuesto a la renta,4305,28730,353,27661,12291,-4,,-4105,69966,0,,-18647,,Junio de 2022
+130,30.00.00 Utilidad (pérdida) del ejercicio,12662,57037,125473,15536,-12627,25087,-10755,33410,-60233,-1915,-19306,92169,71931,Junio de 2022
+131,Estado de otros resultados integrales,,,,,,,,,,,,,,Junio de 2022
+132,30.00.00 Utilidad (pérdida) del ejercicio,12662,57037,125473,15536,-12627,25087,-10755,33410,-60233,-1915,-19306,92169,71931,Junio de 2022
+133,Ingresos (gastos) registrados con abono (cargo) a patrimonio,,,,,,,,,,,,,,Junio de 2022
+134,"31.10.00 Revalorización de propiedades, planta y equipo",,0,,,,,,,,0,,,,Junio de 2022
+135,31.20.00 Activos financieros a valor razonable por patrimonio,,0,,,,,4133,,,0,,,,Junio de 2022
+136,31.30.00 Participación de otros resultados integrales de inversiones en sociedades,,0,,,,,,,7303,0,,,,Junio de 2022
+137,31.40.00 Otros ingresos (gastos) registrados con abono (cargo) a patrimonio,,0,996,,,,,,,0,,,,Junio de 2022
+138,31.50.00 Impuesto a la renta de otros resultados integrales,,0,,,,,,,,0,,,,Junio de 2022
+139,31.00.00 Total ingresos (gastos) registrados con abono (cargo) a patrimonio,0,0,996,0,0,0,4133,0,7303,0,0,0,0,Junio de 2022
+140,32.00.00 Total resultados integrales reconocidos del ejercicio,12662,57037,126469,15536,-12627,25087,-6622,33410,-52930,-1915,-19306,92169,71931,Junio de 2022
+141,,,,,,,,,,,,,,,Junio de 2022
+142,Estados de Flujos de efectivo - Método directo,,,,,,,,,,,,,,Junio de 2022
+143,Flujo neto originado por actividades de la operación,,,,,,,,,,,,,,Junio de 2022
+144,51.11.00 Comisiones recaudadas (pagadas) por intermediación de productos,1568,57885,79384,11886,,6552,,22679,39307,-295424,2616,172343,,Junio de 2022
+145,51.12.00 Ingreso (egreso) neto por cuenta de clientes,,0,,0,,,,0,0,0,,,,Junio de 2022
+146,51.13.00 Ingreso (egreso) neto por instrumentos a valor razonable del mercado de productos,,100437,-1825809,,,-291205,,0,0,0,,,,Junio de 2022
+147,51.14.00 Ingreso (egreso) neto por instrumentos derivados del mercado de productos,,0,,,,,,0,0,0,,,,Junio de 2022
+148,51.15.00 Ingreso (egreso) neto por instrumentos a costo amortizado del mercado de productos,,0,-138781,,,,,0,0,-51419,,,,Junio de 2022
+149,51.16.00 Ingreso (egreso) neto por asesorías y custodia,,0,,,,10500,,0,0,0,,,-14905,Junio de 2022
+150,51.17.00 Gastos de administración y comercialización pagados,-18866,-84947,,-42508,-18093,-25244,,-65327,-212246,-80902,-31570,-39663,-10185,Junio de 2022
+151,51.18.00 Impuestos pagados,,0,,-228,,-153,,-472,-2009,-1078,-24,,,Junio de 2022
+152,51.19.00 Otros ingresos (egresos) netos por actividades de la operación,,0,-9361726,115295,,279928,1820,0,-869699,1638,,68596,54287,Junio de 2022
+153,51.10.00 Flujo neto originado por actividades de la operación,-17298,73375,-11246932,84445,-18093,-19622,1820,-43120,-1044647,-427185,-28978,201276,29197,Junio de 2022
+154,Flujo neto originado por actividades de financiamiento,,,,,,,,,,,,,,Junio de 2022
+155,52.11.00 Ingreso (egreso) neto por pasivos del mercado de productos,,0,,,,,,101996,,0,,,,Junio de 2022
+156,52.12.00 Ingreso (egreso) neto por pasivos financieros del mercado de valores,,0,,,,,,,,0,,,,Junio de 2022
+157,52.13.00 Ingreso (egreso) neto por financiamiento de partes relacionadas,-214872,-421000,11759490,,9000,,,0,0,20000,,,,Junio de 2022
+158,52.14.00 Aumentos de capital,,0,,,,,,,0,0,10000,,,Junio de 2022
+159,52.15.00 Reparto de utilidades y de capital,,0,,,,,,,0,0,,-98541,,Junio de 2022
+160,52.16.00 Otros ingresos (egresos) netos por actividades de financiamiento,,-15980,,,,,,-100,,0,,,,Junio de 2022
+161,52.10.00 Flujo neto originado por actividades de financiamiento,-214872,-436980,11759490,0,9000,0,0,101896,0,20000,10000,-98541,0,Junio de 2022
+162,Flujo neto originado por actividades de inversión,,,,,,,,,,,,,,Junio de 2022
+163,53.11.00 Ingreso (egreso) neto por instrumentos financieros a valor razonable del mercado de valores,,0,,1741,,,,,1107147,0,3275,,,Junio de 2022
+164,53.12.00 Ingreso (egreso) neto por instrumentos financieros derivados del mercado de valores,,0,,,,,,,,0,,,,Junio de 2022
+165,53.13.00 Ingreso (egreso) neto por instrumentos financieros a costo amortizado del mercado de valores,,0,,,,,,,0,0,,,,Junio de 2022
+166,"53.14.00 Ingresos por ventas de propiedades, planta y equipo",,0,,,,,,,,0,,,,Junio de 2022
+167,53.15.00 Ingresos por ventas de inversiones en sociedades,,0,,,,,,,,0,,,,Junio de 2022
+168,53.16.00 Dividendos y otros ingresos percibidos de inversiones en sociedades,,0,,,,,,,,0,,,,Junio de 2022
+169,"53.17.00 Incorporación de propiedades, planta y equipo",,0,-2807,,,,,0,,0,,,,Junio de 2022
+170,53.18.00 Inversiones en sociedades,,0,,0,,,,,,0,,,,Junio de 2022
+171,53.19.00 Otros ingresos (egresos) netos de inversión,6459,258398,,,,404,,12743,,0,,9156,,Junio de 2022
+172,53.10.00 Flujo neto originado por actividades de inversión,6459,258398,-2807,1741,0,404,0,12743,1107147,0,3275,9156,0,Junio de 2022
+173,50.10.00 Flujo neto total positivo (negativo) del período,-225711,-105207,509751,86186,-9093,-19218,1820,71519,62500,-407185,-15703,111891,29197,Junio de 2022
+174,50.20.00 Efecto de la variación por tipo de cambio sobre el efectivo y efectivo equivalente,,,,,,,,,3092,,,,,Junio de 2022
+175,50.30.00 Variación neta del efectivo y efectivo equivalente,-225711,-105207,509751,86186,-9093,-19218,1820,71519,65592,-407185,-15703,111891,29197,Junio de 2022
+176,50.40.00 Saldo inicial de efetivo y efectivo equivalente,692292,398118,3480,649250,14295,30813,202088,188923,667491,419462,156435,849558,819,Junio de 2022
+177,50.00.00 Saldo final de efectivo y efectivo equivalente,466581,292911,513231,735436,5202,11595,203908,260442,733083,12277,140732,961449,30016,Junio de 2022

@@ -1,0 +1,178 @@
+Unnamed: 0,Cuentas,ADDWISE 09 / 2018,AVLA 09 / 2018,BAN TATTERSALL 09 / 2018,BCI 09 / 2018,CONTEMPORA 09 / 2018,DANK 09 / 2018,ECR OSORNO 09 / 2018,ELOY 09 / 2018,FINMAS 09 / 2018,LARRAIN VIAL 09 / 2018,LATAM TRADE CAPITAL 09 / 2018,MOONK 09 / 2018,TANNER 09 / 2018,Fecha
+1,RUT,76.147.513-4,76.268.236-2,76.977.670-2,76.466.468-K,76.686.240-3,76.249.106-0,76.030.732-7,76.389.487-8,76.609.787-1,99.587.310-9,76.148.647-0,76.727.442-4,76.313.350-8,Septiembre de 2018
+2,Razón social,ADDWISE,AVLA,BAN TATTERSALL,BCI,CONTEMPORA,DANK,ECR OSORNO,ELOY,FINMAS,LARRAIN VIAL,LATAM TRADE CAPITAL,MOONK,TANNER,Septiembre de 2018
+3,,,,,,,,,,,,,,,Septiembre de 2018
+4,Estado de situación financiera,,,,,,,,,,,,,,Septiembre de 2018
+5,Activos,,,,,,,,,,,,,,Septiembre de 2018
+6,11.01.00 Efectivo y efectivo equivalente,167294,265662,402111,88062,524199,11278,19679,355961,186838,40556,155604,392491,32602,Septiembre de 2018
+7,11.02.00 Instrumentos financieros,,0,0,421879,0,0,0,0,0,570000,0,0,480121,Septiembre de 2018
+8,11.02.10 A valor razonable - Cartera propia disponible,,0,0,421879,0,0,0,0,0,570000,0,0,480121,Septiembre de 2018
+9,11.02.11 Renta variable (IRV),,,,,0,,,,,570000,,,,Septiembre de 2018
+10,11.02.12 Renta fija e Intermediación Financiera (IRF e IIF),,,,421879,,,,,,,0,,480121,Septiembre de 2018
+11,11.02.20 A valor razonable - Cartera propia comprometida,,0,0,0,0,0,0,0,0,0,0,0,0,Septiembre de 2018
+12,11.02.21 Renta variable,,,,,,,,,,,0,,,Septiembre de 2018
+13,11.02.22 Renta fija e Intermediación Financiera,,,,,,,,,,,0,,,Septiembre de 2018
+14,11.02.30 A valor razonable - Instrumentos financieros derivados,,,,,,,,,,,0,,,Septiembre de 2018
+15,11.02.40 A costo amortizado - Cartera propia disponible,,,,,,,,,,,0,,,Septiembre de 2018
+16,11.02.50 A costo amortizado - Cartera propia comprometida,,,,,,,,,,,0,,,Septiembre de 2018
+17,11.02.60 A costo amortizado - Operaciones de financiamiento,,0,0,0,0,0,0,0,0,0,0,0,0,Septiembre de 2018
+18,11.02.61 Operaciones de compra con retroventa sobre IRV,,,,,,,,,,,0,,,Septiembre de 2018
+19,11.02.62 Operaciones de compra con retroventa sobre IRF e IIF,,,,,,,,,,,0,,,Septiembre de 2018
+20,11.02.63 Otras,,,,,,,,,,,0,,,Septiembre de 2018
+21,11.03.00 Productos,,0,591827,8830599,0,0,250512,0,0,937001,567050,0,568615,Septiembre de 2018
+22,11.03.10 A valor razonable - Cartera propia disponible,,0,591827,8358077,0,0,250512,0,0,937001,0,0,0,Septiembre de 2018
+23,11.03.11 Productos agropecuarios,,,,,,,,,,,0,,,Septiembre de 2018
+24,11.03.12 Títulos representativos de productos agropecuarios (TRP),,,591827,,,,,,,,0,,,Septiembre de 2018
+25,11.03.13 Facturas,,,0,8358077,,,250512,,,937001,0,,,Septiembre de 2018
+26,11.03.14 Títulos representativos de facturas (TRF),,,,,,,,,,,0,,,Septiembre de 2018
+27,11.03.15 Otros,,,,,,,,,,,0,,,Septiembre de 2018
+28,11.03.20 A valor razonable - Cartera propia comprometida,,0,0,0,0,0,0,0,0,0,0,0,0,Septiembre de 2018
+29,11.03.21 Productos agropecuarios,,,,,,,,,,,0,,,Septiembre de 2018
+30,11.03.22 Títulos representativos de productos agropecuarios,,,,,,,,,,,0,,,Septiembre de 2018
+31,11.03.23 Otros,,,,,,,,,,,0,,,Septiembre de 2018
+32,11.03.30 A valor razonable - Instrumentos derivados,,,,,,,,,,,0,,,Septiembre de 2018
+33,11.03.40 A costo amortizado - Cartera propia disponible,,0,0,23570,0,0,0,0,0,0,567050,0,568615,Septiembre de 2018
+34,11.03.41 Facturas,,,,23570,,,,,,,567050,,568615,Septiembre de 2018
+35,11.03.42 Títulos representativos de facturas,,,,,,,,,,,0,,,Septiembre de 2018
+36,11.03.43 Otros,,,,,,,,,,,0,,,Septiembre de 2018
+37,11.03.50 A costo amortizado - Cartera propia comprometida,,,,,,,,,,,0,,,Septiembre de 2018
+38,11.03.60 A costo amortizado - Operaciones de financiamiento,,0,0,448952,0,0,0,0,0,0,0,0,0,Septiembre de 2018
+39,11.03.61 Operaciones de compra con retroventa sobre productos agropecuarios,,,,,,,,,,,0,,,Septiembre de 2018
+40,11.03.62 Operaciones de compra con retroventa sobre TRP,,,,448952,,,,,,0,0,,,Septiembre de 2018
+41,11.03.63 Otras,,,,,,,,,,,0,,,Septiembre de 2018
+42,11.04.00 Deudores por intermediación,,,,24,0,,,581647,671476,0,0,,49674,Septiembre de 2018
+43,11.05.00 Cuentas por cobrar por operaciones de cartera propia,,,,,,,,,,,0,,,Septiembre de 2018
+44,11.06.00 Cuentas por cobrar a partes relacionadas,,,39139,11302,,0,,,33010,17272,0,,,Septiembre de 2018
+45,11.07.00 Otras cuentas por cobrar,3505,,375778,50277,13766,3733,9934,368,4147,87768,0,,,Septiembre de 2018
+46,11.08.00 Impuestos por cobrar,5936,8663,85347,,,678,1562,14072,2116,66748,12745,7258,48372,Septiembre de 2018
+47,11.09.00 Impuestos diferidos,2963,0,2442,23021,54593,38724,276,1267,29324,4218,9156,24110,44806,Septiembre de 2018
+48,11.10.00 Inversiones en sociedades,,25425,201218,,173439,24739,149951,26585,,149805,0,,153930,Septiembre de 2018
+49,11.11.00 Intangibles,8535,3645,13547,13107,0,,,5606,38985,,33705,51995,,Septiembre de 2018
+50,"11.12.00 Propiedades, planta y equipo",74,0,4973,1043,105,0,,4681,1019,,356,,70,Septiembre de 2018
+51,11.13.00 Otros activos,,2084,1571081,806,,200451,522,11298,2766,1670,12950,0,1811,Septiembre de 2018
+52,10.00.00 Total Activos,188307,305479,3287463,9440120,766102,279603,432436,1001485,969681,1875038,791566,475854,1380001,Septiembre de 2018
+53,Pasivos y Patrimonio,,,,,,,,,,,,,,Septiembre de 2018
+54,Pasivos,,,,,,,,,,,,,,Septiembre de 2018
+55,21.01.00 Pasivos financieros,,0,0,0,0,0,0,0,0,0,0,0,0,Septiembre de 2018
+56,21.01.10 A valor razonable,,,,,,,,,,,0,,,Septiembre de 2018
+57,21.01.20 A valor razonable - Instrumentos financieros derivados,,,,,,,,,,,0,,,Septiembre de 2018
+58,21.01.30 Obligaciones por financiamiento,,0,0,0,0,0,0,0,0,0,0,0,0,Septiembre de 2018
+59,21.01.31 Operaciones de venta con retrocompra sobre IRV,,,,,,,,,,,0,,,Septiembre de 2018
+60,21.01.32 Operaciones de venta con retrocompra sobre IRF e IIF,,,,,,,,,,,0,,,Septiembre de 2018
+61,21.01.33 Otras,,,,,,,,,,,0,,,Septiembre de 2018
+62,21.02.00 Pasivos del mercado de productos,,0,0,0,0,0,0,0,0,0,0,0,0,Septiembre de 2018
+63,21.02.10 A valor razonable,,,,,,,,,,,0,,,Septiembre de 2018
+64,21.02.20 A valor razonable - Instrumentos derivados,,,,,,,,,,,0,,,Septiembre de 2018
+65,21.02.30 Obligaciones por financiamiento,,0,0,0,0,0,0,0,0,0,0,0,0,Septiembre de 2018
+66,21.02.31 Operaciones de venta con retrocompra sobre productos agropecuarios,,,,,,,,,,,0,,,Septiembre de 2018
+67,21.02.32 Operaciones de venta con retrocompra sobre TRP,,,,,,,,,,0,0,,,Septiembre de 2018
+68,21.02.33 Otras,,,,,,,,,,,0,,,Septiembre de 2018
+69,21.03.00 Obligaciones con bancos e instituciones financieras,,,1359925,,,,,,,,0,,,Septiembre de 2018
+70,21.04.00 Acreedores por intermediación,,,,,0,0,,575887,695829,,48648,,,Septiembre de 2018
+71,21.05.00 Cuentas por pagar por operaciones de cartera propia,,,,439228,,,,,,,0,,,Septiembre de 2018
+72,21.06.00 Cuentas por pagar a partes relacionadas,,107289,130126,8223556,,63371,,,15121,,0,0,2550,Septiembre de 2018
+73,21.07.00 Otras cuentas por pagar,0,3429,228639,44868,96658,11241,354,188080,16517,621085,39748,2861,52701,Septiembre de 2018
+74,21.08.00 Provisiones,0,6566,14425,76018,7623,9513,3836,4692,,36921,1938,0,6987,Septiembre de 2018
+75,21.09.00 Impuestos por pagar,,0,16054,38224,3375,557,103,10815,3639,74893,22281,0,,Septiembre de 2018
+76,21.10.00 Impuestos diferidos,,984,0,,,,,,,,0,0,,Septiembre de 2018
+77,21.11.00 Otros pasivos,,0,132,,,,,,,,0,0,,Septiembre de 2018
+78,21.00.00 Total Pasivos,0,118268,1749301,8821894,107656,84682,4293,779474,731106,732899,112615,2861,62238,Septiembre de 2018
+79,Patrimonio,,,,,,,,,,,,,,Septiembre de 2018
+80,22.01.00 Capital,240000,206900,433711,460000,720453,319572,387118,214000,322996,701188,484476,523000,902046,Septiembre de 2018
+81,22.02.00 Reservas,,,149,242,-18865,0,4940,2032,,16464,,,-14481,Septiembre de 2018
+82,22.03.00 Resultados acumulados,-17546,1910,1099071,71521,-15547,-61233,30979,-27676,-62501,236677,148421,-7479,462011,Septiembre de 2018
+83,22.04.00 Resultado del ejercicio,-34147,-21599,5231,123519,-27595,-63418,5106,33655,-21920,187810,46054,-42528,-31813,Septiembre de 2018
+84,22.05.00 Dividendos provisorios o participaciones,,,,-37056,,,,,,,0,0,,Septiembre de 2018
+85,22.00.00 Total Patrimonio,188307,187211,1538162,618226,658446,194921,428143,222011,238575,1142139,678951,472993,1317763,Septiembre de 2018
+86,20.00.00 TOTAL PAC.M.F Y PATRIMONIO,188307,305479,3287463,9440120,766102,279603,432436,1001485,969681,1875038,791566,475854,1380001,Septiembre de 2018
+87,,,,,,,,,,,,,,,Septiembre de 2018
+88,Estado de resultados integrales,,,,,,,,,,,,,,Septiembre de 2018
+89,Estado de resultados,,,,,,,,,,,,,,Septiembre de 2018
+90,Resultado por intermediación,,,,,,,,,,,,,,Septiembre de 2018
+91,30.10.01 Comisiones por operaciones bursátiles,,15049,301854,204624,143260,102553,32795,309924,151622,307929,141990,,11164,Septiembre de 2018
+92,30.10.02 Comisiones por operaciones extra bursátiles,,,,,,,,,,,0,,,Septiembre de 2018
+93,30.10.03 Gastos por comisiones y servicios,-4719,-21479,-99124,,-38780,-79316,-20517,-31922,-45015,-70779,-41193,,-26755,Septiembre de 2018
+94,30.10.04 Otras comisiones,,0,19830,,,8071,,,,,35390,,,Septiembre de 2018
+95,30.10.00 Total resultado por intermediación,-4719,-6430,222560,204624,104480,31308,12278,278002,106607,237150,136187,0,-15591,Septiembre de 2018
+96,Ingresos por servicios,,,,,,,,,,,,,,Septiembre de 2018
+97,30.20.01 Ingresos por custodia,,,,,,,,,,,0,,,Septiembre de 2018
+98,30.20.02 Ingresos por asesorías,,,,,,18182,88548,,5803,174374,0,,,Septiembre de 2018
+99,30.20.03 Otros ingresos por servicios,,,,,,,,,,,0,,,Septiembre de 2018
+100,30.20.00 Total ingresos por servicios,0,0,0,0,0,18182,88548,0,5803,174374,0,0,0,Septiembre de 2018
+101,Resultado por productos,,,,,,,,,,,,,,Septiembre de 2018
+102,30.30.01 A valor razonable,,,123696,393780,,,8986,,,29908,0,6211,,Septiembre de 2018
+103,30.30.02 A valor razonable - Instrumentos derivados,,,,,,,,,,,0,,,Septiembre de 2018
+104,30.30.03 A costo amortizado,,,,,,,,,,,0,,85577,Septiembre de 2018
+105,30.30.04 A costo amortizado - Operaciones de financiamiento,,,,,,,,,,,0,,,Septiembre de 2018
+106,30.30.00 Total resultado por productos,,0,123696,393780,0,0,8986,0,0,29908,0,6211,85577,Septiembre de 2018
+107,Resultado por instrumentos financieros,,,,,,,,,,,,,,Septiembre de 2018
+108,30.40.01 A valor razonable,,6095,,,416,10382,,,,12356,0,,9579,Septiembre de 2018
+109,30.40.02 A valor razonable - Instrumentos financieros derivados,,,,,,,,,,,0,,,Septiembre de 2018
+110,30.40.03 A costo amortizado,,,,,,,,,,,0,,,Septiembre de 2018
+111,30.40.04 A costo amortizado - Operaciones de financiamiento,,,,,,,,,,,0,,,Septiembre de 2018
+112,30.40.00 Total resultado por instrumentos financieros,,6095,0,0,416,10382,0,0,0,12356,0,0,9579,Septiembre de 2018
+113,Resultado por operaciones de financiamiento,,,,,,,,,,,,,,Septiembre de 2018
+114,30.50.01 Gastos por financiamiento del mercado de productos,-20099,,,,,,,,,,0,,,Septiembre de 2018
+115,30.50.02 Gastos por financiamiento del mercado de valores,-82,,,,,,,,,,0,,,Septiembre de 2018
+116,30.50.03 Otros gastos financieros,-9247,,-82914,-135834,,0,,,-232,-7682,0,,,Septiembre de 2018
+117,30.50.00 Total resultado por operaciones de financiamiento,-29428,0,-82914,-135834,0,0,0,0,-232,-7682,0,0,0,Septiembre de 2018
+118,Gastos de administración y comercialización,,,,,,,,,,,,,,Septiembre de 2018
+119,30.60.01 Remuneraciones y gastos de personal,,0,-173041,-160991,-90726,-87598,-98972,-151980,-115252,-174377,-20484,-38975,-102130,Septiembre de 2018
+120,30.60.02 Gastos de comercialización,,0,,-52947,,,,,,-25803,0,,-171,Septiembre de 2018
+121,30.60.03 Otros gastos de administración,,-23135,-130821,-86737,-42995,-52668,-5654,-82294,-26954,,-58753,-31209,-34488,Septiembre de 2018
+122,30.60.00 Total gastos de administración y comercialización,,-23135,-303862,-300675,-133721,-140266,-104626,-234274,-142206,-200180,-79237,-70184,-136789,Septiembre de 2018
+123,Otros resultados,,,,,,,,,,,,,,Septiembre de 2018
+124,30.70.01 Reajuste y diferencia de cambio,,192,802,7499,,,,31,,,-1,96,266,Septiembre de 2018
+125,30.70.02 Resultado de inversiones en sociedades,,400,1001,0,563,93,563,,,562,0,,,Septiembre de 2018
+126,30.70.03 Otros ingresos (gastos),,623,45883,-4489,667,-7,413,-407,,3070,0,,,Septiembre de 2018
+127,30.70.00 Total otros resultados,,1215,47686,3010,1230,86,976,-376,0,3632,-1,96,266,Septiembre de 2018
+128,30.80.00 Resultado antes de impuesto a la renta,-34147,-22255,7166,164905,-27595,-80308,6162,43352,-30028,249558,56949,-63877,-56958,Septiembre de 2018
+129,30.90.00 Impuesto a la renta,,656,-1935,-41386,0,16890,-1056,-9697,8108,-61748,-10895,21349,25145,Septiembre de 2018
+130,30.00.00 Utilidad (pérdida) del ejercicio,-34147,-21599,5231,123519,-27595,-63418,5106,33655,-21920,187810,46054,-42528,-31813,Septiembre de 2018
+131,Estado de otros resultados integrales,,,,,,,,,,,,,,Septiembre de 2018
+132,30.00.00 Utilidad (pérdida) del ejercicio,-34147,-21599,5231,123519,-27595,-63418,5106,33655,-21920,187810,46054,-42528,-31813,Septiembre de 2018
+133,Ingresos (gastos) registrados con abono (cargo) a patrimonio,,,,,,,,,,,,,,Septiembre de 2018
+134,"31.10.00 Revalorización de propiedades, planta y equipo",,,,,,,,,,,0,,,Septiembre de 2018
+135,31.20.00 Activos financieros a valor razonable por patrimonio,,,,,,,,99,,,0,,,Septiembre de 2018
+136,31.30.00 Participación de otros resultados integrales de inversiones en sociedades,,,,,,,,,,,0,,,Septiembre de 2018
+137,31.40.00 Otros ingresos (gastos) registrados con abono (cargo) a patrimonio,,,,-451,,,,,,-1,0,,,Septiembre de 2018
+138,31.50.00 Impuesto a la renta de otros resultados integrales,,,,,,,,,,,0,,,Septiembre de 2018
+139,31.00.00 Total ingresos (gastos) registrados con abono (cargo) a patrimonio,,0,0,-451,0,0,0,99,0,-1,0,0,0,Septiembre de 2018
+140,32.00.00 Total resultados integrales reconocidos del ejercicio,-34147,-21599,5231,123068,-27595,-63418,5106,33754,-21920,187809,46054,-42528,-31813,Septiembre de 2018
+141,,,,,,,,,,,,,,,Septiembre de 2018
+142,Estados de Flujos de efectivo - Método directo,,,,,,,,,,,,,,Septiembre de 2018
+143,Flujo neto originado por actividades de la operación,,,,,,,,,,,,,,Septiembre de 2018
+144,51.11.00 Comisiones recaudadas (pagadas) por intermediación de productos,,30985,150683,204624,102364,46789,32795,309924,150012,0,279360,,-15591,Septiembre de 2018
+145,51.12.00 Ingreso (egreso) neto por cuenta de clientes,,0,1381519,,0,,0,77554,,460594,0,,43111,Septiembre de 2018
+146,51.13.00 Ingreso (egreso) neto por instrumentos a valor razonable del mercado de productos,,0,0,-30391,,,-98970,,,,0,,,Septiembre de 2018
+147,51.14.00 Ingreso (egreso) neto por instrumentos derivados del mercado de productos,,,0,,,,0,,,,0,,,Septiembre de 2018
+148,51.15.00 Ingreso (egreso) neto por instrumentos a costo amortizado del mercado de productos,,,195573,,,,0,,,,-90449,,13156,Septiembre de 2018
+149,51.16.00 Ingreso (egreso) neto por asesorías y custodia,,0,0,,,,78614,,5803,,0,,,Septiembre de 2018
+150,51.17.00 Gastos de administración y comercialización pagados,-28096,-42836,-585032,,-132184,-127359,-111081,-234274,-226811,-320077,-95071,-71803,-110990,Septiembre de 2018
+151,51.18.00 Impuestos pagados,,0,0,,-835,-2626,-3215,-8404,-24435,-122902,-39539,-1073,-12818,Septiembre de 2018
+152,51.19.00 Otros ingresos (egresos) netos por actividades de la operación,-289715,876,0,43193,61065,12211,-15224,-407,-1308,-966,,,,Septiembre de 2018
+153,51.10.00 Flujo neto originado por actividades de la operación,-317811,-10975,1142743,217426,30410,-70985,-117081,144393,-96739,16649,54301,-72876,-83132,Septiembre de 2018
+154,Flujo neto originado por actividades de financiamiento,,,,,,,,,,,,,,Septiembre de 2018
+155,52.11.00 Ingreso (egreso) neto por pasivos del mercado de productos,,,0,,,,,,97819,,0,,-536308,Septiembre de 2018
+156,52.12.00 Ingreso (egreso) neto por pasivos financieros del mercado de valores,,,0,,,,,,,,0,,,Septiembre de 2018
+157,52.13.00 Ingreso (egreso) neto por financiamiento de partes relacionadas,,0,-51000,-128547,,58613,,,,,0,-13681,,Septiembre de 2018
+158,52.14.00 Aumentos de capital,20000,26900,0,,,,,,,,0,100000,,Septiembre de 2018
+159,52.15.00 Reparto de utilidades y de capital,,,0,,,,,,,-158270,0,,,Septiembre de 2018
+160,52.16.00 Otros ingresos (egresos) netos por actividades de financiamiento,,99,-46711,,,,,,-232,,0,,,Septiembre de 2018
+161,52.10.00 Flujo neto originado por actividades de financiamiento,20000,26999,-97711,-128547,0,58613,0,0,97587,-158270,0,86319,-536308,Septiembre de 2018
+162,Flujo neto originado por actividades de inversión,,,,,,,,,,,,,,Septiembre de 2018
+163,53.11.00 Ingreso (egreso) neto por instrumentos financieros a valor razonable del mercado de valores,,,0,,2531,,,,,-557645,6,3212,413794,Septiembre de 2018
+164,53.12.00 Ingreso (egreso) neto por instrumentos financieros derivados del mercado de valores,,,0,,,,,,,,0,,,Septiembre de 2018
+165,53.13.00 Ingreso (egreso) neto por instrumentos financieros a costo amortizado del mercado de valores,,,0,,,,,,,256,0,,,Septiembre de 2018
+166,"53.14.00 Ingresos por ventas de propiedades, planta y equipo",,,0,,,,,,,,0,,,Septiembre de 2018
+167,53.15.00 Ingresos por ventas de inversiones en sociedades,,,0,,,,,,,,0,,,Septiembre de 2018
+168,53.16.00 Dividendos y otros ingresos percibidos de inversiones en sociedades,,,0,,,,,,,,0,,,Septiembre de 2018
+169,"53.17.00 Incorporación de propiedades, planta y equipo",,,0,-1155,,,,-125,,,0,,,Septiembre de 2018
+170,53.18.00 Inversiones en sociedades,,0,0,,0,,,,,,0,,,Septiembre de 2018
+171,53.19.00 Otros ingresos (egresos) netos de inversión,,6095,-801085,,,,156,,,,0,,,Septiembre de 2018
+172,53.10.00 Flujo neto originado por actividades de inversión,,6095,-801085,-1155,2531,0,156,-125,0,-557389,6,3212,413794,Septiembre de 2018
+173,50.10.00 Flujo neto total positivo (negativo) del período,-297811,22119,243947,87724,32941,-12372,-116925,144268,848,-699010,54307,16655,-205646,Septiembre de 2018
+174,50.20.00 Efecto de la variación por tipo de cambio sobre el efectivo y efectivo equivalente,,,,,,,,,,,,,,Septiembre de 2018
+175,50.30.00 Variación neta del efectivo y efectivo equivalente,-297811,22119,243947,87724,32941,-12372,-116925,144268,848,-699010,54307,16655,-205646,Septiembre de 2018
+176,50.40.00 Saldo inicial de efetivo y efectivo equivalente,465105,243543,158164,338,491258,23650,136604,211693,185990,739566,101297,375836,238248,Septiembre de 2018
+177,50.00.00 Saldo final de efectivo y efectivo equivalente,167294,265662,402111,88062,524199,11278,19679,355961,186838,40556,155604,392491,32602,Septiembre de 2018

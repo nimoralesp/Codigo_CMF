@@ -1,0 +1,178 @@
+Unnamed: 0,Cuentas,AVLA 06 / 2020,BAN TATTERSALL 06 / 2020,BCI 06 / 2020,CONTEMPORA 06 / 2020,DANK 06 / 2020,ECR OSORNO 06 / 2020,ELOY 06 / 2020,FINMAS 06 / 2020,LARRAIN VIAL 06 / 2020,LATAM TRADE CAPITAL 06 / 2020,MOONK 06 / 2020,NUEVO CAPITAL 06 / 2020,TANNER 06 / 2020,Fecha
+1,RUT,76.268.236-2,76.977.670-2,76.466.468-K,76.686.240-3,76.249.106-0,76.030.732-7,76.389.487-8,76.609.787-1,99.587.310-9,76.148.647-0,76.727.442-4,76.899.853-1,76.313.350-8,Junio de 2020
+2,Razón social,AVLA,BAN TATTERSALL,BCI,CONTEMPORA,DANK,ECR OSORNO,ELOY,FINMAS,LARRAIN VIAL,LATAM TRADE CAPITAL,MOONK,NUEVO CAPITAL,TANNER,Junio de 2020
+3,,,,,,,,,,,,,,,Junio de 2020
+4,Estado de situación financiera,,,,,,,,,,,,,,Junio de 2020
+5,Activos,,,,,,,,,,,,,,Junio de 2020
+6,11.01.00 Efectivo y efectivo equivalente,247032,845444,4163,792141,11374,20276,258072,294676,97344,278700,140409,406715,557400,Junio de 2020
+7,11.02.00 Instrumentos financieros,0,0,0,0,130950,0,0,0,550001,0,0,0,0,Junio de 2020
+8,11.02.10 A valor razonable - Cartera propia disponible,0,0,0,0,130950,0,0,0,550001,0,0,0,0,Junio de 2020
+9,11.02.11 Renta variable (IRV),,,,0,130950,,,,550001,,,,,Junio de 2020
+10,11.02.12 Renta fija e Intermediación Financiera (IRF e IIF),,0,,,,,,,,0,,,,Junio de 2020
+11,11.02.20 A valor razonable - Cartera propia comprometida,0,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2020
+12,11.02.21 Renta variable,,0,,,,,,,,0,,,,Junio de 2020
+13,11.02.22 Renta fija e Intermediación Financiera,,0,,,,,,,,0,,,,Junio de 2020
+14,11.02.30 A valor razonable - Instrumentos financieros derivados,,0,,,,,,,,0,,,,Junio de 2020
+15,11.02.40 A costo amortizado - Cartera propia disponible,,0,,,,,,,,0,,,,Junio de 2020
+16,11.02.50 A costo amortizado - Cartera propia comprometida,,0,,,,,,,,0,,,,Junio de 2020
+17,11.02.60 A costo amortizado - Operaciones de financiamiento,0,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2020
+18,11.02.61 Operaciones de compra con retroventa sobre IRV,,0,,,,,,,,0,,,,Junio de 2020
+19,11.02.62 Operaciones de compra con retroventa sobre IRF e IIF,,0,,,,,,,,0,,,,Junio de 2020
+20,11.02.63 Otras,,0,,,,,,,,0,,,,Junio de 2020
+21,11.03.00 Productos,0,78313,4708377,0,0,296312,0,0,275529,593239,0,0,0,Junio de 2020
+22,11.03.10 A valor razonable - Cartera propia disponible,0,78313,3886711,0,0,296312,0,0,275529,0,0,0,0,Junio de 2020
+23,11.03.11 Productos agropecuarios,,0,,,,,,,,0,,,,Junio de 2020
+24,11.03.12 Títulos representativos de productos agropecuarios (TRP),,78313,,,,,,,,0,,,,Junio de 2020
+25,11.03.13 Facturas,,0,3886711,,,296312,,,275529,0,,,,Junio de 2020
+26,11.03.14 Títulos representativos de facturas (TRF),,0,,,,,,,,0,,,,Junio de 2020
+27,11.03.15 Otros,,0,,,,,,,,0,,,,Junio de 2020
+28,11.03.20 A valor razonable - Cartera propia comprometida,0,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2020
+29,11.03.21 Productos agropecuarios,,0,,,,,,,,0,,,,Junio de 2020
+30,11.03.22 Títulos representativos de productos agropecuarios,,0,,,,,,,,0,,,,Junio de 2020
+31,11.03.23 Otros,,0,,,,,,,,0,,,,Junio de 2020
+32,11.03.30 A valor razonable - Instrumentos derivados,,0,,,,,,,,0,,,,Junio de 2020
+33,11.03.40 A costo amortizado - Cartera propia disponible,0,0,821666,0,0,0,0,0,0,593239,0,0,0,Junio de 2020
+34,11.03.41 Facturas,,0,821666,,,,,,,593239,,,,Junio de 2020
+35,11.03.42 Títulos representativos de facturas,,0,,,,,,,,0,,,,Junio de 2020
+36,11.03.43 Otros,,0,,,,,,,,0,,,,Junio de 2020
+37,11.03.50 A costo amortizado - Cartera propia comprometida,,0,,,,,,,,0,,,,Junio de 2020
+38,11.03.60 A costo amortizado - Operaciones de financiamiento,0,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2020
+39,11.03.61 Operaciones de compra con retroventa sobre productos agropecuarios,,0,,,,,,,,0,,,,Junio de 2020
+40,11.03.62 Operaciones de compra con retroventa sobre TRP,,0,,,,,,,,0,,,,Junio de 2020
+41,11.03.63 Otras,,0,,,,,,,,0,,,,Junio de 2020
+42,11.04.00 Deudores por intermediación,,0,,0,,,1120811,4988997,,0,,,,Junio de 2020
+43,11.05.00 Cuentas por cobrar por operaciones de cartera propia,,0,,,,,,,,0,,,,Junio de 2020
+44,11.06.00 Cuentas por cobrar a partes relacionadas,,299292,0,4215,108394,,,471,0,0,,243717,,Junio de 2020
+45,11.07.00 Otras cuentas por cobrar,0,154539,24178,10090,0,0,,,4349,0,,,64,Junio de 2020
+46,11.08.00 Impuestos por cobrar,9807,12192,8783,,3141,1764,10864,839,12438,6637,12355,6651,29066,Junio de 2020
+47,11.09.00 Impuestos diferidos,0,81782,236740,69450,27944,199,431,38429,220806,3103,27260,3390,61722,Junio de 2020
+48,11.10.00 Inversiones en sociedades,26323,154218,,177857,25468,154369,27363,,154218,0,,44062,183750,Junio de 2020
+49,11.11.00 Intangibles,0,10165,5668,0,,,9823,46310,,33705,51547,44821,,Junio de 2020
+50,"11.12.00 Propiedades, planta y equipo",0,977,1648,0,,,14778,2869,,761,376,,,Junio de 2020
+51,11.13.00 Otros activos,2464,1264268,0,,1342,,,3276,0,4342,2613,1079,451,Junio de 2020
+52,10.00.00 Total Activos,285626,2901190,4989557,1053753,308613,472920,1442142,5375867,1314685,920487,234560,750435,832453,Junio de 2020
+53,Pasivos y Patrimonio,,,,,,,,,,,,,,Junio de 2020
+54,Pasivos,,,,,,,,,,,,,,Junio de 2020
+55,21.01.00 Pasivos financieros,0,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2020
+56,21.01.10 A valor razonable,,0,,,,,,,,0,,,,Junio de 2020
+57,21.01.20 A valor razonable - Instrumentos financieros derivados,,0,,,,,,,,0,,,,Junio de 2020
+58,21.01.30 Obligaciones por financiamiento,0,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2020
+59,21.01.31 Operaciones de venta con retrocompra sobre IRV,,0,,,,,,,,0,,,,Junio de 2020
+60,21.01.32 Operaciones de venta con retrocompra sobre IRF e IIF,,0,,,,,,,,0,,,,Junio de 2020
+61,21.01.33 Otras,,0,,,,,,,,0,,,,Junio de 2020
+62,21.02.00 Pasivos del mercado de productos,0,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2020
+63,21.02.10 A valor razonable,,0,,,,,,,,0,,,,Junio de 2020
+64,21.02.20 A valor razonable - Instrumentos derivados,,0,,,,,,,,0,,,,Junio de 2020
+65,21.02.30 Obligaciones por financiamiento,0,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2020
+66,21.02.31 Operaciones de venta con retrocompra sobre productos agropecuarios,,0,,,,,,,,0,,,,Junio de 2020
+67,21.02.32 Operaciones de venta con retrocompra sobre TRP,,0,,,,,,,0,0,,,,Junio de 2020
+68,21.02.33 Otras,,0,,,,,,,,0,,,,Junio de 2020
+69,21.03.00 Obligaciones con bancos e instituciones financieras,,1343480,,,,,,,,0,,,,Junio de 2020
+70,21.04.00 Acreedores por intermediación,,0,,0,,,1125660,4993371,,0,,0,,Junio de 2020
+71,21.05.00 Cuentas por pagar por operaciones de cartera propia,,0,,,,,,,,0,,,,Junio de 2020
+72,21.06.00 Cuentas por pagar a partes relacionadas,97561,0,3975915,0,0,,,14925,0,38254,,64924,,Junio de 2020
+73,21.07.00 Otras cuentas por pagar,6619,77910,3487,398721,7669,130,27492,58992,146446,135686,,1843,4260,Junio de 2020
+74,21.08.00 Provisiones,4591,2245,66075,7023,5941,3760,1596,8049,72732,2778,,10193,3932,Junio de 2020
+75,21.09.00 Impuestos por pagar,0,0,,1934,97,100,6076,8340,4744,665,360,51023,,Junio de 2020
+76,21.10.00 Impuestos diferidos,0,22430,,,,,,,,0,,,,Junio de 2020
+77,21.11.00 Otros pasivos,0,1008,,,,,,,,0,,,,Junio de 2020
+78,21.00.00 Total Pasivos,108771,1447073,4045477,407678,13707,3990,1160824,5083677,223922,177383,360,127983,8192,Junio de 2020
+79,Patrimonio,,,,,,,,,,,,,,Junio de 2020
+80,22.01.00 Capital,206900,433711,1290423,720453,389572,387118,214000,333729,701188,484476,293000,480000,902046,Junio de 2020
+81,22.02.00 Reservas,,149,1915,-18865,,4940,2810,,18321,0,,,7287,Junio de 2020
+82,22.03.00 Resultados acumulados,-8184,1034718,-387481,-3080,-96929,101565,63856,-36298,447237,276083,-60555,99877,-3221,Junio de 2020
+83,22.04.00 Resultado del ejercicio,-21861,-14461,56033,-52433,2263,-24693,652,-5241,-75983,-17455,1755,124175,-81851,Junio de 2020
+84,22.05.00 Dividendos provisorios o participaciones,,0,-16810,,,,,,,0,,-81600,,Junio de 2020
+85,22.00.00 Total Patrimonio,176855,1454117,944080,646075,294906,468930,281318,292190,1090763,743104,234200,622452,824261,Junio de 2020
+86,20.00.00 TOTAL PAC.M.F Y PATRIMONIO,285626,2901190,4989557,1053753,308613,472920,1442142,5375867,1314685,920487,234560,750435,832453,Junio de 2020
+87,,,,,,,,,,,,,,,Junio de 2020
+88,Estado de resultados integrales,,,,,,,,,,,,,,Junio de 2020
+89,Estado de resultados,,,,,,,,,,,,,,Junio de 2020
+90,Resultado por intermediación,,,,,,,,,,,,,,Junio de 2020
+91,30.10.01 Comisiones por operaciones bursátiles,0,60248,82688,40724,30609,13540,133406,169840,79642,9137,5381,28221,29,Junio de 2020
+92,30.10.02 Comisiones por operaciones extra bursátiles,,0,,,,,,,,0,,7339,,Junio de 2020
+93,30.10.03 Gastos por comisiones y servicios,-15154,-33038,-17910,-19108,-17160,-18013,-9896,-29508,-20159,-5989,,-22282,-19394,Junio de 2020
+94,30.10.04 Otras comisiones,0,5006,1011,,10174,,,,,343,,,,Junio de 2020
+95,30.10.00 Total resultado por intermediación,-15154,32216,65789,21616,23623,-4473,123510,140332,59483,3491,5381,13278,-19365,Junio de 2020
+96,Ingresos por servicios,,,,,,,,,,,,,,Junio de 2020
+97,30.20.01 Ingresos por custodia,,0,,,,,,,,0,,,,Junio de 2020
+98,30.20.02 Ingresos por asesorías,,0,,,,0,,0,0,0,16891,257246,,Junio de 2020
+99,30.20.03 Otros ingresos por servicios,,0,,,,,,,,0,,,,Junio de 2020
+100,30.20.00 Total ingresos por servicios,0,0,0,0,0,0,0,0,0,0,16891,257246,0,Junio de 2020
+101,Resultado por productos,,,,,,,,,,,,,,Junio de 2020
+102,30.30.01 A valor razonable,,11666,,,,8051,,,15568,0,,,,Junio de 2020
+103,30.30.02 A valor razonable - Instrumentos derivados,,0,,,,,,,,0,,,,Junio de 2020
+104,30.30.03 A costo amortizado,,0,181632,,,,,,,30500,,1122,97,Junio de 2020
+105,30.30.04 A costo amortizado - Operaciones de financiamiento,,0,6486,,,,,,,0,,,,Junio de 2020
+106,30.30.00 Total resultado por productos,0,11666,188118,0,0,8051,0,0,15568,30500,0,1122,97,Junio de 2020
+107,Resultado por instrumentos financieros,,,,,,,,,,,,,,Junio de 2020
+108,30.40.01 A valor razonable,2002,0,,698,1918,,,,1546,0,456,,-4926,Junio de 2020
+109,30.40.02 A valor razonable - Instrumentos financieros derivados,,0,,,,,,,-12657,0,,,,Junio de 2020
+110,30.40.03 A costo amortizado,,0,,,,,,,,0,,,,Junio de 2020
+111,30.40.04 A costo amortizado - Operaciones de financiamiento,,0,,,,,,,,0,,,,Junio de 2020
+112,30.40.00 Total resultado por instrumentos financieros,2002,0,0,698,1918,0,0,0,-11111,0,456,0,-4926,Junio de 2020
+113,Resultado por operaciones de financiamiento,,,,,,,,,,,,,,Junio de 2020
+114,30.50.01 Gastos por financiamiento del mercado de productos,,0,,,,,,,,0,,,,Junio de 2020
+115,30.50.02 Gastos por financiamiento del mercado de valores,,0,,,,,,,,0,,,,Junio de 2020
+116,30.50.03 Otros gastos financieros,,-31014,-38903,,,,,-5024,-1262,0,,,,Junio de 2020
+117,30.50.00 Total resultado por operaciones de financiamiento,0,-31014,-38903,0,0,0,0,-5024,-1262,0,0,0,0,Junio de 2020
+118,Gastos de administración y comercialización,,,,,,,,,,,,,,Junio de 2020
+119,30.60.01 Remuneraciones y gastos de personal,0,-51977,-91930,-46977,-19571,-21572,-71953,-112337,-138593,-18788,,-78858,-41341,Junio de 2020
+120,30.60.02 Gastos de comercialización,0,0,-8232,,,0,,,-94474,0,,0,,Junio de 2020
+121,30.60.03 Otros gastos de administración,-9403,-41444,-48726,-27602,-3427,-4663,-49333,-29710,,-32149,-21133,-22565,-7282,Junio de 2020
+122,30.60.00 Total gastos de administración y comercialización,-9403,-93421,-148888,-74579,-22998,-26235,-121286,-142047,-233067,-50937,-21133,-101423,-48623,Junio de 2020
+123,Otros resultados,,,,,,,,,,,,,,Junio de 2020
+124,30.70.01 Reajuste y diferencia de cambio,91,43,5802,,,,-446,-441,56153,-509,,,424,Junio de 2020
+125,30.70.02 Resultado de inversiones en sociedades,603,-699,0,-699,-116,-700,,,-699,0,,407,,Junio de 2020
+126,30.70.03 Otros ingresos (gastos),0,66748,185,531,-74,139,,,3365,0,160,,,Junio de 2020
+127,30.70.00 Total otros resultados,694,66092,5987,-168,-190,-561,-446,-441,58819,-509,160,407,424,Junio de 2020
+128,30.80.00 Resultado antes de impuesto a la renta,-21861,-14461,72103,-52433,2353,-23218,1778,-7180,-111570,-17455,1755,170630,-72393,Junio de 2020
+129,30.90.00 Impuesto a la renta,0,,-16070,0,-90,-1475,-1126,1939,35587,0,,-46455,-9458,Junio de 2020
+130,30.00.00 Utilidad (pérdida) del ejercicio,-21861,-14461,56033,-52433,2263,-24693,652,-5241,-75983,-17455,1755,124175,-81851,Junio de 2020
+131,Estado de otros resultados integrales,,,,,,,,,,,,,,Junio de 2020
+132,30.00.00 Utilidad (pérdida) del ejercicio,-21861,-14461,56033,-52433,2263,-24693,652,-5241,-75983,-17455,1755,124175,-81851,Junio de 2020
+133,Ingresos (gastos) registrados con abono (cargo) a patrimonio,,,,,,,,,,,,,,Junio de 2020
+134,"31.10.00 Revalorización de propiedades, planta y equipo",,0,,,,,,,,0,,,,Junio de 2020
+135,31.20.00 Activos financieros a valor razonable por patrimonio,,0,,,,,-124,,,0,,,,Junio de 2020
+136,31.30.00 Participación de otros resultados integrales de inversiones en sociedades,,0,,,,,,,0,0,,,,Junio de 2020
+137,31.40.00 Otros ingresos (gastos) registrados con abono (cargo) a patrimonio,,0,2245,,,,,,,0,,,,Junio de 2020
+138,31.50.00 Impuesto a la renta de otros resultados integrales,,0,,,,,,,,0,,,,Junio de 2020
+139,31.00.00 Total ingresos (gastos) registrados con abono (cargo) a patrimonio,0,0,2245,0,0,0,-124,0,0,0,0,0,0,Junio de 2020
+140,32.00.00 Total resultados integrales reconocidos del ejercicio,-21861,-14461,58278,-52433,2263,-24693,528,-5241,-75983,-17455,1755,124175,-81851,Junio de 2020
+141,,,,,,,,,,,,,,,Junio de 2020
+142,Estados de Flujos de efectivo - Método directo,,,,,,,,,,,,,,Junio de 2020
+143,Flujo neto originado por actividades de la operación,,,,,,,,,,,,,,Junio de 2020
+144,51.11.00 Comisiones recaudadas (pagadas) por intermediación de productos,0,76922,99347,20440,,13540,133406,,61028,557658,6403,21099,,Junio de 2020
+145,51.12.00 Ingreso (egreso) neto por cuenta de clientes,0,945725,,0,,,1697,129593,0,0,,,142,Junio de 2020
+146,51.13.00 Ingreso (egreso) neto por instrumentos a valor razonable del mercado de productos,0,0,2355847,,,-252477,,,0,0,,,,Junio de 2020
+147,51.14.00 Ingreso (egreso) neto por instrumentos derivados del mercado de productos,,0,,,,,,,0,0,,,,Junio de 2020
+148,51.15.00 Ingreso (egreso) neto por instrumentos a costo amortizado del mercado de productos,,0,-821666,,,,,,0,-301530,,,,Junio de 2020
+149,51.16.00 Ingreso (egreso) neto por asesorías y custodia,0,0,,,,0,,,0,0,20100,257246,-19158,Junio de 2020
+150,51.17.00 Gastos de administración y comercialización pagados,-25455,-209542,,-74706,-31744,-49965,-131182,-79004,-242971,-76645,-26225,-22565,-56082,Junio de 2020
+151,51.18.00 Impuestos pagados,-25,0,,-1116,-7455,-605,,-15725,-83090,0,-117,0,-6271,Junio de 2020
+152,51.19.00 Otros ingresos (egresos) netos por actividades de la operación,99,0,841942,-342429,-147776,-1124,24823,,-2477032,,134,-593059,,Junio de 2020
+153,51.10.00 Flujo neto originado por actividades de la operación,-25381,813105,2475470,-397811,-186975,-290631,28744,34864,-2742065,179483,295,-337279,-81369,Junio de 2020
+154,Flujo neto originado por actividades de financiamiento,,,,,,,,,,,,,,Junio de 2020
+155,52.11.00 Ingreso (egreso) neto por pasivos del mercado de productos,,0,,,,,,-11643,,0,,,,Junio de 2020
+156,52.12.00 Ingreso (egreso) neto por pasivos financieros del mercado de valores,,0,,,,,,,,0,,,,Junio de 2020
+157,52.13.00 Ingreso (egreso) neto por financiamiento de partes relacionadas,3000,0,-2475000,,95000,,,,-466813,-6456,,,,Junio de 2020
+158,52.14.00 Aumentos de capital,,0,,,,,,,,0,,,,Junio de 2020
+159,52.15.00 Reparto de utilidades y de capital,,0,,,,,,,0,0,,,-477573,Junio de 2020
+160,52.16.00 Otros ingresos (egresos) netos por actividades de financiamiento,0,-29966,,,,,,-5024,,0,,,,Junio de 2020
+161,52.10.00 Flujo neto originado por actividades de financiamiento,3000,-29966,-2475000,0,95000,0,0,-16667,-466813,-6456,0,0,-477573,Junio de 2020
+162,Flujo neto originado por actividades de inversión,,,,,,,,,,,,,,Junio de 2020
+163,53.11.00 Ingreso (egreso) neto por instrumentos financieros a valor razonable del mercado de valores,,0,,1873,77963,,,,3241967,0,456,,1072410,Junio de 2020
+164,53.12.00 Ingreso (egreso) neto por instrumentos financieros derivados del mercado de valores,,0,,,,,,,,0,,,,Junio de 2020
+165,53.13.00 Ingreso (egreso) neto por instrumentos financieros a costo amortizado del mercado de valores,,0,,,,,,,0,0,,,,Junio de 2020
+166,"53.14.00 Ingresos por ventas de propiedades, planta y equipo",,0,,,,,,,,0,,,,Junio de 2020
+167,53.15.00 Ingresos por ventas de inversiones en sociedades,,0,,,,,,,,0,,,,Junio de 2020
+168,53.16.00 Dividendos y otros ingresos percibidos de inversiones en sociedades,,0,,,,,,,,0,,,,Junio de 2020
+169,"53.17.00 Incorporación de propiedades, planta y equipo",,0,-1043,,,,,-890,,0,,,,Junio de 2020
+170,53.18.00 Inversiones en sociedades,0,0,,0,,,,,,0,,,,Junio de 2020
+171,53.19.00 Otros ingresos (egresos) netos de inversión,2002,-84622,,,,146,,-3878,,63,,,,Junio de 2020
+172,53.10.00 Flujo neto originado por actividades de inversión,2002,-84622,-1043,1873,77963,146,0,-4768,3241967,63,456,0,1072410,Junio de 2020
+173,50.10.00 Flujo neto total positivo (negativo) del período,-20379,698517,-573,-395938,-14012,-290485,28744,13429,33089,173090,751,-337279,513468,Junio de 2020
+174,50.20.00 Efecto de la variación por tipo de cambio sobre el efectivo y efectivo equivalente,,,,,,,,,,,,,,Junio de 2020
+175,50.30.00 Variación neta del efectivo y efectivo equivalente,-20379,698517,-573,-395938,-14012,-290485,28744,13429,33089,173090,751,-337279,513468,Junio de 2020
+176,50.40.00 Saldo inicial de efetivo y efectivo equivalente,267411,146927,4736,1188079,25386,310761,229328,281247,64255,105610,139658,743994,43932,Junio de 2020
+177,50.00.00 Saldo final de efectivo y efectivo equivalente,247032,845444,4163,792141,11374,20276,258072,294676,97344,278700,140409,406715,557400,Junio de 2020

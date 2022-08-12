@@ -1,0 +1,178 @@
+Unnamed: 0,Cuentas,AVLA 12 / 2020,BAN TATTERSALL 12 / 2020,BCI 12 / 2020,CONTEMPORA 12 / 2020,DANK 12 / 2020,ECR OSORNO 12 / 2020,ELOY 12 / 2020,FINMAS 12 / 2020,LARRAIN VIAL 12 / 2020,LATAM TRADE CAPITAL 12 / 2020,MOONK 12 / 2020,NUEVO CAPITAL 12 / 2020,TANNER 12 / 2020,Fecha
+1,RUT,76.268.236-2,76.977.670-2,76.466.468-K,76.686.240-3,76.249.106-0,76.030.732-7,76.389.487-8,76.609.787-1,99.587.310-9,76.148.647-0,76.727.442-4,76.899.853-1,76.313.350-8,Diciembre de 2020
+2,Razón social,AVLA,BAN TATTERSALL,BCI,CONTEMPORA,DANK,ECR OSORNO,ELOY,FINMAS,LARRAIN VIAL,LATAM TRADE CAPITAL,MOONK,NUEVO CAPITAL,TANNER,Diciembre de 2020
+3,,,,,,,,,,,,,,,Diciembre de 2020
+4,Estado de situación financiera,,,,,,,,,,,,,,Diciembre de 2020
+5,Activos,,,,,,,,,,,,,,Diciembre de 2020
+6,11.01.00 Efectivo y efectivo equivalente,256096,1068711,1267,1046262,11158,21045,189765,220822,775720,156776,140717,170299,1596,Diciembre de 2020
+7,11.02.00 Instrumentos financieros,0,0,0,0,135086,0,0,0,0,0,0,0,0,Diciembre de 2020
+8,11.02.10 A valor razonable - Cartera propia disponible,0,0,0,0,135086,0,0,0,0,0,0,0,0,Diciembre de 2020
+9,11.02.11 Renta variable (IRV),,,,0,135086,,,,0,,,,,Diciembre de 2020
+10,11.02.12 Renta fija e Intermediación Financiera (IRF e IIF),,,0,,,,,,,0,,,,Diciembre de 2020
+11,11.02.20 A valor razonable - Cartera propia comprometida,0,0,0,0,0,0,0,0,0,0,0,0,0,Diciembre de 2020
+12,11.02.21 Renta variable,,,,,,,,,,0,,,,Diciembre de 2020
+13,11.02.22 Renta fija e Intermediación Financiera,,,,,,,,,,0,,,,Diciembre de 2020
+14,11.02.30 A valor razonable - Instrumentos financieros derivados,,,,,,,,,,0,,,,Diciembre de 2020
+15,11.02.40 A costo amortizado - Cartera propia disponible,,,,,,,,,,0,,,,Diciembre de 2020
+16,11.02.50 A costo amortizado - Cartera propia comprometida,,,,,,,,,,0,,,,Diciembre de 2020
+17,11.02.60 A costo amortizado - Operaciones de financiamiento,0,0,0,0,0,0,0,0,0,0,0,0,0,Diciembre de 2020
+18,11.02.61 Operaciones de compra con retroventa sobre IRV,,,,,,,,,,0,,,,Diciembre de 2020
+19,11.02.62 Operaciones de compra con retroventa sobre IRF e IIF,,,,,,,,,,0,,,,Diciembre de 2020
+20,11.02.63 Otras,,,,,,,,,,0,,,,Diciembre de 2020
+21,11.03.00 Productos,0,89235,6017717,0,0,274302,0,0,397272,692999,0,222829,0,Diciembre de 2020
+22,11.03.10 A valor razonable - Cartera propia disponible,0,89235,5112561,0,0,274302,0,0,397272,0,0,222829,0,Diciembre de 2020
+23,11.03.11 Productos agropecuarios,,,,,,,,,,0,,,,Diciembre de 2020
+24,11.03.12 Títulos representativos de productos agropecuarios (TRP),,0,,,,,,,,0,,,,Diciembre de 2020
+25,11.03.13 Facturas,,89235,5112561,,,274302,,,397272,0,,222829,,Diciembre de 2020
+26,11.03.14 Títulos representativos de facturas (TRF),,,,,,,,,,0,,,,Diciembre de 2020
+27,11.03.15 Otros,,,,,,,,,,0,,,,Diciembre de 2020
+28,11.03.20 A valor razonable - Cartera propia comprometida,0,0,0,0,0,0,0,0,0,0,0,0,0,Diciembre de 2020
+29,11.03.21 Productos agropecuarios,,,,,,,,,,0,,,,Diciembre de 2020
+30,11.03.22 Títulos representativos de productos agropecuarios,,,,,,,,,,0,,,,Diciembre de 2020
+31,11.03.23 Otros,,,,,,,,,,0,,,,Diciembre de 2020
+32,11.03.30 A valor razonable - Instrumentos derivados,,,,,,,,,,0,,,,Diciembre de 2020
+33,11.03.40 A costo amortizado - Cartera propia disponible,0,0,819752,0,0,0,0,0,0,692999,0,0,0,Diciembre de 2020
+34,11.03.41 Facturas,,,819752,,,,,,,692999,,,,Diciembre de 2020
+35,11.03.42 Títulos representativos de facturas,,,,,,,,,,0,,,,Diciembre de 2020
+36,11.03.43 Otros,,,,,,,,,,0,,,,Diciembre de 2020
+37,11.03.50 A costo amortizado - Cartera propia comprometida,,,,,,,,,,0,,,,Diciembre de 2020
+38,11.03.60 A costo amortizado - Operaciones de financiamiento,0,0,85404,0,0,0,0,0,0,0,0,0,0,Diciembre de 2020
+39,11.03.61 Operaciones de compra con retroventa sobre productos agropecuarios,,,,,,,,,,0,,,,Diciembre de 2020
+40,11.03.62 Operaciones de compra con retroventa sobre TRP,,,85404,,,,,,,0,,,,Diciembre de 2020
+41,11.03.63 Otras,,,,,,,,,,0,,,,Diciembre de 2020
+42,11.04.00 Deudores por intermediación,,,0,0,,,427919,1461236,,0,,279942,,Diciembre de 2020
+43,11.05.00 Cuentas por cobrar por operaciones de cartera propia,,,,,,,,,,0,,,,Diciembre de 2020
+44,11.06.00 Cuentas por cobrar a partes relacionadas,,237865,1845000,17497,104748,,25128,,0,0,,56060,557100,Diciembre de 2020
+45,11.07.00 Otras cuentas por cobrar,0,102996,24187,0,,,,,3104,0,,,,Diciembre de 2020
+46,11.08.00 Impuestos por cobrar,13700,4311,15176,,2276,3354,11020,1065,34224,11803,14118,20426,33227,Diciembre de 2020
+47,11.09.00 Impuestos diferidos,0,79558,235529,83263,33850,14650,1178,14076,256745,27858,30900,8154,69773,Diciembre de 2020
+48,11.10.00 Inversiones en sociedades,26275,155845,,179485,25737,155209,27652,,155845,0,,44527,155057,Diciembre de 2020
+49,11.11.00 Intangibles,0,8244,3543,0,,0,7961,45909,,33705,51100,43004,,Diciembre de 2020
+50,"11.12.00 Propiedades, planta y equipo",0,496,1415,,,0,14200,2307,,520,278,2213,,Diciembre de 2020
+51,11.13.00 Otros activos,1009,1083649,1,,537,0,,1,0,3762,1550,465,514,Diciembre de 2020
+52,10.00.00 Total Activos,297080,2830910,8143835,1326507,313392,468560,704823,1745416,1622910,927423,238663,847919,817267,Diciembre de 2020
+53,Pasivos y Patrimonio,,,,,,,,,,,,,,Diciembre de 2020
+54,Pasivos,,,,,,,,,,,,,,Diciembre de 2020
+55,21.01.00 Pasivos financieros,0,0,0,0,0,0,0,0,0,0,0,0,0,Diciembre de 2020
+56,21.01.10 A valor razonable,,,,,,,,,,0,,,,Diciembre de 2020
+57,21.01.20 A valor razonable - Instrumentos financieros derivados,,,,,,,,,,0,,,,Diciembre de 2020
+58,21.01.30 Obligaciones por financiamiento,0,0,0,0,0,0,0,0,0,0,0,0,0,Diciembre de 2020
+59,21.01.31 Operaciones de venta con retrocompra sobre IRV,,,,,,,,,,0,,,,Diciembre de 2020
+60,21.01.32 Operaciones de venta con retrocompra sobre IRF e IIF,,,,,,,,,,0,,,,Diciembre de 2020
+61,21.01.33 Otras,,,,,,,,,,0,,,,Diciembre de 2020
+62,21.02.00 Pasivos del mercado de productos,0,0,0,0,0,0,0,0,0,0,0,0,0,Diciembre de 2020
+63,21.02.10 A valor razonable,,,,,,,,,,0,,,,Diciembre de 2020
+64,21.02.20 A valor razonable - Instrumentos derivados,,,,,,,,,,0,,,,Diciembre de 2020
+65,21.02.30 Obligaciones por financiamiento,0,0,0,0,0,0,0,0,0,0,0,0,0,Diciembre de 2020
+66,21.02.31 Operaciones de venta con retrocompra sobre productos agropecuarios,,,,,,,,,,0,,,,Diciembre de 2020
+67,21.02.32 Operaciones de venta con retrocompra sobre TRP,,,,,,,,,0,0,,,,Diciembre de 2020
+68,21.02.33 Otras,,,,,,,,,,0,,,,Diciembre de 2020
+69,21.03.00 Obligaciones con bancos e instituciones financieras,,1342717,,,,,,,,0,,,,Diciembre de 2020
+70,21.04.00 Acreedores por intermediación,,,,0,,,393807,1426330,,0,,234088,,Diciembre de 2020
+71,21.05.00 Cuentas por pagar por operaciones de cartera propia,,,0,,,,,,,0,,,,Diciembre de 2020
+72,21.06.00 Cuentas por pagar a partes relacionadas,14685,202,7123420,0,,,,36466,0,42769,,,22769,Diciembre de 2020
+73,21.07.00 Otras cuentas por pagar,27116,18324,9928,631376,4573,144,62473,48960,526830,164044,872,5273,16639,Diciembre de 2020
+74,21.08.00 Provisiones,0,5095,44327,6179,10768,5490,4363,8620,76207,4428,0,27316,3930,Diciembre de 2020
+75,21.09.00 Impuestos por pagar,0,,0,2938,1786,113,1779,2121,5017,1047,428,70699,,Diciembre de 2020
+76,21.10.00 Impuestos diferidos,0,2226,,,,,,,,0,,,8051,Diciembre de 2020
+77,21.11.00 Otros pasivos,0,1682,,,,,,,,0,,,,Diciembre de 2020
+78,21.00.00 Total Pasivos,41801,1370246,7177675,640493,17127,5747,462422,1522497,608054,212288,1300,337376,51389,Diciembre de 2020
+79,Patrimonio,,,,,,,,,,,,,,Diciembre de 2020
+80,22.01.00 Capital,311661,433711,1290423,720453,389572,387118,214000,333729,701188,484476,303000,480000,902046,Diciembre de 2020
+81,22.02.00 Reservas,,,885,-18865,,4940,3099,0,18321,0,,,-21406,Diciembre de 2020
+82,22.03.00 Resultados acumulados,-8184,1034867,-387481,-3080,-96929,101565,63856,-36299,447237,276083,-60555,99877,-3221,Diciembre de 2020
+83,22.04.00 Resultado del ejercicio,-48198,-7914,89047,-12494,3622,-30810,-38554,-74511,-151890,-45424,-5082,152266,-111541,Diciembre de 2020
+84,22.05.00 Dividendos provisorios o participaciones,,,-26714,,,,,,,0,,-221600,,Diciembre de 2020
+85,22.00.00 Total Patrimonio,255279,1460664,966160,686014,296265,462813,242401,222919,1014856,715135,237363,510543,765878,Diciembre de 2020
+86,20.00.00 TOTAL PAC.M.F Y PATRIMONIO,297080,2830910,8143835,1326507,313392,468560,704823,1745416,1622910,927423,238663,847919,817267,Diciembre de 2020
+87,,,,,,,,,,,,,,,Diciembre de 2020
+88,Estado de resultados integrales,,,,,,,,,,,,,,Diciembre de 2020
+89,Estado de resultados,,,,,,,,,,,,,,Diciembre de 2020
+90,Resultado por intermediación,,,,,,,,,,,,,,Diciembre de 2020
+91,30.10.01 Comisiones por operaciones bursátiles,0,91995,163854,139701,31900,23974,256042,304283,209444,10747,11107,29447,29,Diciembre de 2020
+92,30.10.02 Comisiones por operaciones extra bursátiles,,,,,,0,,,,0,,8138,,Diciembre de 2020
+93,30.10.03 Gastos por comisiones y servicios,-34200,-57742,-27863,-31931,-38209,-34149,-18726,-63452,-33952,-18707,,-84053,-29458,Diciembre de 2020
+94,30.10.04 Otras comisiones,0,17368,1006,,43962,,,395,,615,,196393,,Diciembre de 2020
+95,30.10.00 Total resultado por intermediación,-34200,51621,136997,107770,37653,-10175,237316,241226,175492,-7345,11107,149925,-29429,Diciembre de 2020
+96,Ingresos por servicios,,,,,,,,,,,,,,Diciembre de 2020
+97,30.20.01 Ingresos por custodia,,,,,,,,,,0,,,,Diciembre de 2020
+98,30.20.02 Ingresos por asesorías,,,0,,,0,,,0,0,20659,285913,,Diciembre de 2020
+99,30.20.03 Otros ingresos por servicios,,,,,,,,,,0,,,,Diciembre de 2020
+100,30.20.00 Total ingresos por servicios,0,0,0,0,0,0,0,0,0,0,20659,285913,0,Diciembre de 2020
+101,Resultado por productos,,,,,,,,,,,,,,Diciembre de 2020
+102,30.30.01 A valor razonable,,48596,11733,,,13744,,,24662,0,,4854,,Diciembre de 2020
+103,30.30.02 A valor razonable - Instrumentos derivados,,,0,,,,,,,0,,,,Diciembre de 2020
+104,30.30.03 A costo amortizado,,,317757,,,,,,,43770,,,,Diciembre de 2020
+105,30.30.04 A costo amortizado - Operaciones de financiamiento,,,0,,,,,,,0,,,,Diciembre de 2020
+106,30.30.00 Total resultado por productos,0,48596,329490,0,0,13744,0,0,24662,43770,0,4854,0,Diciembre de 2020
+107,Resultado por instrumentos financieros,,,,,,,,,,,,,,Diciembre de 2020
+108,30.40.01 A valor razonable,2218,,0,700,6067,,,,1585,0,506,1264,-4926,Diciembre de 2020
+109,30.40.02 A valor razonable - Instrumentos financieros derivados,,,,,,,,,172703,0,,,,Diciembre de 2020
+110,30.40.03 A costo amortizado,,,,,,,,,,0,,,,Diciembre de 2020
+111,30.40.04 A costo amortizado - Operaciones de financiamiento,,,0,,,,,,,0,,,,Diciembre de 2020
+112,30.40.00 Total resultado por instrumentos financieros,2218,0,0,700,6067,0,0,0,174288,0,506,1264,-4926,Diciembre de 2020
+113,Resultado por operaciones de financiamiento,,,,,,,,,,,,,,Diciembre de 2020
+114,30.50.01 Gastos por financiamiento del mercado de productos,,,,,,,,,,0,,,,Diciembre de 2020
+115,30.50.02 Gastos por financiamiento del mercado de valores,,,,,,,,,,0,,,,Diciembre de 2020
+116,30.50.03 Otros gastos financieros,,-54876,-51885,,,,,-8568,-2557,0,,-7622,,Diciembre de 2020
+117,30.50.00 Total resultado por operaciones de financiamiento,0,-54876,-51885,0,0,0,0,-8568,-2557,0,0,-7622,0,Diciembre de 2020
+118,Gastos de administración y comercialización,,,,,,,,,,,,,,Diciembre de 2020
+119,30.60.01 Remuneraciones y gastos de personal,0,-115530,-182864,-76455,-38129,-38401,-110885,-227190,-273548,-42116,,-157417,-42849,Diciembre de 2020
+120,30.60.02 Gastos de comercialización,0,,-18269,,,0,,,-198816,0,,,,Diciembre de 2020
+121,30.60.03 Otros gastos de administración,-17126,-89333,-100190,-60332,-8396,-9309,-164484,-55688,,-64365,-41321,-74610,-25371,Diciembre de 2020
+122,30.60.00 Total gastos de administración y comercialización,-17126,-204863,-301323,-136787,-46525,-47710,-275369,-282878,-472364,-106481,-41321,-232027,-68220,Diciembre de 2020
+123,Otros resultados,,,,,,,,,,,,,,Diciembre de 2020
+124,30.70.01 Reajuste y diferencia de cambio,355,184,1156,-10,,,-601,-2304,-128749,-123,,69,395,Diciembre de 2020
+125,30.70.02 Resultado de inversiones en sociedades,555,927,0,928,153,140,,,928,0,,872,,Diciembre de 2020
+126,30.70.03 Otros ingresos (gastos),0,132517,-4579,1093,460,215,,427,4884,0,327,,97,Diciembre de 2020
+127,30.70.00 Total otros resultados,910,133628,-3423,2011,613,355,-601,-1877,-122937,-123,327,941,492,Diciembre de 2020
+128,30.80.00 Resultado antes de impuesto a la renta,-48198,-25894,109856,-26306,-2192,-43786,-38654,-52097,-223416,-70179,-8722,203248,-102083,Diciembre de 2020
+129,30.90.00 Impuesto a la renta,0,17980,-20809,13812,5814,12976,100,-22414,71526,24755,3640,-50982,-9458,Diciembre de 2020
+130,30.00.00 Utilidad (pérdida) del ejercicio,-48198,-7914,89047,-12494,3622,-30810,-38554,-74511,-151890,-45424,-5082,152266,-111541,Diciembre de 2020
+131,Estado de otros resultados integrales,,,,,,,,,,,,,,Diciembre de 2020
+132,30.00.00 Utilidad (pérdida) del ejercicio,-48198,-7914,89047,-12494,3622,-30810,-38554,-74511,-151890,-45424,-5082,152266,-111541,Diciembre de 2020
+133,Ingresos (gastos) registrados con abono (cargo) a patrimonio,,,,,,,,,,,,,,Diciembre de 2020
+134,"31.10.00 Revalorización de propiedades, planta y equipo",,,,,,,,,,0,,,,Diciembre de 2020
+135,31.20.00 Activos financieros a valor razonable por patrimonio,,,0,,,,165,,,0,,,,Diciembre de 2020
+136,31.30.00 Participación de otros resultados integrales de inversiones en sociedades,,,,,,,,,0,0,,,,Diciembre de 2020
+137,31.40.00 Otros ingresos (gastos) registrados con abono (cargo) a patrimonio,,,1215,,,,,,,0,,,-28693,Diciembre de 2020
+138,31.50.00 Impuesto a la renta de otros resultados integrales,,,,,,,,,,0,,,,Diciembre de 2020
+139,31.00.00 Total ingresos (gastos) registrados con abono (cargo) a patrimonio,0,0,1215,0,0,0,165,0,0,0,0,0,-28693,Diciembre de 2020
+140,32.00.00 Total resultados integrales reconocidos del ejercicio,-48198,-7914,90262,-12494,3622,-30810,-38389,-74511,-151890,-45424,-5082,152266,-140234,Diciembre de 2020
+141,,,,,,,,,,,,,,,Diciembre de 2020
+142,Estados de Flujos de efectivo - Método directo,,,,,,,,,,,,,,Diciembre de 2020
+143,Flujo neto originado por actividades de la operación,,,,,,,,,,,,,,Diciembre de 2020
+144,51.11.00 Comisiones recaudadas (pagadas) por intermediación de productos,0,157959,140124,104926,75863,-13209,256042,,177077,576711,36611,135960,29,Diciembre de 2020
+145,51.12.00 Ingreso (egreso) neto por cuenta de clientes,0,889754,,0,,,37264,232818,0,0,,,,Diciembre de 2020
+146,51.13.00 Ingreso (egreso) neto por instrumentos a valor razonable del mercado de productos,0,,1887849,,,-230565,,,0,0,,0,,Diciembre de 2020
+147,51.14.00 Ingreso (egreso) neto por instrumentos derivados del mercado de productos,,,,,,,,,0,0,,,,Diciembre de 2020
+148,51.15.00 Ingreso (egreso) neto por instrumentos a costo amortizado del mercado de productos,,,-905156,,,,,,0,-385317,,,,Diciembre de 2020
+149,51.16.00 Ingreso (egreso) neto por asesorías y custodia,0,,,,,,,,0,0,,285913,-29458,Diciembre de 2020
+150,51.17.00 Gastos de administración y comercialización pagados,-35492,-187494,,-135195,-83253,-44104,-288713,-224634,-483854,-131396,-46003,-82163,-65463,Diciembre de 2020
+151,51.18.00 Impuestos pagados,-25,,,-110,-7838,-905,-4803,-24081,-137038,-2451,-55,,-6271,Diciembre de 2020
+152,51.19.00 Otros ingresos (egresos) netos por actividades de la operación,99,,2828626,-114981,,-1124,-14225,,-2636727,,,-689593,,Diciembre de 2020
+153,51.10.00 Flujo neto originado por actividades de la operación,-35418,860219,3951443,-145360,-15228,-289907,-14435,-15897,-3080542,57547,-9447,-349883,-101163,Diciembre de 2020
+154,Flujo neto originado por actividades de financiamiento,,,,,,,,,,,,,,Diciembre de 2020
+155,52.11.00 Ingreso (egreso) neto por pasivos del mercado de productos,,,,,,,,-13075,,0,,,,Diciembre de 2020
+156,52.12.00 Ingreso (egreso) neto por pasivos financieros del mercado de valores,,,,,,,,,,0,,,,Diciembre de 2020
+157,52.13.00 Ingreso (egreso) neto por financiamiento de partes relacionadas,21885,,-3953869,,-76963,,-25128,,,-6456,,,-540935,Diciembre de 2020
+158,52.14.00 Aumentos de capital,,,0,,,,,,,0,10000,,,Diciembre de 2020
+159,52.15.00 Reparto de utilidades y de capital,,,,,,,,,0,0,,-221600,-477621,Diciembre de 2020
+160,52.16.00 Otros ingresos (egresos) netos por actividades de financiamiento,,-53910,,,,,,-8566,,0,,,,Diciembre de 2020
+161,52.10.00 Flujo neto originado por actividades de financiamiento,21885,-53910,-3953869,0,-76963,0,-25128,-21641,0,-6456,10000,-221600,-1018556,Diciembre de 2020
+162,Flujo neto originado por actividades de inversión,,,,,,,,,,,,,,Diciembre de 2020
+163,53.11.00 Ingreso (egreso) neto por instrumentos financieros a valor razonable del mercado de valores,,,,3544,,,,,3792007,0,506,,1077383,Diciembre de 2020
+164,53.12.00 Ingreso (egreso) neto por instrumentos financieros derivados del mercado de valores,,,,,,,,,,0,,,,Diciembre de 2020
+165,53.13.00 Ingreso (egreso) neto por instrumentos financieros a costo amortizado del mercado de valores,,,,,,,,,0,0,,,,Diciembre de 2020
+166,"53.14.00 Ingresos por ventas de propiedades, planta y equipo",,,,,,,,,,0,,,,Diciembre de 2020
+167,53.15.00 Ingresos por ventas de inversiones en sociedades,,,,,,,,,,0,,,,Diciembre de 2020
+168,53.16.00 Dividendos y otros ingresos percibidos de inversiones en sociedades,,,,,77963,,,,,0,,,,Diciembre de 2020
+169,"53.17.00 Incorporación de propiedades, planta y equipo",,,-1043,,,,,-890,,0,,-2212,,Diciembre de 2020
+170,53.18.00 Inversiones en sociedades,0,,,0,,,,,,0,,,,Diciembre de 2020
+171,53.19.00 Otros ingresos (egresos) netos de inversión,2218,115475,0,0,,191,,8034,,75,,,,Diciembre de 2020
+172,53.10.00 Flujo neto originado por actividades de inversión,2218,115475,-1043,3544,77963,191,0,7144,3792007,75,506,-2212,1077383,Diciembre de 2020
+173,50.10.00 Flujo neto total positivo (negativo) del período,-11315,921784,-3469,-141816,-14228,-289716,-39563,-30394,711465,51166,1059,-573695,-42336,Diciembre de 2020
+174,50.20.00 Efecto de la variación por tipo de cambio sobre el efectivo y efectivo equivalente,,,,,,,,,,,,,,Diciembre de 2020
+175,50.30.00 Variación neta del efectivo y efectivo equivalente,-11315,921784,-3469,-141816,-14228,-289716,-39563,-30394,711465,51166,1059,-573695,-42336,Diciembre de 2020
+176,50.40.00 Saldo inicial de efetivo y efectivo equivalente,267411,146927,4736,1188078,25386,310761,229328,251216,64255,105610,139658,743994,43932,Diciembre de 2020
+177,50.00.00 Saldo final de efectivo y efectivo equivalente,256096,1068711,1267,1046262,11158,21045,189765,220822,775720,156776,140717,170299,1596,Diciembre de 2020

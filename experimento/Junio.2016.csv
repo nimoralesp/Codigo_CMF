@@ -1,0 +1,178 @@
+Unnamed: 0,Cuentas,ADDWISE 06 / 2016,AVLA 06 / 2016,BAN TATTERSALL 06 / 2016,BCI 06 / 2016,CONTEMPORA 06 / 2016,DANK 06 / 2016,ECR OSORNO 06 / 2016,ELOY 06 / 2016,FINANCIA CAPITAL 06 / 2016,LARRAIN VIAL 06 / 2016,LATAM TRADE CAPITAL 06 / 2016,TANNER 06 / 2016,Fecha
+1,RUT,76.147.513-4,76.268.236-2,76.977.670-2,76.466.468-K,76.686.240-3,76.249.106-0,76.030.732-7,76.389.487-8,76.089.848-1,99.587.310-9,76.148.647-0,76.313.350-8,Junio de 2016
+2,Razón social,ADDWISE,AVLA,BAN TATTERSALL,BCI,CONTEMPORA,DANK,ECR OSORNO,ELOY,FINANCIA CAPITAL,LARRAIN VIAL,LATAM TRADE CAPITAL,TANNER,Junio de 2016
+3,,,,,,,,,,,,,,Junio de 2016
+4,Estado de situación financiera,,,,,,,,,,,,,Junio de 2016
+5,Activos,,,,,,,,,,,,,Junio de 2016
+6,11.01.00 Efectivo y efectivo equivalente,535586,220679,879687,43,529383,3348,40475,453612,61757,70200,327599,2215,Junio de 2016
+7,11.02.00 Instrumentos financieros,,0,1007634,404903,0,0,0,0,0,1650176,0,0,Junio de 2016
+8,11.02.10 A valor razonable - Cartera propia disponible,,0,0,404903,0,0,0,0,0,1650176,0,0,Junio de 2016
+9,11.02.11 Renta variable (IRV),,,,,0,,,,,1650176,,0,Junio de 2016
+10,11.02.12 Renta fija e Intermediación Financiera (IRF e IIF),,,,404903,,,,,,,0,0,Junio de 2016
+11,11.02.20 A valor razonable - Cartera propia comprometida,,0,0,0,0,0,0,0,0,0,0,0,Junio de 2016
+12,11.02.21 Renta variable,,,,,,,,,,,0,0,Junio de 2016
+13,11.02.22 Renta fija e Intermediación Financiera,,,,,,,,,,,0,0,Junio de 2016
+14,11.02.30 A valor razonable - Instrumentos financieros derivados,,,,,,,,,,,0,0,Junio de 2016
+15,11.02.40 A costo amortizado - Cartera propia disponible,,,1007634,,,,,,,,0,0,Junio de 2016
+16,11.02.50 A costo amortizado - Cartera propia comprometida,,,,,,,,,,,0,0,Junio de 2016
+17,11.02.60 A costo amortizado - Operaciones de financiamiento,,0,0,0,0,0,0,0,0,0,0,0,Junio de 2016
+18,11.02.61 Operaciones de compra con retroventa sobre IRV,,,,,,,,,,,0,0,Junio de 2016
+19,11.02.62 Operaciones de compra con retroventa sobre IRF e IIF,,,,,,,,,,,0,0,Junio de 2016
+20,11.02.63 Otras,,,,,,,,,0,,0,0,Junio de 2016
+21,11.03.00 Productos,,0,0,4996835,0,0,189890,0,0,217575,0,1106887,Junio de 2016
+22,11.03.10 A valor razonable - Cartera propia disponible,,0,0,4996835,0,0,189890,0,0,217575,0,0,Junio de 2016
+23,11.03.11 Productos agropecuarios,,,,,,,,,,,0,0,Junio de 2016
+24,11.03.12 Títulos representativos de productos agropecuarios (TRP),,,,,,,,,,,0,0,Junio de 2016
+25,11.03.13 Facturas,,,,4996835,,,189890,,,217575,0,0,Junio de 2016
+26,11.03.14 Títulos representativos de facturas (TRF),,,,,,,,,,,0,0,Junio de 2016
+27,11.03.15 Otros,,,,,,,,,,,0,0,Junio de 2016
+28,11.03.20 A valor razonable - Cartera propia comprometida,,0,0,0,0,0,0,0,0,0,0,0,Junio de 2016
+29,11.03.21 Productos agropecuarios,,,,,,,,,,,0,0,Junio de 2016
+30,11.03.22 Títulos representativos de productos agropecuarios,,,,,,,,,,,0,0,Junio de 2016
+31,11.03.23 Otros,,,,,,,,,,,0,0,Junio de 2016
+32,11.03.30 A valor razonable - Instrumentos derivados,,,,,,,,,,,0,0,Junio de 2016
+33,11.03.40 A costo amortizado - Cartera propia disponible,,0,0,0,0,0,0,0,0,0,0,1106887,Junio de 2016
+34,11.03.41 Facturas,,,,,,,,,,,0,1106887,Junio de 2016
+35,11.03.42 Títulos representativos de facturas,,,,,,,,,,,0,0,Junio de 2016
+36,11.03.43 Otros,,,,,,,,,,,0,0,Junio de 2016
+37,11.03.50 A costo amortizado - Cartera propia comprometida,,,,,,,,,,,0,0,Junio de 2016
+38,11.03.60 A costo amortizado - Operaciones de financiamiento,,0,0,0,0,0,0,0,0,0,0,0,Junio de 2016
+39,11.03.61 Operaciones de compra con retroventa sobre productos agropecuarios,,,,,,,,,,,0,0,Junio de 2016
+40,11.03.62 Operaciones de compra con retroventa sobre TRP,,,,,,,,,,0,0,0,Junio de 2016
+41,11.03.63 Otras,,,,,,,,,,,0,0,Junio de 2016
+42,11.04.00 Deudores por intermediación,7681,,60065,,227113,,,,,0,0,0,Junio de 2016
+43,11.05.00 Cuentas por cobrar por operaciones de cartera propia,,,,,,,,,,,0,1127967,Junio de 2016
+44,11.06.00 Cuentas por cobrar a partes relacionadas,,,200014,,,,,,507001,30420,338103,0,Junio de 2016
+45,11.07.00 Otras cuentas por cobrar,2622,,123810,390,10242,10734,6080,611254,0,2872,0,118122,Junio de 2016
+46,11.08.00 Impuestos por cobrar,893,792,30357,4522,,504,3940,14943,4075,4460,34454,19853,Junio de 2016
+47,11.09.00 Impuestos diferidos,,530,2831,20030,41322,61816,1098,1699,0,5043,1275,5569,Junio de 2016
+48,11.10.00 Inversiones en sociedades,,23328,196283,,169431,24083,145972,25880,0,145830,0,138380,Junio de 2016
+49,11.11.00 Intangibles,15572,17496,27704,22930,651,,,9185,21202,,38077,0,Junio de 2016
+50,"11.12.00 Propiedades, planta y equipo",389,0,2637,,0,,,6150,449,,554,400,Junio de 2016
+51,11.13.00 Otros activos,6504,4793,,0,,170357,,2578,1383,0,41024,1007,Junio de 2016
+52,10.00.00 Total Activos,569247,267618,2531022,5449653,978142,270842,387455,1125301,595867,2126576,781086,2520400,Junio de 2016
+53,Pasivos y Patrimonio,,,,,,,,,,,,,Junio de 2016
+54,Pasivos,,,,,,,,,,,,,Junio de 2016
+55,21.01.00 Pasivos financieros,,0,0,0,0,0,0,0,0,0,0,0,Junio de 2016
+56,21.01.10 A valor razonable,,,,,,,,,,,0,,Junio de 2016
+57,21.01.20 A valor razonable - Instrumentos financieros derivados,,,,,,,,,,,0,,Junio de 2016
+58,21.01.30 Obligaciones por financiamiento,,0,0,0,0,0,0,0,0,0,0,0,Junio de 2016
+59,21.01.31 Operaciones de venta con retrocompra sobre IRV,,,,,,,,,,,0,,Junio de 2016
+60,21.01.32 Operaciones de venta con retrocompra sobre IRF e IIF,,,,,,,,,,,0,,Junio de 2016
+61,21.01.33 Otras,,,,,,,,,,,0,,Junio de 2016
+62,21.02.00 Pasivos del mercado de productos,,0,0,0,0,0,0,0,0,0,0,0,Junio de 2016
+63,21.02.10 A valor razonable,,,,,,,,,,,0,,Junio de 2016
+64,21.02.20 A valor razonable - Instrumentos derivados,,,,,,,,,,,0,,Junio de 2016
+65,21.02.30 Obligaciones por financiamiento,,0,0,0,0,0,0,0,0,0,0,0,Junio de 2016
+66,21.02.31 Operaciones de venta con retrocompra sobre productos agropecuarios,,,,,,,,,,,0,,Junio de 2016
+67,21.02.32 Operaciones de venta con retrocompra sobre TRP,,,,,,,,,,0,0,,Junio de 2016
+68,21.02.33 Otras,,,,,,,,,,,0,,Junio de 2016
+69,21.03.00 Obligaciones con bancos e instituciones financieras,,,,,,,,99892,0,,0,50164,Junio de 2016
+70,21.04.00 Acreedores por intermediación,287987,,,,288967,,,637709,18245,0,0,0,Junio de 2016
+71,21.05.00 Cuentas por pagar por operaciones de cartera propia,,,,22873,,,,,,,0,0,Junio de 2016
+72,21.06.00 Cuentas por pagar a partes relacionadas,1165,36009,159763,4949006,,64594,,,12461,,278178,400585,Junio de 2016
+73,21.07.00 Otras cuentas por pagar,469,1127,940677,31443,4757,961,3274,83605,17298,1138987,20852,115697,Junio de 2016
+74,21.08.00 Provisiones,38622,3090,18942,26368,6143,12015,4882,11440,2703,30381,694,18756,Junio de 2016
+75,21.09.00 Impuestos por pagar,910,2956,25105,398,1955,776,557,33906,3531,70175,131,3783,Junio de 2016
+76,21.10.00 Impuestos diferidos,,0,0,,,,,,3592,,0,242,Junio de 2016
+77,21.11.00 Otros pasivos,,0,718,,,,,,,,0,9191,Junio de 2016
+78,21.00.00 Total Pasivos,329153,43182,1145205,5030088,301822,78346,8713,866552,57830,1239543,299855,598418,Junio de 2016
+79,Patrimonio,,,,,,,,,,,,,Junio de 2016
+80,22.01.00 Capital,197000,180000,433711,460000,720453,319572,387118,214000,285060,701188,378000,902046,Junio de 2016
+81,22.02.00 Reservas,,,149,-190,-18865,,4940,1327,-5060,20736,0,-25833,Junio de 2016
+82,22.03.00 Resultados acumulados,45230,39490,829968,-25414,-44223,-106181,-2213,-633,249053,-55664,138197,1036578,Junio de 2016
+83,22.04.00 Resultado del ejercicio,-2136,4946,121989,-14831,18955,-20895,-11103,44055,12835,220773,-34966,18382,Junio de 2016
+84,22.05.00 Dividendos provisorios o participaciones,,,,,,,,,-3851,,0,-9191,Junio de 2016
+85,22.00.00 Total Patrimonio,240094,224436,1385817,419565,676320,192496,378742,258749,538037,887033,481231,1921982,Junio de 2016
+86,20.00.00 TOTAL PAC.M.F Y PATRIMONIO,569247,267618,2531022,5449653,978142,270842,387455,1125301,595867,2126576,781086,2520400,Junio de 2016
+87,,,,,,,,,,,,,,Junio de 2016
+88,Estado de resultados integrales,,,,,,,,,,,,,Junio de 2016
+89,Estado de resultados,,,,,,,,,,,,,Junio de 2016
+90,Resultado por intermediación,,,,,,,,,,,,,Junio de 2016
+91,30.10.01 Comisiones por operaciones bursátiles,53084,0,455319,11382,92823,38760,7880,348123,45816,128821,3405,102432,Junio de 2016
+92,30.10.02 Comisiones por operaciones extra bursátiles,,,,,,,,,,0,0,0,Junio de 2016
+93,30.10.03 Gastos por comisiones y servicios,-14411,-15699,-98860,,-17438,-19097,-11744,-47029,-14090,-44576,-25264,-26452,Junio de 2016
+94,30.10.04 Otras comisiones,,0,20471,,,,814,,36039,,14471,0,Junio de 2016
+95,30.10.00 Total resultado por intermediación,38673,-15699,376930,11382,75385,19663,-3050,301094,67765,84245,-7388,75980,Junio de 2016
+96,Ingresos por servicios,,,,,,,,,,,,,Junio de 2016
+97,30.20.01 Ingresos por custodia,,,,,,,,,,,0,,Junio de 2016
+98,30.20.02 Ingresos por asesorías,,,,,,,36150,,,128595,0,0,Junio de 2016
+99,30.20.03 Otros ingresos por servicios,26944,31720,,,,36812,,,,,0,40271,Junio de 2016
+100,30.20.00 Total ingresos por servicios,26944,31720,0,0,0,36812,36150,0,0,128595,0,40271,Junio de 2016
+101,Resultado por productos,,,,,,,,,,,,,Junio de 2016
+102,30.30.01 A valor razonable,,,,,,,2003,,,23960,0,,Junio de 2016
+103,30.30.02 A valor razonable - Instrumentos derivados,,,,,,,,,,,0,,Junio de 2016
+104,30.30.03 A costo amortizado,,,,111603,,,,,,,0,30153,Junio de 2016
+105,30.30.04 A costo amortizado - Operaciones de financiamiento,,,,,,,,,,,0,,Junio de 2016
+106,30.30.00 Total resultado por productos,,0,0,111603,0,0,2003,0,0,23960,0,30153,Junio de 2016
+107,Resultado por instrumentos financieros,,,,,,,,,,,,,Junio de 2016
+108,30.40.01 A valor razonable,2852,5697,,,1404,6444,,,0,,0,5433,Junio de 2016
+109,30.40.02 A valor razonable - Instrumentos financieros derivados,,,,,,,,,,,0,,Junio de 2016
+110,30.40.03 A costo amortizado,,,,,,,,,0,,0,,Junio de 2016
+111,30.40.04 A costo amortizado - Operaciones de financiamiento,,,,19560,,,,,,,0,,Junio de 2016
+112,30.40.00 Total resultado por instrumentos financieros,2852,5697,0,19560,1404,6444,0,0,0,0,0,5433,Junio de 2016
+113,Resultado por operaciones de financiamiento,,,,,,,,,,,,,Junio de 2016
+114,30.50.01 Gastos por financiamiento del mercado de productos,,,,,,,,,,,0,0,Junio de 2016
+115,30.50.02 Gastos por financiamiento del mercado de valores,,,,,,,,,,,0,,Junio de 2016
+116,30.50.03 Otros gastos financieros,,,-1366,-60332,,-11410,,,,-5878,0,,Junio de 2016
+117,30.50.00 Total resultado por operaciones de financiamiento,,0,-1366,-60332,0,-11410,0,0,0,-5878,0,0,Junio de 2016
+118,Gastos de administración y comercialización,,,,,,,,,,,,,Junio de 2016
+119,30.60.01 Remuneraciones y gastos de personal,-46085,-7971,-139083,-70889,-35382,,-42542,-126183,-11450,-113759,-16762,-101414,Junio de 2016
+120,30.60.02 Gastos de comercialización,-15065,0,,-19899,,,,,,-12448,0,-1453,Junio de 2016
+121,30.60.03 Otros gastos de administración,-9378,-7394,-78057,-13643,-24455,-82142,-6319,-95226,-42245,0,-24704,-33939,Junio de 2016
+122,30.60.00 Total gastos de administración y comercialización,-70528,-15365,-217140,-104431,-59837,-82142,-48861,-221409,-53695,-126207,-41466,-136806,Junio de 2016
+123,Otros resultados,,,,,,,,,,,,,Junio de 2016
+124,30.70.01 Reajuste y diferencia de cambio,-77,0,136,45,,,,-35624,49,,48,369,Junio de 2016
+125,30.70.02 Resultado de inversiones en sociedades,,0,1834,79,1853,,1884,,,-2749,0,0,Junio de 2016
+126,30.70.03 Otros ingresos (gastos),,0,,-1469,150,,387,-6,,184345,0,210,Junio de 2016
+127,30.70.00 Total otros resultados,-77,0,1970,-1345,2003,0,2271,-35630,49,181596,48,579,Junio de 2016
+128,30.80.00 Resultado antes de impuesto a la renta,-2136,6353,160394,-23563,18955,-30633,-11487,44055,14119,286311,-48806,15610,Junio de 2016
+129,30.90.00 Impuesto a la renta,,-1407,-38405,8732,0,9738,384,,-1284,-65538,13840,2772,Junio de 2016
+130,30.00.00 Utilidad (pérdida) del ejercicio,-2136,4946,121989,-14831,18955,-20895,-11103,44055,12835,220773,-34966,18382,Junio de 2016
+131,Estado de otros resultados integrales,,,,,,,,,,,,,Junio de 2016
+132,30.00.00 Utilidad (pérdida) del ejercicio,-2136,4946,121989,-14831,18955,-20895,-11103,44055,12835,220773,-34966,18382,Junio de 2016
+133,Ingresos (gastos) registrados con abono (cargo) a patrimonio,,,,,,,,,,,,,Junio de 2016
+134,"31.10.00 Revalorización de propiedades, planta y equipo",,,,,,,,,,,0,,Junio de 2016
+135,31.20.00 Activos financieros a valor razonable por patrimonio,,,,,,,,334,,,0,,Junio de 2016
+136,31.30.00 Participación de otros resultados integrales de inversiones en sociedades,,,,,,,,,,,0,,Junio de 2016
+137,31.40.00 Otros ingresos (gastos) registrados con abono (cargo) a patrimonio,,,,-190,,,,,,,0,,Junio de 2016
+138,31.50.00 Impuesto a la renta de otros resultados integrales,,,,,,,,,,,0,,Junio de 2016
+139,31.00.00 Total ingresos (gastos) registrados con abono (cargo) a patrimonio,,0,0,-190,0,0,0,334,0,0,0,0,Junio de 2016
+140,32.00.00 Total resultados integrales reconocidos del ejercicio,-2136,4946,121989,-15021,18955,-20895,-11103,44389,12835,220773,-34966,18382,Junio de 2016
+141,,,,,,,,,,,,,,Junio de 2016
+142,Estados de Flujos de efectivo - Método directo,,,,,,,,,,,,,Junio de 2016
+143,Flujo neto originado por actividades de la operación,,,,,,,,,,,,,Junio de 2016
+144,51.11.00 Comisiones recaudadas (pagadas) por intermediación de productos,53064,0,325561,,75262,36267,7880,348123,31726,0,-203028,100405,Junio de 2016
+145,51.12.00 Ingreso (egreso) neto por cuenta de clientes,34761,0,353629,,57554,,,,,953248,0,17576,Junio de 2016
+146,51.13.00 Ingreso (egreso) neto por instrumentos a valor razonable del mercado de productos,,0,,1367356,,,-45431,,,,0,0,Junio de 2016
+147,51.14.00 Ingreso (egreso) neto por instrumentos derivados del mercado de productos,,,,,,,,,,,0,0,Junio de 2016
+148,51.15.00 Ingreso (egreso) neto por instrumentos a costo amortizado del mercado de productos,,,45408,,,,,,,,211694,25392,Junio de 2016
+149,51.16.00 Ingreso (egreso) neto por asesorías y custodia,,27684,,,,,30088,,,,0,-900,Junio de 2016
+150,51.17.00 Gastos de administración y comercialización pagados,-74252,-21228,-194876,,-54696,-55430,-47177,-106246,-75296,-95826,-67903,-143022,Junio de 2016
+151,51.18.00 Impuestos pagados,,-6848,,,-659,-4577,-2170,,-9911,-42328,-2993,-48555,Junio de 2016
+152,51.19.00 Otros ingresos (egresos) netos por actividades de la operación,25815,0,,-94171,-928,-32657,-10294,,36039,-3803,,-6086,Junio de 2016
+153,51.10.00 Flujo neto originado por actividades de la operación,39388,-392,529722,1273185,76533,-56397,-67104,241877,-17442,811291,-62230,-55190,Junio de 2016
+154,Flujo neto originado por actividades de financiamiento,,,,,,,,,,,,,Junio de 2016
+155,52.11.00 Ingreso (egreso) neto por pasivos del mercado de productos,,,,,,,,,0,,0,256113,Junio de 2016
+156,52.12.00 Ingreso (egreso) neto por pasivos financieros del mercado de valores,,,,,,,,,,,0,0,Junio de 2016
+157,52.13.00 Ingreso (egreso) neto por financiamiento de partes relacionadas,,0,-7000,-1291686,,24904,79000,,,-30420,1444,-121481,Junio de 2016
+158,52.14.00 Aumentos de capital,,0,,,,,,36000,,,,0,Junio de 2016
+159,52.15.00 Reparto de utilidades y de capital,,,,,,,,,,,0,-204243,Junio de 2016
+160,52.16.00 Otros ingresos (egresos) netos por actividades de financiamiento,,0,,,,,,99868,,,0,49959,Junio de 2016
+161,52.10.00 Flujo neto originado por actividades de financiamiento,,0,-7000,-1291686,0,24904,79000,135868,0,-30420,1444,-19652,Junio de 2016
+162,Flujo neto originado por actividades de inversión,,,,,,,,,,,,,Junio de 2016
+163,53.11.00 Ingreso (egreso) neto por instrumentos financieros a valor razonable del mercado de valores,88057,,,,1527,,,,,0,0,5041,Junio de 2016
+164,53.12.00 Ingreso (egreso) neto por instrumentos financieros derivados del mercado de valores,,,,,,,,,,,0,0,Junio de 2016
+165,53.13.00 Ingreso (egreso) neto por instrumentos financieros a costo amortizado del mercado de valores,,,,,,,,,,-850000,0,0,Junio de 2016
+166,"53.14.00 Ingresos por ventas de propiedades, planta y equipo",,,,,,,,,,,0,0,Junio de 2016
+167,53.15.00 Ingresos por ventas de inversiones en sociedades,,,,,,,,,,,0,0,Junio de 2016
+168,53.16.00 Dividendos y otros ingresos percibidos de inversiones en sociedades,,,,,,,,,62819,,0,0,Junio de 2016
+169,"53.17.00 Incorporación de propiedades, planta y equipo",,,,,,,,-2856,,,0,0,Junio de 2016
+170,53.18.00 Inversiones en sociedades,,0,-50000,,0,,,,,0,0,0,Junio de 2016
+171,53.19.00 Otros ingresos (egresos) netos de inversión,,5661,,941,,,301,-2202,-7029,,0,0,Junio de 2016
+172,53.10.00 Flujo neto originado por actividades de inversión,88057,5661,-50000,941,1527,0,301,-5058,55790,-850000,0,5041,Junio de 2016
+173,50.10.00 Flujo neto total positivo (negativo) del período,127445,5269,472722,-17560,78060,-31493,12197,372687,38348,-69129,-60786,-69801,Junio de 2016
+174,50.20.00 Efecto de la variación por tipo de cambio sobre el efectivo y efectivo equivalente,,,,,,34841,,,23409,,,,Junio de 2016
+175,50.30.00 Variación neta del efectivo y efectivo equivalente,127445,5269,472722,-17560,78060,3348,12197,372687,61757,-69129,-60786,-69801,Junio de 2016
+176,50.40.00 Saldo inicial de efetivo y efectivo equivalente,408141,215410,406965,17603,451323,,28278,80925,,139329,388385,72016,Junio de 2016
+177,50.00.00 Saldo final de efectivo y efectivo equivalente,535586,220679,879687,43,529383,3348,40475,453612,61757,70200,327599,2215,Junio de 2016

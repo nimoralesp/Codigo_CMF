@@ -1,0 +1,178 @@
+Unnamed: 0,Cuentas,ADDWISE 06 / 2017,AVLA 06 / 2017,BAN TATTERSALL 06 / 2017,BCI 06 / 2017,CONTEMPORA 06 / 2017,DANK 06 / 2017,ECR OSORNO 06 / 2017,ELOY 06 / 2017,FINANCIA CAPITAL 06 / 2017,FINMAS 06 / 2017,LARRAIN VIAL 06 / 2017,LATAM TRADE CAPITAL 06 / 2017,TANNER 06 / 2017,Fecha
+1,RUT,76.147.513-4,76.268.236-2,76.977.670-2,76.466.468-K,76.686.240-3,76.249.106-0,76.030.732-7,76.389.487-8,76.089.848-1,76.609.787-1,99.587.310-9,76.148.647-0,76.313.350-8,Junio de 2017
+2,Razón social,ADDWISE,AVLA,BAN TATTERSALL,BCI,CONTEMPORA,DANK,ECR OSORNO,ELOY,FINANCIA CAPITAL,FINMAS,LARRAIN VIAL,LATAM TRADE CAPITAL,TANNER,Junio de 2017
+3,,,,,,,,,,,,,,,Junio de 2017
+4,Estado de situación financiera,,,,,,,,,,,,,,Junio de 2017
+5,Activos,,,,,,,,,,,,,,Junio de 2017
+6,11.01.00 Efectivo y efectivo equivalente,465105,261596,883934,58,470051,11910,32982,125920,39960,238469,53835,23934,172595,Junio de 2017
+7,11.02.00 Instrumentos financieros,0,0,1760814,429660,0,0,0,0,0,0,1500398,0,0,Junio de 2017
+8,11.02.10 A valor razonable - Cartera propia disponible,0,0,0,429660,0,0,0,0,0,0,1500398,0,0,Junio de 2017
+9,11.02.11 Renta variable (IRV),,,,,0,,,,,,1500398,,0,Junio de 2017
+10,11.02.12 Renta fija e Intermediación Financiera (IRF e IIF),,,,429660,,,,,,,,0,0,Junio de 2017
+11,11.02.20 A valor razonable - Cartera propia comprometida,0,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2017
+12,11.02.21 Renta variable,,,,,,,,,,,,0,0,Junio de 2017
+13,11.02.22 Renta fija e Intermediación Financiera,,,,,,,,,,,,0,0,Junio de 2017
+14,11.02.30 A valor razonable - Instrumentos financieros derivados,,,,,,,,,,,,0,0,Junio de 2017
+15,11.02.40 A costo amortizado - Cartera propia disponible,,,1760814,,,,,,,,,0,0,Junio de 2017
+16,11.02.50 A costo amortizado - Cartera propia comprometida,,,,,,,,,,,,0,0,Junio de 2017
+17,11.02.60 A costo amortizado - Operaciones de financiamiento,0,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2017
+18,11.02.61 Operaciones de compra con retroventa sobre IRV,,,,,,,,,,,,0,0,Junio de 2017
+19,11.02.62 Operaciones de compra con retroventa sobre IRF e IIF,,,,,,,,,,,,0,0,Junio de 2017
+20,11.02.63 Otras,,,,,,,,,0,,,0,0,Junio de 2017
+21,11.03.00 Productos,0,0,0,4725274,0,0,200344,0,0,0,372924,422560,867471,Junio de 2017
+22,11.03.10 A valor razonable - Cartera propia disponible,0,0,0,4725274,0,0,200344,0,0,0,372924,0,0,Junio de 2017
+23,11.03.11 Productos agropecuarios,,,,,,,,,,,,0,0,Junio de 2017
+24,11.03.12 Títulos representativos de productos agropecuarios (TRP),,,,,,,,,,,,0,0,Junio de 2017
+25,11.03.13 Facturas,,,,4725274,,,200344,,,,372924,0,0,Junio de 2017
+26,11.03.14 Títulos representativos de facturas (TRF),,,,,,,,,,,,0,0,Junio de 2017
+27,11.03.15 Otros,,,,,,,,,,,,0,0,Junio de 2017
+28,11.03.20 A valor razonable - Cartera propia comprometida,0,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2017
+29,11.03.21 Productos agropecuarios,,,,,,,,,,,,0,0,Junio de 2017
+30,11.03.22 Títulos representativos de productos agropecuarios,,,,,,,,,,,,0,0,Junio de 2017
+31,11.03.23 Otros,,,,,,,,,,,,0,0,Junio de 2017
+32,11.03.30 A valor razonable - Instrumentos derivados,,,,,,,,,,,,0,0,Junio de 2017
+33,11.03.40 A costo amortizado - Cartera propia disponible,0,0,0,0,0,0,0,0,0,0,0,422560,867471,Junio de 2017
+34,11.03.41 Facturas,,,,,,,,,,,,422560,867471,Junio de 2017
+35,11.03.42 Títulos representativos de facturas,,,,,,,,,,,,0,0,Junio de 2017
+36,11.03.43 Otros,,,,,,,,,,,,0,0,Junio de 2017
+37,11.03.50 A costo amortizado - Cartera propia comprometida,,,,,,,,,,,,0,0,Junio de 2017
+38,11.03.60 A costo amortizado - Operaciones de financiamiento,0,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2017
+39,11.03.61 Operaciones de compra con retroventa sobre productos agropecuarios,,,,,,,,,,,,0,0,Junio de 2017
+40,11.03.62 Operaciones de compra con retroventa sobre TRP,,,,,,,,,,,0,0,0,Junio de 2017
+41,11.03.63 Otras,,,,,,,,,,,,0,0,Junio de 2017
+42,11.04.00 Deudores por intermediación,3917,,156091,,0,,,667227,,386213,0,0,0,Junio de 2017
+43,11.05.00 Cuentas por cobrar por operaciones de cartera propia,,,,,,,,,,,,0,56149,Junio de 2017
+44,11.06.00 Cuentas por cobrar a partes relacionadas,,,192458,0,,,,,473245,152,50094,0,0,Junio de 2017
+45,11.07.00 Otras cuentas por cobrar,17277,,604384,168045,14703,19923,9694,193866,0,20326,3048,0,34386,Junio de 2017
+46,11.08.00 Impuestos por cobrar,6945,2416,26206,1004,,3693,7394,4332,10112,206,29900,35365,6582,Junio de 2017
+47,11.09.00 Impuestos diferidos,1979,0,4001,8501,57022,30040,1298,2575,769,11156,5505,6908,28829,Junio de 2017
+48,11.10.00 Inversiones en sociedades,,24332,199649,,171846,24476,148358,26297,0,,148214,0,138380,Junio de 2017
+49,11.11.00 Intangibles,12414,17496,866,18764,0,,,8199,21202,26073,0,33705,0,Junio de 2017
+50,"11.12.00 Propiedades, planta y equipo",298,0,2512,,210,,,6894,607,,,467,168,Junio de 2017
+51,11.13.00 Otros activos,0,5074,4421,0,,188827,656,2222,1429,2825,0,38137,668,Junio de 2017
+52,10.00.00 Total Activos,507935,310914,3835336,5351306,713832,278869,400726,1037532,547324,685420,2163918,561076,1305228,Junio de 2017
+53,Pasivos y Patrimonio,,,,,,,,,,,,,,Junio de 2017
+54,Pasivos,,,,,,,,,,,,,,Junio de 2017
+55,21.01.00 Pasivos financieros,0,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2017
+56,21.01.10 A valor razonable,,,,,,,,,,,,0,,Junio de 2017
+57,21.01.20 A valor razonable - Instrumentos financieros derivados,,,,,,,,,,,,0,,Junio de 2017
+58,21.01.30 Obligaciones por financiamiento,0,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2017
+59,21.01.31 Operaciones de venta con retrocompra sobre IRV,,,,,,,,,,,,0,,Junio de 2017
+60,21.01.32 Operaciones de venta con retrocompra sobre IRF e IIF,,,,,,,,,,,,0,,Junio de 2017
+61,21.01.33 Otras,,,,,,,,,,,,0,,Junio de 2017
+62,21.02.00 Pasivos del mercado de productos,0,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2017
+63,21.02.10 A valor razonable,,,,,,,,,,,,0,,Junio de 2017
+64,21.02.20 A valor razonable - Instrumentos derivados,,,,,,,,,,,,0,,Junio de 2017
+65,21.02.30 Obligaciones por financiamiento,0,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2017
+66,21.02.31 Operaciones de venta con retrocompra sobre productos agropecuarios,,,,,,,,,,,,0,,Junio de 2017
+67,21.02.32 Operaciones de venta con retrocompra sobre TRP,,,,,,,,,,,0,0,,Junio de 2017
+68,21.02.33 Otras,,,,,,,,,,,,0,,Junio de 2017
+69,21.03.00 Obligaciones con bancos e instituciones financieras,,,1251704,,,,,,0,,,0,0,Junio de 2017
+70,21.04.00 Acreedores por intermediación,282083,,,,0,,,675709,9703,357585,0,0,0,Junio de 2017
+71,21.05.00 Cuentas por pagar por operaciones de cartera propia,,,,184951,,,,,,,,0,0,Junio de 2017
+72,21.06.00 Cuentas por pagar a partes relacionadas,0,82959,184653,4604379,,17820,,,6674,28542,,199,3673,Junio de 2017
+73,21.07.00 Otras cuentas por pagar,4223,115,908024,40574,2839,7164,4487,8232,8139,8944,1017953,15921,3318,Junio de 2017
+74,21.08.00 Provisiones,3975,3797,15515,50610,6371,11666,7664,10097,3015,,30695,1118,9618,Junio de 2017
+75,21.09.00 Impuestos por pagar,216,104,0,4799,5414,2018,576,13611,21,459,40550,187,0,Junio de 2017
+76,21.10.00 Impuestos diferidos,,0,0,,,,,,0,,,0,170,Junio de 2017
+77,21.11.00 Otros pasivos,0,0,14069,,,,,,,,,0,0,Junio de 2017
+78,21.00.00 Total Pasivos,290497,86975,2373965,4885313,14624,38668,12727,707649,27552,395530,1089198,17425,16779,Junio de 2017
+79,Patrimonio,,,,,,,,,,,,,,Junio de 2017
+80,22.01.00 Capital,197000,180000,433711,460000,720453,319572,387118,214000,285060,322996,701188,484476,902046,Junio de 2017
+81,22.02.00 Reservas,,,149,780,-18865,,4940,1745,-5060,0,18152,,-25833,Junio de 2017
+82,22.03.00 Resultados acumulados,46119,42309,1024183,-29664,-11679,-102247,-12137,129585,252663,-6650,236677,76083,441087,Junio de 2017
+83,22.04.00 Resultado del ejercicio,-25681,1630,3328,49824,9299,22876,8078,-15447,-12891,-26456,118703,-16908,-28851,Junio de 2017
+84,22.05.00 Dividendos provisorios o participaciones,,,,-14947,,,,,0,,,0,0,Junio de 2017
+85,22.00.00 Total Patrimonio,217438,223939,1461371,465993,699208,240201,387999,329883,519772,289890,1074720,543651,1288449,Junio de 2017
+86,20.00.00 TOTAL PAC.M.F Y PATRIMONIO,507935,310914,3835336,5351306,713832,278869,400726,1037532,547324,685420,2163918,561076,1305228,Junio de 2017
+87,,,,,,,,,,,,,,,Junio de 2017
+88,Estado de resultados integrales,,,,,,,,,,,,,,Junio de 2017
+89,Estado de resultados,,,,,,,,,,,,,,Junio de 2017
+90,Resultado por intermediación,,,,,,,,,,,,,,Junio de 2017
+91,30.10.01 Comisiones por operaciones bursátiles,32541,40902,350671,84734,86460,163902,6420,290984,31288,1624,118222,30528,484,Junio de 2017
+92,30.10.02 Comisiones por operaciones extra bursátiles,,,,,,,,,,,0,0,0,Junio de 2017
+93,30.10.03 Gastos por comisiones y servicios,-17012,-34531,-99054,,-17081,-44950,-16106,-39782,-14201,-627,-34877,-25264,-18634,Junio de 2017
+94,30.10.04 Otras comisiones,0,0,11243,,,14445,,,27510,,,8466,0,Junio de 2017
+95,30.10.00 Total resultado por intermediación,15529,6371,262860,84734,69379,133397,-9686,251202,44597,997,83345,13730,-18150,Junio de 2017
+96,Ingresos por servicios,,,,,,,,,,,,,,Junio de 2017
+97,30.20.01 Ingresos por custodia,,,,,,,,,,17081,,0,,Junio de 2017
+98,30.20.02 Ingresos por asesorías,,,,,,9000,57779,,,,195095,0,0,Junio de 2017
+99,30.20.03 Otros ingresos por servicios,28092,0,,,,,,,,,,0,0,Junio de 2017
+100,30.20.00 Total ingresos por servicios,28092,0,0,0,0,9000,57779,0,0,17081,195095,0,0,Junio de 2017
+101,Resultado por productos,,,,,,,,,,,,,,Junio de 2017
+102,30.30.01 A valor razonable,,,,159325,,,3931,,,1951,8763,0,,Junio de 2017
+103,30.30.02 A valor razonable - Instrumentos derivados,,,,,,,,,,,,0,,Junio de 2017
+104,30.30.03 A costo amortizado,,,,,,,,,,,,0,2462,Junio de 2017
+105,30.30.04 A costo amortizado - Operaciones de financiamiento,,,,,,,,,,,,0,,Junio de 2017
+106,30.30.00 Total resultado por productos,0,0,0,159325,0,0,3931,0,0,1951,8763,0,2462,Junio de 2017
+107,Resultado por instrumentos financieros,,,,,,,,,,,,,,Junio de 2017
+108,30.40.01 A valor razonable,0,1586,,,865,7138,,,0,,10389,0,7907,Junio de 2017
+109,30.40.02 A valor razonable - Instrumentos financieros derivados,,,,,,,,,,,,0,,Junio de 2017
+110,30.40.03 A costo amortizado,,,,,,,,,0,,,0,,Junio de 2017
+111,30.40.04 A costo amortizado - Operaciones de financiamiento,,,,10395,,,,,,,,0,,Junio de 2017
+112,30.40.00 Total resultado por instrumentos financieros,0,1586,0,10395,865,7138,0,0,0,0,10389,0,7907,Junio de 2017
+113,Resultado por operaciones de financiamiento,,,,,,,,,,,,,,Junio de 2017
+114,30.50.01 Gastos por financiamiento del mercado de productos,,,,,,,,,,,,0,0,Junio de 2017
+115,30.50.02 Gastos por financiamiento del mercado de valores,,,,,,,,,,,,0,,Junio de 2017
+116,30.50.03 Otros gastos financieros,,,-38417,-68824,,-2526,,,,-42,-4385,0,,Junio de 2017
+117,30.50.00 Total resultado por operaciones de financiamiento,0,0,-38417,-68824,0,-2526,0,0,0,-42,-4385,0,0,Junio de 2017
+118,Gastos de administración y comercialización,,,,,,,,,,,,,,Junio de 2017
+119,30.60.01 Remuneraciones y gastos de personal,-42647,0,-121470,-81140,-40412,-40945,-41065,-192584,-11591,-19238,-120457,-11795,-25165,Junio de 2017
+120,30.60.02 Gastos de comercialización,-26655,0,,-34778,,,,,,-179,-22053,0,-288,Junio de 2017
+121,30.60.03 Otros gastos de administración,0,-8733,-106517,-29556,-23405,-72040,-6462,-74400,-45804,-36091,0,-23662,-18969,Junio de 2017
+122,30.60.00 Total gastos de administración y comercialización,-69302,-8733,-227987,-145474,-63817,-112985,-47527,-266984,-57395,-55508,-142510,-35457,-44422,Junio de 2017
+123,Otros resultados,,,,,,,,,,,,,,Junio de 2017
+124,30.70.01 Reajuste y diferencia de cambio,,2693,373,5166,,,,15,13,9,,-509,40,Junio de 2017
+125,30.70.02 Resultado de inversiones en sociedades,,0,3464,0,2625,,2625,,,,1868,0,0,Junio de 2017
+126,30.70.03 Otros ingresos (gastos),,2,3035,14602,247,,953,76,,,2848,0,12534,Junio de 2017
+127,30.70.00 Total otros resultados,0,2695,6872,19768,2872,0,3578,91,13,9,4716,-509,12574,Junio de 2017
+128,30.80.00 Resultado antes de impuesto a la renta,-25681,1919,3328,59924,9299,34024,8075,-15691,-12785,-35512,155413,-22236,-39629,Junio de 2017
+129,30.90.00 Impuesto a la renta,0,-289,0,-10100,0,-11148,3,244,-106,9056,-36710,5328,10778,Junio de 2017
+130,30.00.00 Utilidad (pérdida) del ejercicio,-25681,1630,3328,49824,9299,22876,8078,-15447,-12891,-26456,118703,-16908,-28851,Junio de 2017
+131,Estado de otros resultados integrales,,,,,,,,,,,,,,Junio de 2017
+132,30.00.00 Utilidad (pérdida) del ejercicio,-25681,1630,3328,49824,9299,22876,8078,-15447,-12891,-26456,118703,-16908,-28851,Junio de 2017
+133,Ingresos (gastos) registrados con abono (cargo) a patrimonio,,,,,,,,,,,,,,Junio de 2017
+134,"31.10.00 Revalorización de propiedades, planta y equipo",,,,,,,,,,,,0,,Junio de 2017
+135,31.20.00 Activos financieros a valor razonable por patrimonio,,,,,,,,460,,,,0,,Junio de 2017
+136,31.30.00 Participación de otros resultados integrales de inversiones en sociedades,,,,,,,,,,,,0,,Junio de 2017
+137,31.40.00 Otros ingresos (gastos) registrados con abono (cargo) a patrimonio,,,,1517,,,,,,,755,0,,Junio de 2017
+138,31.50.00 Impuesto a la renta de otros resultados integrales,,,,,,,,,,,,0,,Junio de 2017
+139,31.00.00 Total ingresos (gastos) registrados con abono (cargo) a patrimonio,0,0,0,1517,0,0,0,460,0,0,755,0,0,Junio de 2017
+140,32.00.00 Total resultados integrales reconocidos del ejercicio,-25681,1630,3328,51341,9299,22876,8078,-14987,-12891,-26456,119458,-16908,-28851,Junio de 2017
+141,,,,,,,,,,,,,,,Junio de 2017
+142,Estados de Flujos de efectivo - Método directo,,,,,,,,,,,,,,Junio de 2017
+143,Flujo neto originado por actividades de la operación,,,,,,,,,,,,,,Junio de 2017
+144,51.11.00 Comisiones recaudadas (pagadas) por intermediación de productos,32541,-285647,143617,84734,69224,-363983,6420,290984,17087,,83345,29001,-16717,Junio de 2017
+145,51.12.00 Ingreso (egreso) neto por cuenta de clientes,,0,268025,,-9411,,,159112,,944,405822,0,9886,Junio de 2017
+146,51.13.00 Ingreso (egreso) neto por instrumentos a valor razonable del mercado de productos,,0,,-130868,,,24806,,,,,0,0,Junio de 2017
+147,51.14.00 Ingreso (egreso) neto por instrumentos derivados del mercado de productos,,,,,,,,,,,,0,0,Junio de 2017
+148,51.15.00 Ingreso (egreso) neto por instrumentos a costo amortizado del mercado de productos,,,170808,,,,,,,,,-293715,2454,Junio de 2017
+149,51.16.00 Ingreso (egreso) neto por asesorías y custodia,,0,,,,,48085,,,,,0,-316,Junio de 2017
+150,51.17.00 Gastos de administración y comercialización pagados,-69302,-6359,-430310,,-65503,-128101,-50731,-691378,-96289,-70401,-216877,-65713,-50872,Junio de 2017
+151,51.18.00 Impuestos pagados,,0,,,-2191,-33664,-3383,-35769,-7635,-594,-178149,-572,-1775,Junio de 2017
+152,51.19.00 Otros ingresos (egresos) netos por actividades de la operación,-245316,993,23111,159325,-10237,46954,-10496,-15753,27510,,-464152,,-288,Junio de 2017
+153,51.10.00 Flujo neto originado por actividades de la operación,-282077,-291013,175251,113191,-18118,-478794,14701,-292804,-59327,-70051,-370011,-330999,-57628,Junio de 2017
+154,Flujo neto originado por actividades de financiamiento,,,,,,,,,,,,,,Junio de 2017
+155,52.11.00 Ingreso (egreso) neto por pasivos del mercado de productos,,,,,,,,,0,,,0,-671857,Junio de 2017
+156,52.12.00 Ingreso (egreso) neto por pasivos financieros del mercado de valores,,,,,,,,,,,,0,0,Junio de 2017
+157,52.13.00 Ingreso (egreso) neto por financiamiento de partes relacionadas,,0,-77440,-159039,,-40000,,,,,130000,45075,0,Junio de 2017
+158,52.14.00 Aumentos de capital,,0,,,,,,,,142998,,106476,0,Junio de 2017
+159,52.15.00 Reparto de utilidades y de capital,,,,,,,,,,,,0,0,Junio de 2017
+160,52.16.00 Otros ingresos (egresos) netos por actividades de financiamiento,,0,375378,,,,,,,-34,,0,0,Junio de 2017
+161,52.10.00 Flujo neto originado por actividades de financiamiento,0,0,297938,-159039,0,-40000,0,0,0,142964,130000,151551,-671857,Junio de 2017
+162,Flujo neto originado por actividades de inversión,,,,,,,,,,,,,,Junio de 2017
+163,53.11.00 Ingreso (egreso) neto por instrumentos financieros a valor razonable del mercado de valores,,,,,1021,,,,,,0,0,7907,Junio de 2017
+164,53.12.00 Ingreso (egreso) neto por instrumentos financieros derivados del mercado de valores,,,,,,,,,,,,0,0,Junio de 2017
+165,53.13.00 Ingreso (egreso) neto por instrumentos financieros a costo amortizado del mercado de valores,,,,,,,,,,,-1239961,0,0,Junio de 2017
+166,"53.14.00 Ingresos por ventas de propiedades, planta y equipo",,,,,,,,,,,,0,0,Junio de 2017
+167,53.15.00 Ingresos por ventas de inversiones en sociedades,,,,,,,,,,,,0,0,Junio de 2017
+168,53.16.00 Dividendos y otros ingresos percibidos de inversiones en sociedades,,,,,,,,,85000,,,0,0,Junio de 2017
+169,"53.17.00 Incorporación de propiedades, planta y equipo",,,,,,,,-337,,,,0,0,Junio de 2017
+170,53.18.00 Inversiones en sociedades,,0,,,0,,,,,,,0,0,Junio de 2017
+171,53.19.00 Otros ingresos (egresos) netos de inversión,,4262,,0,,,874,76,-10249,498,,0,0,Junio de 2017
+172,53.10.00 Flujo neto originado por actividades de inversión,0,4262,0,0,1021,0,874,-261,74751,498,-1239961,0,7907,Junio de 2017
+173,50.10.00 Flujo neto total positivo (negativo) del período,-282077,-286751,473189,-45848,-17097,-518794,15575,-293065,15424,73411,-1479972,-179448,-721578,Junio de 2017
+174,50.20.00 Efecto de la variación por tipo de cambio sobre el efectivo y efectivo equivalente,6301,,,,,,,,24536,,,,,Junio de 2017
+175,50.30.00 Variación neta del efectivo y efectivo equivalente,-275776,-286751,473189,-45848,-17097,-518794,15575,-293065,39960,73411,-1479972,-179448,-721578,Junio de 2017
+176,50.40.00 Saldo inicial de efetivo y efectivo equivalente,740881,548347,410745,45906,487148,530704,17407,418985,,165058,1533807,203382,894173,Junio de 2017
+177,50.00.00 Saldo final de efectivo y efectivo equivalente,465105,261596,883934,58,470051,11910,32982,125920,39960,238469,53835,23934,172595,Junio de 2017

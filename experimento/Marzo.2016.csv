@@ -1,0 +1,178 @@
+Unnamed: 0,Cuentas,ADDWISE 03 / 2016,AVLA 03 / 2016,BAN TATTERSALL 03 / 2016,BCI 03 / 2016,CONTEMPORA 03 / 2016,DANK 03 / 2016,ECR OSORNO 03 / 2016,ELOY 03 / 2016,FINANCIA CAPITAL 03 / 2016,LARRAIN VIAL 03 / 2016,LATAM TRADE CAPITAL 03 / 2016,TANNER 03 / 2016,Fecha
+1,RUT,76.147.513-4,76.268.236-2,76.977.670-2,76.466.468-K,76.686.240-3,76.249.106-0,76.030.732-7,76.389.487-8,76.089.848-1,99.587.310-9,76.148.647-0,76.313.350-8,Marzo de 2016
+2,Razón social,ADDWISE,AVLA,BAN TATTERSALL,BCI,CONTEMPORA,DANK,ECR OSORNO,ELOY,FINANCIA CAPITAL,LARRAIN VIAL,LATAM TRADE CAPITAL,TANNER,Marzo de 2016
+3,,,,,,,,,,,,,,Marzo de 2016
+4,Estado de situación financiera,,,,,,,,,,,,,Marzo de 2016
+5,Activos,,,,,,,,,,,,,Marzo de 2016
+6,11.01.00 Efectivo y efectivo equivalente,543258,218252,406965,21366,435148,52237,6299,155163,62076,154857,348038,275973,Marzo de 2016
+7,11.02.00 Instrumentos financieros,0,,821335,394774,0,0,0,0,0,1900844,0,0,Marzo de 2016
+8,11.02.10 A valor razonable - Cartera propia disponible,0,,0,394774,0,0,0,0,0,1900844,0,0,Marzo de 2016
+9,11.02.11 Renta variable (IRV),,,,,0,,,,,1900844,,0,Marzo de 2016
+10,11.02.12 Renta fija e Intermediación Financiera (IRF e IIF),,,,394774,,,,,,,,0,Marzo de 2016
+11,11.02.20 A valor razonable - Cartera propia comprometida,0,,0,0,0,0,0,0,0,0,0,0,Marzo de 2016
+12,11.02.21 Renta variable,,,,,,,,,,,,0,Marzo de 2016
+13,11.02.22 Renta fija e Intermediación Financiera,,,,,,,,,,,,0,Marzo de 2016
+14,11.02.30 A valor razonable - Instrumentos financieros derivados,,,,,,,,,,,,0,Marzo de 2016
+15,11.02.40 A costo amortizado - Cartera propia disponible,,,821335,,,,,,,,,0,Marzo de 2016
+16,11.02.50 A costo amortizado - Cartera propia comprometida,,,,,,,,,,,,0,Marzo de 2016
+17,11.02.60 A costo amortizado - Operaciones de financiamiento,0,,0,0,0,0,0,0,0,0,0,0,Marzo de 2016
+18,11.02.61 Operaciones de compra con retroventa sobre IRV,,,,,,,,,,,,0,Marzo de 2016
+19,11.02.62 Operaciones de compra con retroventa sobre IRF e IIF,,,,,,,,,,,,0,Marzo de 2016
+20,11.02.63 Otras,,,,,,,,,0,,,0,Marzo de 2016
+21,11.03.00 Productos,0,,0,3424173,0,0,0,0,0,78419,7464,977997,Marzo de 2016
+22,11.03.10 A valor razonable - Cartera propia disponible,0,,0,3424173,0,0,0,0,0,78419,0,0,Marzo de 2016
+23,11.03.11 Productos agropecuarios,,,,,,,,,,,,0,Marzo de 2016
+24,11.03.12 Títulos representativos de productos agropecuarios (TRP),,,,,,,,,,,,0,Marzo de 2016
+25,11.03.13 Facturas,,,,3424173,,,0,,,78419,,0,Marzo de 2016
+26,11.03.14 Títulos representativos de facturas (TRF),,,,,,,,,,,,0,Marzo de 2016
+27,11.03.15 Otros,,,,,,,,,,,,0,Marzo de 2016
+28,11.03.20 A valor razonable - Cartera propia comprometida,0,,0,0,0,0,0,0,0,0,0,0,Marzo de 2016
+29,11.03.21 Productos agropecuarios,,,,,,,,,,,,0,Marzo de 2016
+30,11.03.22 Títulos representativos de productos agropecuarios,,,,,,,,,,,,0,Marzo de 2016
+31,11.03.23 Otros,,,,,,,,,,,,0,Marzo de 2016
+32,11.03.30 A valor razonable - Instrumentos derivados,,,,,,,,,,,,0,Marzo de 2016
+33,11.03.40 A costo amortizado - Cartera propia disponible,0,,0,0,0,0,0,0,0,0,7464,977997,Marzo de 2016
+34,11.03.41 Facturas,,,,,,,,,,,7464,706058,Marzo de 2016
+35,11.03.42 Títulos representativos de facturas,,,,,,,,,,,,0,Marzo de 2016
+36,11.03.43 Otros,,,,,,,,,,,,271939,Marzo de 2016
+37,11.03.50 A costo amortizado - Cartera propia comprometida,,,,,,,,,,,,0,Marzo de 2016
+38,11.03.60 A costo amortizado - Operaciones de financiamiento,0,,0,0,0,0,0,0,0,0,0,0,Marzo de 2016
+39,11.03.61 Operaciones de compra con retroventa sobre productos agropecuarios,,,,,,,,,,,,0,Marzo de 2016
+40,11.03.62 Operaciones de compra con retroventa sobre TRP,,,,,,,,,,0,,0,Marzo de 2016
+41,11.03.63 Otras,,,,,,,,,,,,0,Marzo de 2016
+42,11.04.00 Deudores por intermediación,2246,,9061,,36694,,,,,0,0,0,Marzo de 2016
+43,11.05.00 Cuentas por cobrar por operaciones de cartera propia,,,,,,,,,,,,690529,Marzo de 2016
+44,11.06.00 Cuentas por cobrar a partes relacionadas,,,262196,,,,209000,,494500,100000,,0,Marzo de 2016
+45,11.07.00 Otras cuentas por cobrar,0,1171,317519,1031,14700,25440,18014,193377,0,0,257903,101940,Marzo de 2016
+46,11.08.00 Impuestos por cobrar,5292,867,73386,3649,,1473,5971,6619,13735,2745,27482,7058,Marzo de 2016
+47,11.09.00 Impuestos diferidos,837,289,15902,18205,41322,57347,988,1699,0,4402,2074,4286,Marzo de 2016
+48,11.10.00 Inversiones en sociedades,,23328,145382,,168510,23926,145022,25546,0,144881,,138380,Marzo de 2016
+49,11.11.00 Intangibles,14743,17496,26404,24191,998,,,10049,21202,,39534,0,Marzo de 2016
+50,"11.12.00 Propiedades, planta y equipo",433,,3207,,0,,,5517,505,,576,483,Marzo de 2016
+51,11.13.00 Otros activos,3431,3349,103,697,,166020,,2559,1207,864,303825,3567,Marzo de 2016
+52,10.00.00 Total Activos,570240,264752,2081460,3888086,697372,326443,385294,400529,593225,2387012,986896,2200213,Marzo de 2016
+53,Pasivos y Patrimonio,,,,,,,,,,,,,Marzo de 2016
+54,Pasivos,,,,,,,,,,,,,Marzo de 2016
+55,21.01.00 Pasivos financieros,0,,0,0,0,0,0,0,0,0,0,0,Marzo de 2016
+56,21.01.10 A valor razonable,,,,,,,,,,,,,Marzo de 2016
+57,21.01.20 A valor razonable - Instrumentos financieros derivados,,,,,,,,,,,,,Marzo de 2016
+58,21.01.30 Obligaciones por financiamiento,0,,0,0,0,0,0,0,0,0,0,0,Marzo de 2016
+59,21.01.31 Operaciones de venta con retrocompra sobre IRV,,,,,,,,,,,,,Marzo de 2016
+60,21.01.32 Operaciones de venta con retrocompra sobre IRF e IIF,,,,,,,,,,,,,Marzo de 2016
+61,21.01.33 Otras,,,,,,,,,,,,,Marzo de 2016
+62,21.02.00 Pasivos del mercado de productos,0,,0,0,0,0,0,0,0,0,0,0,Marzo de 2016
+63,21.02.10 A valor razonable,,,,,,,,,,,,,Marzo de 2016
+64,21.02.20 A valor razonable - Instrumentos derivados,,,,,,,,,,,,,Marzo de 2016
+65,21.02.30 Obligaciones por financiamiento,0,,0,0,0,0,0,0,0,0,0,0,Marzo de 2016
+66,21.02.31 Operaciones de venta con retrocompra sobre productos agropecuarios,,,,,,,,,,,,,Marzo de 2016
+67,21.02.32 Operaciones de venta con retrocompra sobre TRP,,,,,,,,,,0,,,Marzo de 2016
+68,21.02.33 Otras,,,,,,,,,,,,,Marzo de 2016
+69,21.03.00 Obligaciones con bancos e instituciones financieras,,,,,,,,,0,,,,Marzo de 2016
+70,21.04.00 Acreedores por intermediación,283940,0,,,8949,,,24951,0,0,0,0,Marzo de 2016
+71,21.05.00 Cuentas por pagar por operaciones de cartera propia,,,,23227,,,,,,,0,0,Marzo de 2016
+72,21.06.00 Cuentas por pagar a partes relacionadas,0,33628,161680,3413965,,69743,,,12416,,277027,410,Marzo de 2016
+73,21.07.00 Otras cuentas por pagar,15601,3306,497975,9731,2168,45283,3259,69497,21918,1702881,212720,78392,Marzo de 2016
+74,21.08.00 Provisiones,40439,4167,17572,16256,10591,9658,4387,11577,2464,26389,3532,11152,Marzo de 2016
+75,21.09.00 Impuestos por pagar,212,476,96603,445,2999,54,751,13756,16850,4133,408,6874,Marzo de 2016
+76,21.10.00 Impuestos diferidos,,,,,,,,,3649,,,257,Marzo de 2016
+77,21.11.00 Otros pasivos,0,0,118,,,,,,,,,122155,Marzo de 2016
+78,21.00.00 Total Pasivos,340192,41577,773948,3463624,24707,124738,8397,119781,57297,1733403,493687,219240,Marzo de 2016
+79,Patrimonio,,,,,,,,,,,,,Marzo de 2016
+80,22.01.00 Capital,197000,180000,433711,460000,720453,319572,387118,214000,285060,701188,378000,902046,Marzo de 2016
+81,22.02.00 Reservas,,,149,,-18865,,4940,993,-5060,17722,0,-25833,Marzo de 2016
+82,22.03.00 Resultados acumulados,45291,39490,829968,-25414,-44223,-106181,-2213,-633,249053,-55664,138197,1118667,Marzo de 2016
+83,22.04.00 Resultado del ejercicio,-12243,3685,43684,-10124,15300,-11686,-12948,66388,9822,-9637,-22988,-13907,Marzo de 2016
+84,22.05.00 Dividendos provisorios o participaciones,,,,,,,,,-2947,,,0,Marzo de 2016
+85,22.00.00 Total Patrimonio,230048,223175,1307512,424462,672665,201705,376897,280748,535928,653609,493209,1980973,Marzo de 2016
+86,20.00.00 TOTAL PAC.M.F Y PATRIMONIO,570240,264752,2081460,3888086,697372,326443,385294,400529,593225,2387012,986896,2200213,Marzo de 2016
+87,,,,,,,,,,,,,,Marzo de 2016
+88,Estado de resultados integrales,,,,,,,,,,,,,Marzo de 2016
+89,Estado de resultados,,,,,,,,,,,,,Marzo de 2016
+90,Resultado por intermediación,,,,,,,,,,,,,Marzo de 2016
+91,30.10.01 Comisiones por operaciones bursátiles,19600,0,212056,4942,54821,16316,912,188334,27243,61097,2503,37970,Marzo de 2016
+92,30.10.02 Comisiones por operaciones extra bursátiles,,,,,,,,,,6372,,0,Marzo de 2016
+93,30.10.03 Gastos por comisiones y servicios,-7589,-6775,-47877,,-10085,-9262,-6837,-760,-7126,-22495,-10843,-10555,Marzo de 2016
+94,30.10.04 Otras comisiones,0,,8253,,,,,,18433,,4891,0,Marzo de 2016
+95,30.10.00 Total resultado por intermediación,12011,-6775,172432,4942,44736,7054,-5925,187574,38550,44974,-3449,27415,Marzo de 2016
+96,Ingresos por servicios,,,,,,,,,,,,,Marzo de 2016
+97,30.20.01 Ingresos por custodia,,,,,,,,,,,,,Marzo de 2016
+98,30.20.02 Ingresos por asesorías,,,,,,,18014,,,,,0,Marzo de 2016
+99,30.20.03 Otros ingresos por servicios,12786,14248,,,,36794,,,,,,13575,Marzo de 2016
+100,30.20.00 Total ingresos por servicios,12786,14248,0,0,0,36794,18014,0,0,0,0,13575,Marzo de 2016
+101,Resultado por productos,,,,,,,,,,,,,Marzo de 2016
+102,30.30.01 A valor razonable,,,,,,,61,,,16746,,,Marzo de 2016
+103,30.30.02 A valor razonable - Instrumentos derivados,,,,,,,,,,,,,Marzo de 2016
+104,30.30.03 A costo amortizado,,,,47626,,,,,,,,12660,Marzo de 2016
+105,30.30.04 A costo amortizado - Operaciones de financiamiento,,,,,,,,,,,,,Marzo de 2016
+106,30.30.00 Total resultado por productos,0,,0,47626,0,0,61,0,0,16746,0,12660,Marzo de 2016
+107,Resultado por instrumentos financieros,,,,,,,,,,,,,Marzo de 2016
+108,30.40.01 A valor razonable,0,2872,,,493,3182,,,0,,0,4473,Marzo de 2016
+109,30.40.02 A valor razonable - Instrumentos financieros derivados,,,,,,,,,,,,,Marzo de 2016
+110,30.40.03 A costo amortizado,,,,,,,,,0,,,,Marzo de 2016
+111,30.40.04 A costo amortizado - Operaciones de financiamiento,,,,7909,,,,,,,,,Marzo de 2016
+112,30.40.00 Total resultado por instrumentos financieros,0,2872,0,7909,493,3182,0,0,0,0,0,4473,Marzo de 2016
+113,Resultado por operaciones de financiamiento,,,,,,,,,,,,,Marzo de 2016
+114,30.50.01 Gastos por financiamiento del mercado de productos,,,,,,,,,,,,0,Marzo de 2016
+115,30.50.02 Gastos por financiamiento del mercado de valores,,,,,,,,,,,,,Marzo de 2016
+116,30.50.03 Otros gastos financieros,,0,-537,-24307,,-8312,,,,-2932,,,Marzo de 2016
+117,30.50.00 Total resultado por operaciones de financiamiento,0,0,-537,-24307,0,-8312,0,0,0,-2932,0,0,Marzo de 2016
+118,Gastos de administración y comercialización,,,,,,,,,,,,,Marzo de 2016
+119,30.60.01 Remuneraciones y gastos de personal,-25310,-3958,-76901,-35846,-18078,,-21810,-58907,-5542,-52227,-14195,-51741,Marzo de 2016
+120,30.60.02 Gastos de comercialización,-11730,0,,-9583,,,,-4000,,-7976,,-1422,Marzo de 2016
+121,30.60.03 Otros gastos de administración,0,-2702,-38487,-6142,-12843,-55672,-4720,-58273,-21396,-15,-13903,-23359,Marzo de 2016
+122,30.60.00 Total gastos de administración y comercialización,-37040,-6660,-115388,-51571,-30921,-55672,-26530,-121180,-26938,-60218,-28098,-76522,Marzo de 2016
+123,Otros resultados,,,,,,,,,,,,,Marzo de 2016
+124,30.70.01 Reajuste y diferencia de cambio,,0,41,12,,,,,0,,0,42,Marzo de 2016
+125,30.70.02 Resultado de inversiones en sociedades,,0,932,79,934,,934,,,-685,,0,Marzo de 2016
+126,30.70.03 Otros ingresos (gastos),,0,,-253,58,,225,-6,,-30,0,2851,Marzo de 2016
+127,30.70.00 Total otros resultados,0,0,973,-162,992,0,1159,-6,0,-715,0,2893,Marzo de 2016
+128,30.80.00 Resultado antes de impuesto a la renta,-12243,3685,57480,-15563,15300,-16954,-13221,66388,11612,-2145,-31547,-15506,Marzo de 2016
+129,30.90.00 Impuesto a la renta,0,0,-13796,5439,,5268,273,,-1790,-7492,8559,1599,Marzo de 2016
+130,30.00.00 Utilidad (pérdida) del ejercicio,-12243,3685,43684,-10124,15300,-11686,-12948,66388,9822,-9637,-22988,-13907,Marzo de 2016
+131,Estado de otros resultados integrales,,,,,,,,,,,,,Marzo de 2016
+132,30.00.00 Utilidad (pérdida) del ejercicio,-12243,3685,43684,-10124,15300,-11686,-12948,66388,9822,-9637,-22988,-13907,Marzo de 2016
+133,Ingresos (gastos) registrados con abono (cargo) a patrimonio,,,,,,,,,,,,,Marzo de 2016
+134,"31.10.00 Revalorización de propiedades, planta y equipo",,,,,,,,,,,,,Marzo de 2016
+135,31.20.00 Activos financieros a valor razonable por patrimonio,,,,,,,,,,,,,Marzo de 2016
+136,31.30.00 Participación de otros resultados integrales de inversiones en sociedades,,,,,,,,,,,,,Marzo de 2016
+137,31.40.00 Otros ingresos (gastos) registrados con abono (cargo) a patrimonio,,,,,,,,,,,,,Marzo de 2016
+138,31.50.00 Impuesto a la renta de otros resultados integrales,,,,,,,,,,,,,Marzo de 2016
+139,31.00.00 Total ingresos (gastos) registrados con abono (cargo) a patrimonio,0,0,0,0,0,0,0,0,0,0,0,0,Marzo de 2016
+140,32.00.00 Total resultados integrales reconocidos del ejercicio,-12243,3685,43684,-10124,15300,-11686,-12948,66388,9822,-9637,-22988,-13907,Marzo de 2016
+141,,,,,,,,,,,,,,Marzo de 2016
+142,Estados de Flujos de efectivo - Método directo,,,,,,,,,,,,,Marzo de 2016
+143,Flujo neto originado por actividades de la operación,,,,,,,,,,,,,Marzo de 2016
+144,51.11.00 Comisiones recaudadas (pagadas) por intermediación de productos,72202,0,146182,,44646,47544,912,130049,20118,44974,21554,37233,Marzo de 2016
+145,51.12.00 Ingreso (egreso) neto por cuenta de clientes,98658,0,291265,,-37356,,,35031,,1216745,0,4017,Marzo de 2016
+146,51.13.00 Ingreso (egreso) neto por instrumentos a valor razonable del mercado de productos,,,,-204029,,,77535,,,,,0,Marzo de 2016
+147,51.14.00 Ingreso (egreso) neto por instrumentos derivados del mercado de productos,,,,,,,,,,,,0,Marzo de 2016
+148,51.15.00 Ingreso (egreso) neto por instrumentos a costo amortizado del mercado de productos,,,22107,,,,,,,,-108594,5681,Marzo de 2016
+149,51.16.00 Ingreso (egreso) neto por asesorías y custodia,,14248,,,,,0,,,,,-260,Marzo de 2016
+150,51.17.00 Gastos de administración y comercialización pagados,-25310,-11623,-288648,,-26946,-40576,-22996,-121180,-60349,-33829,-33007,-84093,Marzo de 2016
+151,51.18.00 Impuestos pagados,0,-1561,,,-385,-3819,-1749,,-2354,-21172,-1944,-22760,Marzo de 2016
+152,51.19.00 Otros ingresos (egresos) netos por actividades de la operación,-11730,1778,,-1836,3283,-10658,-10872,-179270,18433,,0,0,Marzo de 2016
+153,51.10.00 Flujo neto originado por actividades de la operación,133820,2842,170906,-205865,-16758,-7509,42830,-135370,-24152,1206718,-121991,-60182,Marzo de 2016
+154,Flujo neto originado por actividades de financiamiento,,,,,,,,,,,,,Marzo de 2016
+155,52.11.00 Ingreso (egreso) neto por pasivos del mercado de productos,,,,,,,,-974,0,,,780696,Marzo de 2016
+156,52.12.00 Ingreso (egreso) neto por pasivos financieros del mercado de valores,,,,,,,,,,,,0,Marzo de 2016
+157,52.13.00 Ingreso (egreso) neto por financiamiento de partes relacionadas,,0,,208944,,24905,-65000,,,-100000,81644,-521030,Marzo de 2016
+158,52.14.00 Aumentos de capital,,0,,,,,,,,,0,0,Marzo de 2016
+159,52.15.00 Reparto de utilidades y de capital,,,,,,,,,,,,0,Marzo de 2016
+160,52.16.00 Otros ingresos (egresos) netos por actividades de financiamiento,,0,,,,,,,,,,0,Marzo de 2016
+161,52.10.00 Flujo neto originado por actividades de financiamiento,0,0,0,208944,0,24905,-65000,-974,0,-100000,81644,259666,Marzo de 2016
+162,Flujo neto originado por actividades de inversión,,,,,,,,,,,,,Marzo de 2016
+163,53.11.00 Ingreso (egreso) neto por instrumentos financieros a valor razonable del mercado de valores,1297,,,,583,,,,,0,0,4473,Marzo de 2016
+164,53.12.00 Ingreso (egreso) neto por instrumentos financieros derivados del mercado de valores,,,,,,,,,,,0,0,Marzo de 2016
+165,53.13.00 Ingreso (egreso) neto por instrumentos financieros a costo amortizado del mercado de valores,,,,,,,,,,-1100000,0,0,Marzo de 2016
+166,"53.14.00 Ingresos por ventas de propiedades, planta y equipo",,,,,,,,,,,0,0,Marzo de 2016
+167,53.15.00 Ingresos por ventas de inversiones en sociedades,,,,,,,,,,,0,0,Marzo de 2016
+168,53.16.00 Dividendos y otros ingresos percibidos de inversiones en sociedades,,,,,,,,,62819,,0,0,Marzo de 2016
+169,"53.17.00 Incorporación de propiedades, planta y equipo",,,,,,,,-902,,,0,0,Marzo de 2016
+170,53.18.00 Inversiones en sociedades,,0,,,,,,,,0,0,0,Marzo de 2016
+171,53.19.00 Otros ingresos (egresos) netos de inversión,,0,,684,,,191,-1027,,8811,0,0,Marzo de 2016
+172,53.10.00 Flujo neto originado por actividades de inversión,1297,0,0,684,583,0,191,-1929,62819,-1091189,0,4473,Marzo de 2016
+173,50.10.00 Flujo neto total positivo (negativo) del período,135117,2842,170906,3763,-16175,17396,-21979,-138273,38667,15529,-40347,203957,Marzo de 2016
+174,50.20.00 Efecto de la variación por tipo de cambio sobre el efectivo y efectivo equivalente,,0,,,,,,,23409,,,,Marzo de 2016
+175,50.30.00 Variación neta del efectivo y efectivo equivalente,135117,2842,170906,3763,-16175,17396,-21979,-138273,62076,15529,-40347,203957,Marzo de 2016
+176,50.40.00 Saldo inicial de efetivo y efectivo equivalente,408141,215410,236059,17603,451323,34841,28278,293436,,139328,388385,72016,Marzo de 2016
+177,50.00.00 Saldo final de efectivo y efectivo equivalente,543258,218252,406965,21366,435148,52237,6299,155163,62076,154857,348038,275973,Marzo de 2016

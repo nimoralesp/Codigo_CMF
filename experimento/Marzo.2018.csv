@@ -1,0 +1,178 @@
+Unnamed: 0,Cuentas,ADDWISE 03 / 2018,AVLA 03 / 2018,BAN TATTERSALL 03 / 2018,BCI 03 / 2018,CONTEMPORA 03 / 2018,DANK 03 / 2018,ECR OSORNO 03 / 2018,ELOY 03 / 2018,FINANCIA CAPITAL 03 / 2018,FINMAS 03 / 2018,LARRAIN VIAL 03 / 2018,LATAM TRADE CAPITAL 03 / 2018,MOONK 03 / 2018,TANNER 03 / 2018,Fecha
+1,RUT,76.147.513-4,76.268.236-2,76.977.670-2,76.466.468-K,76.686.240-3,76.249.106-0,76.030.732-7,76.389.487-8,76.089.848-1,76.609.787-1,99.587.310-9,76.148.647-0,76.727.442-4,76.313.350-8,Marzo de 2018
+2,Razón social,ADDWISE,AVLA,BAN TATTERSALL,BCI,CONTEMPORA,DANK,ECR OSORNO,ELOY,FINANCIA CAPITAL,FINMAS,LARRAIN VIAL,LATAM TRADE CAPITAL,MOONK,TANNER,Marzo de 2018
+3,,,,,,,,,,,,,,,,Marzo de 2018
+4,Estado de situación financiera,,,,,,,,,,,,,,,Marzo de 2018
+5,Activos,,,,,,,,,,,,,,,Marzo de 2018
+6,11.01.00 Efectivo y efectivo equivalente,190517,230475,872335,646,365381,16317,74171,91243,249584,232459,325082,2970,366167,1314916,Marzo de 2018
+7,11.02.00 Instrumentos financieros,0,0,0,425562,0,0,0,0,0,0,2000000,0,0,434306,Marzo de 2018
+8,11.02.10 A valor razonable - Cartera propia disponible,0,0,0,425562,0,0,0,0,0,0,2000000,0,0,434306,Marzo de 2018
+9,11.02.11 Renta variable (IRV),,,,,0,,,,,,2000000,,,,Marzo de 2018
+10,11.02.12 Renta fija e Intermediación Financiera (IRF e IIF),,,,425562,,,,,,,,,,434306,Marzo de 2018
+11,11.02.20 A valor razonable - Cartera propia comprometida,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Marzo de 2018
+12,11.02.21 Renta variable,,,,,,,,,,,,,,,Marzo de 2018
+13,11.02.22 Renta fija e Intermediación Financiera,,,,,,,,,,,,,,,Marzo de 2018
+14,11.02.30 A valor razonable - Instrumentos financieros derivados,,,,,,,,,,,,,,,Marzo de 2018
+15,11.02.40 A costo amortizado - Cartera propia disponible,,,,,,,,,,,,,,,Marzo de 2018
+16,11.02.50 A costo amortizado - Cartera propia comprometida,,,,,,,,,,,,,,,Marzo de 2018
+17,11.02.60 A costo amortizado - Operaciones de financiamiento,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Marzo de 2018
+18,11.02.61 Operaciones de compra con retroventa sobre IRV,,,,,,,,,,,,,,,Marzo de 2018
+19,11.02.62 Operaciones de compra con retroventa sobre IRF e IIF,,,,,,,,,,,,,,,Marzo de 2018
+20,11.02.63 Otras,,,,,,,,,0,,,,,,Marzo de 2018
+21,11.03.00 Productos,0,0,2314488,7530604,0,0,224131,0,0,0,527077,586470,0,162512,Marzo de 2018
+22,11.03.10 A valor razonable - Cartera propia disponible,0,0,2314488,7152991,0,0,224131,0,0,0,527077,0,0,0,Marzo de 2018
+23,11.03.11 Productos agropecuarios,,,,,,,,,,,,,,,Marzo de 2018
+24,11.03.12 Títulos representativos de productos agropecuarios (TRP),,,1339246,,,,,,,,,,,,Marzo de 2018
+25,11.03.13 Facturas,,,975242,7152991,,,224131,,,,527077,,,,Marzo de 2018
+26,11.03.14 Títulos representativos de facturas (TRF),,,,,,,,,,,,,,,Marzo de 2018
+27,11.03.15 Otros,,,,,,,,,,,,,,,Marzo de 2018
+28,11.03.20 A valor razonable - Cartera propia comprometida,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Marzo de 2018
+29,11.03.21 Productos agropecuarios,,,,,,,,,,,,,,,Marzo de 2018
+30,11.03.22 Títulos representativos de productos agropecuarios,,,,,,,,,,,,,,,Marzo de 2018
+31,11.03.23 Otros,,,,,,,,,,,,,,,Marzo de 2018
+32,11.03.30 A valor razonable - Instrumentos derivados,,,,,,,,,,,,,,,Marzo de 2018
+33,11.03.40 A costo amortizado - Cartera propia disponible,0,0,0,0,0,0,0,0,0,0,0,586470,0,162512,Marzo de 2018
+34,11.03.41 Facturas,,,,,,,,,,,,586470,,162512,Marzo de 2018
+35,11.03.42 Títulos representativos de facturas,,,,,,,,,,,,,,,Marzo de 2018
+36,11.03.43 Otros,,,,,,,,,,,,,,,Marzo de 2018
+37,11.03.50 A costo amortizado - Cartera propia comprometida,,,,,,,,,,,,,,,Marzo de 2018
+38,11.03.60 A costo amortizado - Operaciones de financiamiento,0,0,0,377613,0,0,0,0,0,0,0,0,0,0,Marzo de 2018
+39,11.03.61 Operaciones de compra con retroventa sobre productos agropecuarios,,,,,,,,,,,,,,,Marzo de 2018
+40,11.03.62 Operaciones de compra con retroventa sobre TRP,,,,377613,,,,,,,0,,,,Marzo de 2018
+41,11.03.63 Otras,,,,,,,,,,,,,,,Marzo de 2018
+42,11.04.00 Deudores por intermediación,,,,1273,0,,,581675,,507346,0,0,,,Marzo de 2018
+43,11.05.00 Cuentas por cobrar por operaciones de cartera propia,,,,,,,,,,,,,,12577,Marzo de 2018
+44,11.06.00 Cuentas por cobrar a partes relacionadas,,,30792,13848,0,,,,0,29978,430441,0,,,Marzo de 2018
+45,11.07.00 Otras cuentas por cobrar,1239,,379602,21012,202588,1240,9802,217064,0,3010,0,,,33899,Marzo de 2018
+46,11.08.00 Impuestos por cobrar,8680,8676,92647,0,,2740,2338,12154,11029,919,83830,23289,3656,11488,Marzo de 2018
+47,11.09.00 Impuestos diferidos,2963,0,2442,15176,54593,18582,58,2717,0,28063,7134,2139,6024,30955,Marzo de 2018
+48,11.10.00 Inversiones en sociedades,,25203,200385,,172702,24618,149214,26454,0,,149069,,,153930,Marzo de 2018
+49,11.11.00 Intangibles,8535,5103,10669,17013,0,,0,5606,0,38868,,33705,51995,,Marzo de 2018
+50,"11.12.00 Propiedades, planta y equipo",74,0,3199,1139,147,,0,4681,316,1019,,400,,104,Marzo de 2018
+51,11.13.00 Otros activos,0,3574,4300,,,192727,512,11297,1640,1224,1541,30620,,2244,Marzo de 2018
+52,10.00.00 Total Activos,212008,273031,3910859,8026273,795411,256224,460226,952891,262569,842886,3524174,679593,427842,2156931,Marzo de 2018
+53,Pasivos y Patrimonio,,,,,,,,,,,,,,,Marzo de 2018
+54,Pasivos,,,,,,,,,,,,,,,Marzo de 2018
+55,21.01.00 Pasivos financieros,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Marzo de 2018
+56,21.01.10 A valor razonable,,,,,,,,,,,,,,,Marzo de 2018
+57,21.01.20 A valor razonable - Instrumentos financieros derivados,,,,,,,,,,,,,,,Marzo de 2018
+58,21.01.30 Obligaciones por financiamiento,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Marzo de 2018
+59,21.01.31 Operaciones de venta con retrocompra sobre IRV,,,,,,,,,,,,,,,Marzo de 2018
+60,21.01.32 Operaciones de venta con retrocompra sobre IRF e IIF,,,,,,,,,,,,,,,Marzo de 2018
+61,21.01.33 Otras,,,,,,,,,,,,,,,Marzo de 2018
+62,21.02.00 Pasivos del mercado de productos,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Marzo de 2018
+63,21.02.10 A valor razonable,,,,,,,,,,,,,,,Marzo de 2018
+64,21.02.20 A valor razonable - Instrumentos derivados,,,,,,,,,,,,,,,Marzo de 2018
+65,21.02.30 Obligaciones por financiamiento,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Marzo de 2018
+66,21.02.31 Operaciones de venta con retrocompra sobre productos agropecuarios,,,,,,,,,,,,,,,Marzo de 2018
+67,21.02.32 Operaciones de venta con retrocompra sobre TRP,,,,,,,,,,,0,,,,Marzo de 2018
+68,21.02.33 Otras,,,,,,,,,,,,,,,Marzo de 2018
+69,21.03.00 Obligaciones con bancos e instituciones financieras,,,1350936,,,,,,0,,,,,,Marzo de 2018
+70,21.04.00 Acreedores por intermediación,,,,,0,,,588563,0,515703,0,0,,,Marzo de 2018
+71,21.05.00 Cuentas por pagar por operaciones de cartera propia,,,,198366,,,,,,,,0,,,Marzo de 2018
+72,21.06.00 Cuentas por pagar a partes relacionadas,0,94213,176208,7159169,,5469,,,0,77037,,0,22457,508963,Marzo de 2018
+73,21.07.00 Otras cuentas por pagar,6327,3415,799212,69852,110398,17308,77110,36025,1786,6214,2279348,19106,702,308889,Marzo de 2018
+74,21.08.00 Provisiones,7930,2157,11180,38815,5123,13091,3102,10413,0,,30401,23376,1079,15765,Marzo de 2018
+75,21.09.00 Impuestos por pagar,87,0,16037,37555,2883,1096,724,62466,0,3438,62509,24772,0,11005,Marzo de 2018
+76,21.10.00 Impuestos diferidos,,1378,0,,,,,,0,,,,0,4805,Marzo de 2018
+77,21.11.00 Otros pasivos,0,0,19174,,,,,,,,,,0,,Marzo de 2018
+78,21.00.00 Total Pasivos,14344,101163,2372747,7503757,118404,36964,80936,697467,1786,602392,2372258,67254,24238,849427,Marzo de 2018
+79,Patrimonio,,,,,,,,,,,,,,,Marzo de 2018
+80,22.01.00 Capital,240000,180000,433711,460000,720453,319572,387118,214000,285060,322996,701188,484476,423000,902046,Marzo de 2018
+81,22.02.00 Reservas,,,149,1293,-18865,,4940,1902,-5060,,16465,,,-14481,Marzo de 2018
+82,22.03.00 Resultados acumulados,-17528,1910,1099071,71521,-15547,-61233,30979,-27676,-18668,-62501,394947,148421,-7479,462011,Marzo de 2018
+83,22.04.00 Resultado del ejercicio,-24808,-10042,5181,28653,-9034,-39079,-43747,67198,-549,-20001,39316,1633,-11917,-42072,Marzo de 2018
+84,22.05.00 Dividendos provisorios o participaciones,,,,-38951,,,,,0,,,-22191,0,,Marzo de 2018
+85,22.00.00 Total Patrimonio,197664,171868,1538112,522516,677007,219260,379290,255424,260783,240494,1151916,612339,403604,1307504,Marzo de 2018
+86,20.00.00 TOTAL PAC.M.F Y PATRIMONIO,212008,273031,3910859,8026273,795411,256224,460226,952891,262569,842886,3524174,679593,427842,2156931,Marzo de 2018
+87,,,,,,,,,,,,,,,,Marzo de 2018
+88,Estado de resultados integrales,,,,,,,,,,,,,,,Marzo de 2018
+89,Estado de resultados,,,,,,,,,,,,,,,Marzo de 2018
+90,Resultado por intermediación,,,,,,,,,,,,,,,Marzo de 2018
+91,30.10.01 Comisiones por operaciones bursátiles,,0,80836,59584,38379,63762,15692,226082,0,34920,55964,31257,,4630,Marzo de 2018
+92,30.10.02 Comisiones por operaciones extra bursátiles,,,,,,,,,,,,,,,Marzo de 2018
+93,30.10.03 Gastos por comisiones y servicios,-2358,-7089,-27518,,-7616,-62561,-6167,-14533,0,-16078,-13439,-15564,,-12718,Marzo de 2018
+94,30.10.04 Otras comisiones,0,0,4090,,,1451,,,0,,,6860,,,Marzo de 2018
+95,30.10.00 Total resultado por intermediación,-2358,-7089,57408,59584,30763,2652,9525,211549,0,18842,42525,22553,0,-8088,Marzo de 2018
+96,Ingresos por servicios,,,,,,,,,,,,,,,Marzo de 2018
+97,30.20.01 Ingresos por custodia,,,,,,,,,,,,,,,Marzo de 2018
+98,30.20.02 Ingresos por asesorías,,,,,,5680,29321,,,929,59852,,,,Marzo de 2018
+99,30.20.03 Otros ingresos por servicios,,,,,,,,,,,,,,,Marzo de 2018
+100,30.20.00 Total ingresos por servicios,0,0,0,0,0,5680,29321,0,0,929,59852,0,0,0,Marzo de 2018
+101,Resultado por productos,,,,,,,,,,,,,,,Marzo de 2018
+102,30.30.01 A valor razonable,,,52882,,,,3003,,,,10898,,1925,,Marzo de 2018
+103,30.30.02 A valor razonable - Instrumentos derivados,,,,,,,,,,,,,,,Marzo de 2018
+104,30.30.03 A costo amortizado,,,,119470,,,,,,,,,,3147,Marzo de 2018
+105,30.30.04 A costo amortizado - Operaciones de financiamiento,,,,,,,,,,,,,,,Marzo de 2018
+106,30.30.00 Total resultado por productos,0,0,52882,119470,0,0,3003,0,0,0,10898,0,1925,3147,Marzo de 2018
+107,Resultado por instrumentos financieros,,,,,,,,,,,,,,,Marzo de 2018
+108,30.40.01 A valor razonable,0,2332,,0,293,3445,,,0,,4429,0,,-1142,Marzo de 2018
+109,30.40.02 A valor razonable - Instrumentos financieros derivados,,,,,,,,,,,,,,,Marzo de 2018
+110,30.40.03 A costo amortizado,,,,,,,,,1526,,,,,,Marzo de 2018
+111,30.40.04 A costo amortizado - Operaciones de financiamiento,,,,,,,,,,,,,,,Marzo de 2018
+112,30.40.00 Total resultado por instrumentos financieros,0,2332,0,0,293,3445,0,0,1526,0,4429,0,0,-1142,Marzo de 2018
+113,Resultado por operaciones de financiamiento,,,,,,,,,,,,,,,Marzo de 2018
+114,30.50.01 Gastos por financiamiento del mercado de productos,,,,,,,,,,,,,,,Marzo de 2018
+115,30.50.02 Gastos por financiamiento del mercado de valores,,,,,,,,,,,,,,,Marzo de 2018
+116,30.50.03 Otros gastos financieros,,,-25906,-45313,,-29,,,,-66,-4137,,,,Marzo de 2018
+117,30.50.00 Total resultado por operaciones de financiamiento,0,0,-25906,-45313,0,-29,0,0,0,-66,-4137,0,0,0,Marzo de 2018
+118,Gastos de administración y comercialización,,,,,,,,,,,,,,,Marzo de 2018
+119,30.60.01 Remuneraciones y gastos de personal,-15810,0,-43826,-49065,-27405,-27015,-81912,-88228,0,-35343,-53722,-6006,-8987,-31920,Marzo de 2018
+120,30.60.02 Gastos de comercialización,-6640,0,,-14747,,,,,,,-9321,,,,Marzo de 2018
+121,30.60.03 Otros gastos de administración,0,-6175,-34008,-31583,-12700,-20561,-2261,-29998,-2088,-11209,,-16021,-8133,-7310,Marzo de 2018
+122,30.60.00 Total gastos de administración y comercialización,-22450,-6175,-77834,-95395,-40105,-47576,-84173,-118226,-2088,-46552,-63043,-22027,-17120,-39230,Marzo de 2018
+123,Otros resultados,,,,,,,,,,,,,,,Marzo de 2018
+124,30.70.01 Reajuste y diferencia de cambio,,40,280,909,,,0,35,13,,0,-1,15,64,Marzo de 2018
+125,30.70.02 Resultado de inversiones en sociedades,,178,168,0,-175,,-175,,,,-174,,,,Marzo de 2018
+126,30.70.03 Otros ingresos (gastos),,410,99,-1626,190,,26,-407,,,1318,0,,,Marzo de 2018
+127,30.70.00 Total otros resultados,0,628,547,-717,15,0,-149,-372,13,0,1144,-1,15,64,Marzo de 2018
+128,30.80.00 Resultado antes de impuesto a la renta,-24808,-10304,7097,37629,-9034,-35828,-42473,92951,-549,-26847,51668,525,-15180,-45249,Marzo de 2018
+129,30.90.00 Impuesto a la renta,0,262,-1916,-8976,,-3251,-1274,-25753,0,6846,-12352,1108,3263,3177,Marzo de 2018
+130,30.00.00 Utilidad (pérdida) del ejercicio,-24808,-10042,5181,28653,-9034,-39079,-43747,67198,-549,-20001,39316,1633,-11917,-42072,Marzo de 2018
+131,Estado de otros resultados integrales,,,,,,,,,,,,,,,Marzo de 2018
+132,30.00.00 Utilidad (pérdida) del ejercicio,-24808,-10042,5181,28653,-9034,-39079,-43747,67198,-549,-20001,39316,1633,-11917,-42072,Marzo de 2018
+133,Ingresos (gastos) registrados con abono (cargo) a patrimonio,,,,,,,,,,,,,,,Marzo de 2018
+134,"31.10.00 Revalorización de propiedades, planta y equipo",,,,,,,,,,,,,,,Marzo de 2018
+135,31.20.00 Activos financieros a valor razonable por patrimonio,,,,0,,,,-31,,,,,,,Marzo de 2018
+136,31.30.00 Participación de otros resultados integrales de inversiones en sociedades,,,,,,,,,,,,,,,Marzo de 2018
+137,31.40.00 Otros ingresos (gastos) registrados con abono (cargo) a patrimonio,,,,600,,,,,,,,,,,Marzo de 2018
+138,31.50.00 Impuesto a la renta de otros resultados integrales,,,,,,,,,,,,,,,Marzo de 2018
+139,31.00.00 Total ingresos (gastos) registrados con abono (cargo) a patrimonio,0,0,0,600,0,0,0,-31,0,0,0,0,0,0,Marzo de 2018
+140,32.00.00 Total resultados integrales reconocidos del ejercicio,-24808,-10042,5181,29253,-9034,-39079,-43747,67167,-549,-20001,39316,1633,-11917,-42072,Marzo de 2018
+141,,,,,,,,,,,,,,,,Marzo de 2018
+142,Estados de Flujos de efectivo - Método directo,,,,,,,,,,,,,,,Marzo de 2018
+143,Flujo neto originado por actividades de la operación,,,,,,,,,,,,,,,Marzo de 2018
+144,51.11.00 Comisiones recaudadas (pagadas) por intermediación de productos,,0,37955,47947,30477,-3265,15692,226082,,,42526,76291,,-8087,Marzo de 2018
+145,51.12.00 Ingreso (egreso) neto por cuenta de clientes,,0,24590,,,,,-180522,,33990,-755448,0,,12715,Marzo de 2018
+146,51.13.00 Ingreso (egreso) neto por instrumentos a valor razonable del mercado de productos,,0,,9178,,,-64233,,,,4429,,,,Marzo de 2018
+147,51.14.00 Ingreso (egreso) neto por instrumentos derivados del mercado de productos,,,,,,,,,,,0,,,,Marzo de 2018
+148,51.15.00 Ingreso (egreso) neto por instrumentos a costo amortizado del mercado de productos,,,68245,,,,,,,,0,-133382,,4734,Marzo de 2018
+149,51.16.00 Ingreso (egreso) neto por asesorías y custodia,,0,,,,,19519,,,929,0,,,,Marzo de 2018
+150,51.17.00 Gastos de administración y comercialización pagados,-15810,-15400,-141959,,-44492,-39975,-23696,-118226,-6182,-73192,-126754,-32768,-11594,-39863,Marzo de 2018
+151,51.18.00 Impuestos pagados,0,0,,,-593,,-1973,-47252,-21,-5096,-40780,-8468,,-2216,Marzo de 2018
+152,51.19.00 Otros ingresos (egresos) netos por actividades de la operación,-191271,0,,-15120,-193024,2394,-7747,-407,0,-468,2071543,0,,,Marzo de 2018
+153,51.10.00 Flujo neto originado por actividades de la operación,-207081,-15400,-11169,42005,-207632,-40846,-62438,-120325,-6203,-43837,1195516,-98327,-11594,-32717,Marzo de 2018
+154,Flujo neto originado por actividades de financiamiento,,,,,,,,,,,,,,,Marzo de 2018
+155,52.11.00 Ingreso (egreso) neto por pasivos del mercado de productos,,,,,,,,,0,,,,,140813,Marzo de 2018
+156,52.12.00 Ingreso (egreso) neto por pasivos financieros del mercado de valores,,,,,,,,,,90372,,,,,Marzo de 2018
+157,52.13.00 Ingreso (egreso) neto por financiamiento de partes relacionadas,,0,8000,-40542,,33613,,,,,390000,0,0,508963,Marzo de 2018
+158,52.14.00 Aumentos de capital,20000,0,,,,,,,,,,0,0,,Marzo de 2018
+159,52.15.00 Reparto de utilidades y de capital,,,,,,,,,0,,,,,,Marzo de 2018
+160,52.16.00 Otros ingresos (egresos) netos por actividades de financiamiento,,0,-18523,,,,,,,-66,,,,,Marzo de 2018
+161,52.10.00 Flujo neto originado por actividades de financiamiento,20000,0,-10523,-40542,0,33613,0,0,0,90306,390000,0,0,649776,Marzo de 2018
+162,Flujo neto originado por actividades de inversión,,,,,,,,,,,,,,,Marzo de 2018
+163,53.11.00 Ingreso (egreso) neto por instrumentos financieros a valor razonable del mercado de valores,,,,,579,,,,,,-2000000,0,1925,459609,Marzo de 2018
+164,53.12.00 Ingreso (egreso) neto por instrumentos financieros derivados del mercado de valores,,,,,,,,,1526,,0,0,,,Marzo de 2018
+165,53.13.00 Ingreso (egreso) neto por instrumentos financieros a costo amortizado del mercado de valores,,,,,,,,,,,0,0,,,Marzo de 2018
+166,"53.14.00 Ingresos por ventas de propiedades, planta y equipo",,,,,,,,,,,,0,,,Marzo de 2018
+167,53.15.00 Ingresos por ventas de inversiones en sociedades,,,,,,,,,,,,0,,,Marzo de 2018
+168,53.16.00 Dividendos y otros ingresos percibidos de inversiones en sociedades,,,,,,,,,0,,,0,,,Marzo de 2018
+169,"53.17.00 Incorporación de propiedades, planta y equipo",,,,-1155,,,,-125,0,,,0,,,Marzo de 2018
+170,53.18.00 Inversiones en sociedades,,0,0,,,,,,,,,0,,,Marzo de 2018
+171,53.19.00 Otros ingresos (egresos) netos de inversión,,2332,13608,0,,,5,,0,,,0,,,Marzo de 2018
+172,53.10.00 Flujo neto originado por actividades de inversión,0,2332,13608,-1155,579,0,5,-125,1526,0,-2000000,0,1925,459609,Marzo de 2018
+173,50.10.00 Flujo neto total positivo (negativo) del período,-187081,-13068,-8084,308,-207053,-7233,-62433,-120450,-4677,46469,-414484,-98327,-9669,1076668,Marzo de 2018
+174,50.20.00 Efecto de la variación por tipo de cambio sobre el efectivo y efectivo equivalente,,,,,,,,,0,,,,,,Marzo de 2018
+175,50.30.00 Variación neta del efectivo y efectivo equivalente,-187081,-13068,-8084,308,-207053,-7233,-62433,-120450,-4677,46469,-414484,-98327,-9669,1076668,Marzo de 2018
+176,50.40.00 Saldo inicial de efetivo y efectivo equivalente,377598,243543,880419,338,572434,23550,136604,211693,254261,185990,739566,101297,375836,238248,Marzo de 2018
+177,50.00.00 Saldo final de efectivo y efectivo equivalente,190517,230475,872335,646,365381,16317,74171,91243,249584,232459,325082,2970,366167,1314916,Marzo de 2018

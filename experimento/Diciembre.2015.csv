@@ -1,0 +1,178 @@
+Unnamed: 0,Cuentas,ADDWISE 12 / 2015,AVLA 12 / 2015,BAN TATTERSALL 12 / 2015,BCI 12 / 2015,CONTEMPORA 12 / 2015,DANK 12 / 2015,ECR OSORNO 12 / 2015,ELOY 12 / 2015,FINANCIA CAPITAL 12 / 2015,LARRAIN VIAL 12 / 2015,LATAM TRADE CAPITAL 12 / 2015,TANNER 12 / 2015,Fecha
+1,RUT,76.147.513-4,76.268.236-2,76.977.670-2,76.466.468-K,76.686.240-3,76.249.106-0,76.030.732-7,76.389.487-8,76.089.848-1,99.587.310-9,76.148.647-0,76.313.350-8,Diciembre de 2015
+2,Razón social,ADDWISE,AVLA,BAN TATTERSALL,BCI,CONTEMPORA,DANK,ECR OSORNO,ELOY,FINANCIA CAPITAL,LARRAIN VIAL,LATAM TRADE CAPITAL,TANNER,Diciembre de 2015
+3,,,,,,,,,,,,,,Diciembre de 2015
+4,Estado de situación financiera,,,,,,,,,,,,,Diciembre de 2015
+5,Activos,,,,,,,,,,,,,Diciembre de 2015
+6,11.01.00 Efectivo y efectivo equivalente,408141,215410,236059,17603,451323,34841,28278,293436,23409,139328,388385,72016,Diciembre de 2015
+7,11.02.00 Instrumentos financieros,,,799700,391863,0,0,0,0,0,800217,0,0,Diciembre de 2015
+8,11.02.10 A valor razonable - Cartera propia disponible,,,0,0,0,0,0,0,0,800217,0,0,Diciembre de 2015
+9,11.02.11 Renta variable (IRV),,,,,0,,,,,800217,,0,Diciembre de 2015
+10,11.02.12 Renta fija e Intermediación Financiera (IRF e IIF),,,,,,,,,,,,0,Diciembre de 2015
+11,11.02.20 A valor razonable - Cartera propia comprometida,,,0,0,0,0,0,0,0,0,0,0,Diciembre de 2015
+12,11.02.21 Renta variable,,,,,,,,,,,,0,Diciembre de 2015
+13,11.02.22 Renta fija e Intermediación Financiera,,,,,,,,,,,,0,Diciembre de 2015
+14,11.02.30 A valor razonable - Instrumentos financieros derivados,,,,,,,,,,,,0,Diciembre de 2015
+15,11.02.40 A costo amortizado - Cartera propia disponible,,,799700,391863,,,,,,,,0,Diciembre de 2015
+16,11.02.50 A costo amortizado - Cartera propia comprometida,,,,,,,,,,,,0,Diciembre de 2015
+17,11.02.60 A costo amortizado - Operaciones de financiamiento,,,0,0,0,0,0,0,0,0,0,0,Diciembre de 2015
+18,11.02.61 Operaciones de compra con retroventa sobre IRV,,,,,,,,,,,,,Diciembre de 2015
+19,11.02.62 Operaciones de compra con retroventa sobre IRF e IIF,,,,,,,,,,,,,Diciembre de 2015
+20,11.02.63 Otras,,,,,,,,,0,,,,Diciembre de 2015
+21,11.03.00 Productos,,,0,3626263,0,0,77474,0,0,131126,182615,1566597,Diciembre de 2015
+22,11.03.10 A valor razonable - Cartera propia disponible,,,0,3626263,0,0,77474,0,0,131126,0,0,Diciembre de 2015
+23,11.03.11 Productos agropecuarios,,,,,,,,,,,,0,Diciembre de 2015
+24,11.03.12 Títulos representativos de productos agropecuarios (TRP),,,,,,,,,,,,0,Diciembre de 2015
+25,11.03.13 Facturas,,,,3626263,,,77474,,,131126,,0,Diciembre de 2015
+26,11.03.14 Títulos representativos de facturas (TRF),,,,,,,,,,,,,Diciembre de 2015
+27,11.03.15 Otros,,,,,,,,,,,,,Diciembre de 2015
+28,11.03.20 A valor razonable - Cartera propia comprometida,,,0,0,0,0,0,0,0,0,0,0,Diciembre de 2015
+29,11.03.21 Productos agropecuarios,,,,,,,,,,,,,Diciembre de 2015
+30,11.03.22 Títulos representativos de productos agropecuarios,,,,,,,,,,,,,Diciembre de 2015
+31,11.03.23 Otros,,,,,,,,,,,,,Diciembre de 2015
+32,11.03.30 A valor razonable - Instrumentos derivados,,,,,,,,,,,,,Diciembre de 2015
+33,11.03.40 A costo amortizado - Cartera propia disponible,,,0,0,0,0,0,0,0,0,182615,1566597,Diciembre de 2015
+34,11.03.41 Facturas,,,,,,,,,,,182615,1566597,Diciembre de 2015
+35,11.03.42 Títulos representativos de facturas,,,,,,,,,,,,,Diciembre de 2015
+36,11.03.43 Otros,,,,,,,,,,,,,Diciembre de 2015
+37,11.03.50 A costo amortizado - Cartera propia comprometida,,,,,,,,,,,,,Diciembre de 2015
+38,11.03.60 A costo amortizado - Operaciones de financiamiento,,,0,0,0,0,0,0,0,0,0,0,Diciembre de 2015
+39,11.03.61 Operaciones de compra con retroventa sobre productos agropecuarios,,,,,,,,,,,,,Diciembre de 2015
+40,11.03.62 Operaciones de compra con retroventa sobre TRP,,,,,,,,,,0,,,Diciembre de 2015
+41,11.03.63 Otras,,,,,,,,,,,,,Diciembre de 2015
+42,11.04.00 Deudores por intermediación,18688,,32767,,2464,,,1732211,,0,0,0,Diciembre de 2015
+43,11.05.00 Cuentas por cobrar por operaciones de cartera propia,,,,,,,144000,,,,,542100,Diciembre de 2015
+44,11.06.00 Cuentas por cobrar a partes relacionadas,11791,,236335,,,,,,546335,0,343103,0,Diciembre de 2015
+45,11.07.00 Otras cuentas por cobrar,1864,0,272799,490,7430,21246,,558,0,4659,,490210,Diciembre de 2015
+46,11.08.00 Impuestos por cobrar,4228,669,62310,2317,,1243,4604,4222,11144,3005,14956,98582,Diciembre de 2015
+47,11.09.00 Impuestos diferidos,765,289,15902,12070,41322,52079,714,1699,0,11894,4289,2783,Diciembre de 2015
+48,11.10.00 Inversiones en sociedades,,23328,144449,,167578,23772,144089,25546,0,143948,,138380,Diciembre de 2015
+49,11.11.00 Intangibles,15518,17496,26404,24797,1475,,0,9022,21202,,40995,0,Diciembre de 2015
+50,"11.12.00 Propiedades, planta y equipo",478,0,3518,,0,,0,4615,561,,598,577,Diciembre de 2015
+51,11.13.00 Otros activos,1607,4777,163,360,,162992,,2559,830,,47321,1569,Diciembre de 2015
+52,10.00.00 Total Activos,463080,261969,1830406,4075763,671592,296173,399159,2073868,603481,1234177,1022262,2912814,Diciembre de 2015
+53,Pasivos y Patrimonio,,,,,,,,,,,,,Diciembre de 2015
+54,Pasivos,,,,,,,,,,,,,Diciembre de 2015
+55,21.01.00 Pasivos financieros,,,0,0,0,0,0,0,0,0,0,0,Diciembre de 2015
+56,21.01.10 A valor razonable,,,,,,,,,,,,,Diciembre de 2015
+57,21.01.20 A valor razonable - Instrumentos financieros derivados,,,,,,,,,,,,,Diciembre de 2015
+58,21.01.30 Obligaciones por financiamiento,,,0,0,0,0,0,0,0,0,0,0,Diciembre de 2015
+59,21.01.31 Operaciones de venta con retrocompra sobre IRV,,,,,,,,,,,,,Diciembre de 2015
+60,21.01.32 Operaciones de venta con retrocompra sobre IRF e IIF,,,,,,,,,,,,,Diciembre de 2015
+61,21.01.33 Otras,,,,,,,,,,,,,Diciembre de 2015
+62,21.02.00 Pasivos del mercado de productos,,,0,0,0,0,0,0,0,0,0,0,Diciembre de 2015
+63,21.02.10 A valor razonable,,,,,,,,,,,,,Diciembre de 2015
+64,21.02.20 A valor razonable - Instrumentos derivados,,,,,,,,,,,,,Diciembre de 2015
+65,21.02.30 Obligaciones por financiamiento,,,0,0,0,0,0,0,0,0,0,0,Diciembre de 2015
+66,21.02.31 Operaciones de venta con retrocompra sobre productos agropecuarios,,,,,,,,,,,,,Diciembre de 2015
+67,21.02.32 Operaciones de venta con retrocompra sobre TRP,,,,,,,,,,0,,,Diciembre de 2015
+68,21.02.33 Otras,,,,,,,,,,,,,Diciembre de 2015
+69,21.03.00 Obligaciones con bancos e instituciones financieras,,,,,,,,974,0,,,,Diciembre de 2015
+70,21.04.00 Acreedores por intermediación,173238,0,,,2004,18277,,1755979,21574,0,0,0,Diciembre de 2015
+71,21.05.00 Cuentas por pagar por operaciones de cartera propia,,,,17618,,,,,,,0,0,Diciembre de 2015
+72,21.06.00 Cuentas por pagar a partes relacionadas,1165,36184,170483,3612127,,35913,,,17073,,269718,519571,Diciembre de 2015
+73,21.07.00 Otras cuentas por pagar,6202,345,259103,8823,1874,14515,3331,78316,19859,504895,223537,150376,Diciembre de 2015
+74,21.08.00 Provisiones,37407,5180,53923,4978,7735,11924,5440,11577,2589,59619,12163,18605,Diciembre de 2015
+75,21.09.00 Impuestos por pagar,2838,771,82807,266,2614,2153,543,12662,9714,8034,647,106875,Diciembre de 2015
+76,21.10.00 Impuestos diferidos,,,0,,,,,,3619,,,353,Diciembre de 2015
+77,21.11.00 Otros pasivos,,0,262,,,,,,,,,122155,Diciembre de 2015
+78,21.00.00 Total Pasivos,220850,42480,566578,3643812,14227,82782,9314,1859508,74428,572548,506065,917935,Diciembre de 2015
+79,Patrimonio,,,,,,,,,,,,,Diciembre de 2015
+80,22.01.00 Capital,197000,180000,433711,460000,720453,319572,387118,214000,285060,701188,378000,902046,Diciembre de 2015
+81,22.02.00 Reservas,0,,149,-2635,-18865,,4940,993,-5060,16105,,-25833,Diciembre de 2015
+82,22.03.00 Resultados acumulados,34494,21184,545596,,-102885,25927,56110,-1810,213478,-56376,146493,833638,Diciembre de 2015
+83,22.04.00 Resultado del ejercicio,10736,18305,284372,-25414,58662,-132108,-58323,1177,50821,712,-8296,407183,Diciembre de 2015
+84,22.05.00 Dividendos provisorios o participaciones,0,,,,,,,,-15246,,,-122155,Diciembre de 2015
+85,22.00.00 Total Patrimonio,242230,219489,1263828,431951,657365,213391,389845,214360,529053,661629,516197,1994879,Diciembre de 2015
+86,20.00.00 TOTAL PAC.M.F Y PATRIMONIO,463080,261969,1830406,4075763,671592,296173,399159,2073868,603481,1234177,1022262,2912814,Diciembre de 2015
+87,,,,,,,,,,,,,,Diciembre de 2015
+88,Estado de resultados integrales,,,,,,,,,,,,,Diciembre de 2015
+89,Estado de resultados,,,,,,,,,,,,,Diciembre de 2015
+90,Resultado por intermediación,,,,,,,,,,,,,Diciembre de 2015
+91,30.10.01 Comisiones por operaciones bursátiles,156577,257,945495,8370,207409,102284,12181,242871,131365,278894,53033,426023,Diciembre de 2015
+92,30.10.02 Comisiones por operaciones extra bursátiles,,,,,,,,,,70298,,0,Diciembre de 2015
+93,30.10.03 Gastos por comisiones y servicios,-45086,-27627,-214225,,-37800,-35363,-22388,-1090,-27848,-77690,-38937,-92380,Diciembre de 2015
+94,30.10.04 Otras comisiones,,2620,64558,,,4120,,448,81791,,101827,0,Diciembre de 2015
+95,30.10.00 Total resultado por intermediación,111491,-24750,795828,8370,169609,71041,-10207,242229,185308,271502,115923,333643,Diciembre de 2015
+96,Ingresos por servicios,,,,,,,,,,,,,Diciembre de 2015
+97,30.20.01 Ingresos por custodia,,,,,,,,,,,,,Diciembre de 2015
+98,30.20.02 Ingresos por asesorías,,,,,,,76372,,,,,184148,Diciembre de 2015
+99,30.20.03 Otros ingresos por servicios,,64133,,,,,,,,,,185080,Diciembre de 2015
+100,30.20.00 Total ingresos por servicios,,64133,0,0,0,0,76372,0,0,0,0,369228,Diciembre de 2015
+101,Resultado por productos,,,,,,,,,,,,,Diciembre de 2015
+102,30.30.01 A valor razonable,,,,28011,,,10440,,,37239,,,Diciembre de 2015
+103,30.30.02 A valor razonable - Instrumentos derivados,,,,,,,,,,,,,Diciembre de 2015
+104,30.30.03 A costo amortizado,,,,,,,,,,,,91393,Diciembre de 2015
+105,30.30.04 A costo amortizado - Operaciones de financiamiento,,,,,,,,,,,,,Diciembre de 2015
+106,30.30.00 Total resultado por productos,,,0,28011,0,0,10440,0,0,37239,0,91393,Diciembre de 2015
+107,Resultado por instrumentos financieros,,,,,,,,,,,,,Diciembre de 2015
+108,30.40.01 A valor razonable,29800,11820,,4951,2874,14863,,,209,,0,671,Diciembre de 2015
+109,30.40.02 A valor razonable - Instrumentos financieros derivados,,,,,,,,,,,,,Diciembre de 2015
+110,30.40.03 A costo amortizado,,,,,,,,,0,,,,Diciembre de 2015
+111,30.40.04 A costo amortizado - Operaciones de financiamiento,,,,6820,,,,,,,,,Diciembre de 2015
+112,30.40.00 Total resultado por instrumentos financieros,29800,11820,0,11771,2874,14863,0,0,209,0,0,671,Diciembre de 2015
+113,Resultado por operaciones de financiamiento,,,,,,,,,,,,,Diciembre de 2015
+114,30.50.01 Gastos por financiamiento del mercado de productos,,,,,,,,,,,,0,Diciembre de 2015
+115,30.50.02 Gastos por financiamiento del mercado de valores,,,,,,,,,,,,,Diciembre de 2015
+116,30.50.03 Otros gastos financieros,,0,-4502,-20667,,-849,,,,-8067,,,Diciembre de 2015
+117,30.50.00 Total resultado por operaciones de financiamiento,,0,-4502,-20667,0,-849,0,0,0,-8067,0,0,Diciembre de 2015
+118,Gastos de administración y comercialización,,,,,,,,,,,,,Diciembre de 2015
+119,30.60.01 Remuneraciones y gastos de personal,-74332,-15394,-271945,-47584,-63632,-28242,-114987,-165261,-25205,-237220,-70840,-182363,Diciembre de 2015
+120,30.60.02 Gastos de comercialización,-36503,-862,,-847,,,,-3000,,-55234,,-57634,Diciembre de 2015
+121,30.60.03 Otros gastos de administración,-17700,-13910,-171944,-15573,-52568,-241024,-23615,-66007,-100357,-335,-61362,-50686,Diciembre de 2015
+122,30.60.00 Total gastos de administración y comercialización,-128535,-30166,-443889,-64004,-116200,-269266,-138602,-234268,-125562,-292789,-132202,-290683,Diciembre de 2015
+123,Otros resultados,,,,,,,,,,,,,Diciembre de 2015
+124,30.70.01 Reajuste y diferencia de cambio,58,0,1446,,,24,,-6527,143,-169,235,3798,Diciembre de 2015
+125,30.70.02 Resultado de inversiones en sociedades,,0,2227,476,2363,,2364,,,2510,,0,Diciembre de 2015
+126,30.70.03 Otros ingresos (gastos),2,75,4292,-609,16,,1261,-1956,,1407,0,4323,Diciembre de 2015
+127,30.70.00 Total otros resultados,60,75,7965,-133,2379,24,3625,-8483,143,3748,235,8121,Diciembre de 2015
+128,30.80.00 Resultado antes de impuesto a la renta,12816,21112,355402,-36652,58662,-184187,-58372,-522,60098,11633,-16044,512373,Diciembre de 2015
+129,30.90.00 Impuesto a la renta,-2080,-2807,-71030,11238,0,52079,49,1699,-9277,-10921,7748,-105190,Diciembre de 2015
+130,30.00.00 Utilidad (pérdida) del ejercicio,10736,18305,284372,-25414,58662,-132108,-58323,1177,50821,712,-8296,407183,Diciembre de 2015
+131,Estado de otros resultados integrales,,,,,,,,,,,,,Diciembre de 2015
+132,30.00.00 Utilidad (pérdida) del ejercicio,10736,18305,284372,-25414,58662,-132108,-58323,1177,50821,712,-8296,407183,Diciembre de 2015
+133,Ingresos (gastos) registrados con abono (cargo) a patrimonio,,,,,,,,,,,,,Diciembre de 2015
+134,"31.10.00 Revalorización de propiedades, planta y equipo",,,,,,,,,,,,,Diciembre de 2015
+135,31.20.00 Activos financieros a valor razonable por patrimonio,,,,-2635,,,,993,,,,,Diciembre de 2015
+136,31.30.00 Participación de otros resultados integrales de inversiones en sociedades,,,,,,,,,,,,,Diciembre de 2015
+137,31.40.00 Otros ingresos (gastos) registrados con abono (cargo) a patrimonio,,,,,,,,,,,,,Diciembre de 2015
+138,31.50.00 Impuesto a la renta de otros resultados integrales,,,,,,,,,,,,,Diciembre de 2015
+139,31.00.00 Total ingresos (gastos) registrados con abono (cargo) a patrimonio,,,0,-2635,0,0,0,993,0,0,0,0,Diciembre de 2015
+140,32.00.00 Total resultados integrales reconocidos del ejercicio,10736,18305,284372,-28049,58662,-132108,-58323,2170,50821,712,-8296,407183,Diciembre de 2015
+141,,,,,,,,,,,,,,Diciembre de 2015
+142,Estados de Flujos de efectivo - Método directo,,,,,,,,,,,,,Diciembre de 2015
+143,Flujo neto originado por actividades de la operación,,,,,,,,,,,,,Diciembre de 2015
+144,51.11.00 Comisiones recaudadas (pagadas) por intermediación de productos,162172,-27370,707251,9467,171969,122437,12181,207713,103517,100430,-55978,461046,Diciembre de 2015
+145,51.12.00 Ingreso (egreso) neto por cuenta de clientes,0,0,218709,,50841,,234485,185312,,-1837486,0,62011,Diciembre de 2015
+146,51.13.00 Ingreso (egreso) neto por instrumentos a valor razonable del mercado de productos,,11820,88577,-3579149,,700,,,,,,0,Diciembre de 2015
+147,51.14.00 Ingreso (egreso) neto por instrumentos derivados del mercado de productos,,,,,,,,,,,,0,Diciembre de 2015
+148,51.15.00 Ingreso (egreso) neto por instrumentos a costo amortizado del mercado de productos,,,,,,,,,,,-336277,89726,Diciembre de 2015
+149,51.16.00 Ingreso (egreso) neto por asesorías y custodia,,64133,,,,,81507,,,,,179558,Diciembre de 2015
+150,51.17.00 Gastos de administración y comercialización pagados,-119418,-30166,-843921,,-121375,-52528,-127266,-161184,-166827,-52402,-131699,-288231,Diciembre de 2015
+151,51.18.00 Impuestos pagados,-2797,-8015,,,-122,-8300,-8920,,-44339,-40122,-13505,-209648,Diciembre de 2015
+152,51.19.00 Otros ingresos (egresos) netos por actividades de la operación,141740,2620,16079,-53199,9436,-128290,-26957,35158,81791,-1526,0,1999,Diciembre de 2015
+153,51.10.00 Flujo neto originado por actividades de la operación,181697,13022,186695,-3622881,110749,-65981,165030,266999,-25858,-1831106,-537459,296461,Diciembre de 2015
+154,Flujo neto originado por actividades de financiamiento,,,,,,,,,,,,,Diciembre de 2015
+155,52.11.00 Ingreso (egreso) neto por pasivos del mercado de productos,,,,,,,,,0,,,-1992870,Diciembre de 2015
+156,52.12.00 Ingreso (egreso) neto por pasivos financieros del mercado de valores,,,,,,,,,,,,0,Diciembre de 2015
+157,52.13.00 Ingreso (egreso) neto por financiamiento de partes relacionadas,,0,-123800,3590873,,83550,-144000,,,,202785,519571,Diciembre de 2015
+158,52.14.00 Aumentos de capital,,0,,460000,,,,36000,,,0,0,Diciembre de 2015
+159,52.15.00 Reparto de utilidades y de capital,-40000,,,,,,,,,,,-174500,Diciembre de 2015
+160,52.16.00 Otros ingresos (egresos) netos por actividades de financiamiento,0,0,,,,,,,,,,,Diciembre de 2015
+161,52.10.00 Flujo neto originado por actividades de financiamiento,-40000,0,-123800,4050873,0,83550,-144000,36000,0,0,202785,-1647799,Diciembre de 2015
+162,Flujo neto originado por actividades de inversión,,,,,,,,,,,,,Diciembre de 2015
+163,53.11.00 Ingreso (egreso) neto por instrumentos financieros a valor razonable del mercado de valores,,,,,3148,,,,209,0,0,671,Diciembre de 2015
+164,53.12.00 Ingreso (egreso) neto por instrumentos financieros derivados del mercado de valores,,,,-384883,,,,,,,,,Diciembre de 2015
+165,53.13.00 Ingreso (egreso) neto por instrumentos financieros a costo amortizado del mercado de valores,,,,,,,,,,-800000,,,Diciembre de 2015
+166,"53.14.00 Ingresos por ventas de propiedades, planta y equipo",,,,,,,,,,,,,Diciembre de 2015
+167,53.15.00 Ingresos por ventas de inversiones en sociedades,,,,,,,,,,,,,Diciembre de 2015
+168,53.16.00 Dividendos y otros ingresos percibidos de inversiones en sociedades,,,,,,,,,,,,,Diciembre de 2015
+169,"53.17.00 Incorporación de propiedades, planta y equipo",-478,,-750,,,,,-5148,-673,,-613,,Diciembre de 2015
+170,53.18.00 Inversiones en sociedades,,0,-500,,0,,,,,0,,,Diciembre de 2015
+171,53.19.00 Otros ingresos (egresos) netos de inversión,,0,-7921,-25506,0,,1197,-9838,-8217,18530,,,Diciembre de 2015
+172,53.10.00 Flujo neto originado por actividades de inversión,-478,0,-9171,-410389,3148,0,1197,-14986,-8681,-781470,-613,671,Diciembre de 2015
+173,50.10.00 Flujo neto total positivo (negativo) del período,141219,13022,53724,17603,113897,17569,22227,288013,-34539,-2612576,-335287,-1350667,Diciembre de 2015
+174,50.20.00 Efecto de la variación por tipo de cambio sobre el efectivo y efectivo equivalente,,0,,,,,,,57948,-169,,,Diciembre de 2015
+175,50.30.00 Variación neta del efectivo y efectivo equivalente,141219,13022,53724,17603,113897,17569,22227,288013,23409,-2612745,-335287,-1350667,Diciembre de 2015
+176,50.40.00 Saldo inicial de efetivo y efectivo equivalente,266922,202388,182335,,337426,17272,6051,5423,,2752073,723672,1422683,Diciembre de 2015
+177,50.00.00 Saldo final de efectivo y efectivo equivalente,408141,215410,236059,17603,451323,34841,28278,293436,23409,139328,388385,72016,Diciembre de 2015

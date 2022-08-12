@@ -1,0 +1,178 @@
+Unnamed: 0,Cuentas,AVLA 06 / 2021,BAN TATTERSALL 06 / 2021,BCI 06 / 2021,CONTEMPORA 06 / 2021,DANK 06 / 2021,ECR OSORNO 06 / 2021,ELOY 06 / 2021,FINMAS 06 / 2021,LARRAIN VIAL 06 / 2021,LATAM TRADE CAPITAL 06 / 2021,MOONK 06 / 2021,NUEVO CAPITAL 06 / 2021,TANNER 06 / 2021,Fecha
+1,RUT,76.268.236-2,76.977.670-2,76.466.468-K,76.686.240-3,76.249.106-0,76.030.732-7,76.389.487-8,76.609.787-1,99.587.310-9,76.148.647-0,76.727.442-4,76.899.853-1,76.313.350-8,Junio de 2021
+2,Razón social,AVLA,BAN TATTERSALL,BCI,CONTEMPORA,DANK,ECR OSORNO,ELOY,FINMAS,LARRAIN VIAL,LATAM TRADE CAPITAL,MOONK,NUEVO CAPITAL,TANNER,Junio de 2021
+3,,,,,,,,,,,,,,,Junio de 2021
+4,Estado de situación financiera,,,,,,,,,,,,,,Junio de 2021
+5,Activos,,,,,,,,,,,,,,Junio de 2021
+6,11.01.00 Efectivo y efectivo equivalente,268105,388582,286723,782607,12907,45297,189664,188924,648462,215535,155007,804942,387,Junio de 2021
+7,11.02.00 Instrumentos financieros,0,0,0,0,139235,0,0,0,0,0,0,0,0,Junio de 2021
+8,11.02.10 A valor razonable - Cartera propia disponible,0,0,0,0,139235,0,0,0,0,0,0,0,0,Junio de 2021
+9,11.02.11 Renta variable (IRV),,0,,0,139235,,,,0,,,,,Junio de 2021
+10,11.02.12 Renta fija e Intermediación Financiera (IRF e IIF),,0,,,,,,,,0,,,,Junio de 2021
+11,11.02.20 A valor razonable - Cartera propia comprometida,0,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2021
+12,11.02.21 Renta variable,,0,,,,,,,,0,,,,Junio de 2021
+13,11.02.22 Renta fija e Intermediación Financiera,,0,,,,,,,,0,,,,Junio de 2021
+14,11.02.30 A valor razonable - Instrumentos financieros derivados,,0,,,,,,,,0,,,,Junio de 2021
+15,11.02.40 A costo amortizado - Cartera propia disponible,,0,,,,,,,,0,,,,Junio de 2021
+16,11.02.50 A costo amortizado - Cartera propia comprometida,,0,,,,,,,,0,,,,Junio de 2021
+17,11.02.60 A costo amortizado - Operaciones de financiamiento,0,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2021
+18,11.02.61 Operaciones de compra con retroventa sobre IRV,,0,,,,,,,,0,,,,Junio de 2021
+19,11.02.62 Operaciones de compra con retroventa sobre IRF e IIF,,0,,,,,,,,0,,,,Junio de 2021
+20,11.02.63 Otras,,0,,,,,,,,0,,,,Junio de 2021
+21,11.03.00 Productos,0,1068995,8933645,0,0,222903,0,0,349452,779019,0,240296,0,Junio de 2021
+22,11.03.10 A valor razonable - Cartera propia disponible,0,1068995,8058478,0,0,222903,0,0,349452,0,0,240296,0,Junio de 2021
+23,11.03.11 Productos agropecuarios,,0,,,,,,,,0,,,,Junio de 2021
+24,11.03.12 Títulos representativos de productos agropecuarios (TRP),,0,,,,,,,,0,,,,Junio de 2021
+25,11.03.13 Facturas,,1068995,8058478,,,222903,,,349452,0,,240296,,Junio de 2021
+26,11.03.14 Títulos representativos de facturas (TRF),,0,,,,,,,,0,,,,Junio de 2021
+27,11.03.15 Otros,,0,,,,,,,,0,,,,Junio de 2021
+28,11.03.20 A valor razonable - Cartera propia comprometida,0,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2021
+29,11.03.21 Productos agropecuarios,,0,,,,,,,,0,,,,Junio de 2021
+30,11.03.22 Títulos representativos de productos agropecuarios,,0,,,,,,,,0,,,,Junio de 2021
+31,11.03.23 Otros,,0,,,,,,,,0,,,,Junio de 2021
+32,11.03.30 A valor razonable - Instrumentos derivados,,0,,,,,,,,0,,,,Junio de 2021
+33,11.03.40 A costo amortizado - Cartera propia disponible,0,0,819752,0,0,0,0,0,0,779019,0,0,0,Junio de 2021
+34,11.03.41 Facturas,,0,819752,,,,,,,779019,,,,Junio de 2021
+35,11.03.42 Títulos representativos de facturas,,0,,,,,,,,0,,,,Junio de 2021
+36,11.03.43 Otros,,0,,,,,,,,0,,,,Junio de 2021
+37,11.03.50 A costo amortizado - Cartera propia comprometida,,0,,,,,,,,0,,,,Junio de 2021
+38,11.03.60 A costo amortizado - Operaciones de financiamiento,0,0,55415,0,0,0,0,0,0,0,0,0,0,Junio de 2021
+39,11.03.61 Operaciones de compra con retroventa sobre productos agropecuarios,,0,,,,,,,,0,,,,Junio de 2021
+40,11.03.62 Operaciones de compra con retroventa sobre TRP,,0,55415,,,,,,,0,,,,Junio de 2021
+41,11.03.63 Otras,,0,,,,,,,,0,,,,Junio de 2021
+42,11.04.00 Deudores por intermediación,,0,,0,,,992569,682773,,0,,935305,,Junio de 2021
+43,11.05.00 Cuentas por cobrar por operaciones de cartera propia,,0,,,,,,,,0,,,,Junio de 2021
+44,11.06.00 Cuentas por cobrar a partes relacionadas,,7924,0,20813,98085,,,15543,0,0,,75765,519200,Junio de 2021
+45,11.07.00 Otras cuentas por cobrar,0,64408,0,12700,,0,,400,3104,0,,,37255,Junio de 2021
+46,11.08.00 Impuestos por cobrar,16545,3783,50468,,2684,5187,21342,2251,25474,11710,15684,20332,69773,Junio de 2021
+47,11.09.00 Impuestos diferidos,0,84193,245651,83263,34097,14348,12597,14330,300883,27858,30900,7518,155057,Junio de 2021
+48,11.10.00 Inversiones en sociedades,25507,151284,,174920,24984,151436,26842,,151284,0,,43461,,Junio de 2021
+49,11.11.00 Intangibles,0,6323,1417,0,,,5870,46339,,33705,51100,41187,,Junio de 2021
+50,"11.12.00 Propiedades, planta y equipo",0,165,1182,817,,,13600,3525,,325,180,553,0,Junio de 2021
+51,11.13.00 Otros activos,0,1100428,0,,1381,,,13598,0,2775,2528,1360,4227,Junio de 2021
+52,10.00.00 Total Activos,310157,2876085,9519086,1075120,313373,439171,1262484,967683,1478659,1070927,255399,2170719,785899,Junio de 2021
+53,Pasivos y Patrimonio,,,,,,,,,,,,,,Junio de 2021
+54,Pasivos,,,,,,,,,,,,,,Junio de 2021
+55,21.01.00 Pasivos financieros,0,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2021
+56,21.01.10 A valor razonable,,0,,,,,,,,0,,,,Junio de 2021
+57,21.01.20 A valor razonable - Instrumentos financieros derivados,,0,,,,,,,,0,,,,Junio de 2021
+58,21.01.30 Obligaciones por financiamiento,0,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2021
+59,21.01.31 Operaciones de venta con retrocompra sobre IRV,,0,,,,,,,,0,,,,Junio de 2021
+60,21.01.32 Operaciones de venta con retrocompra sobre IRF e IIF,,0,,,,,,,,0,,,,Junio de 2021
+61,21.01.33 Otras,,0,,,,,,,,0,,,,Junio de 2021
+62,21.02.00 Pasivos del mercado de productos,0,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2021
+63,21.02.10 A valor razonable,,0,,,,,,,,0,,,,Junio de 2021
+64,21.02.20 A valor razonable - Instrumentos derivados,,0,,,,,,,,0,,,,Junio de 2021
+65,21.02.30 Obligaciones por financiamiento,0,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2021
+66,21.02.31 Operaciones de venta con retrocompra sobre productos agropecuarios,,0,,,,,,,,0,,,,Junio de 2021
+67,21.02.32 Operaciones de venta con retrocompra sobre TRP,,0,,,,,,,0,0,,,,Junio de 2021
+68,21.02.33 Otras,,0,,,,,,,,0,,,,Junio de 2021
+69,21.03.00 Obligaciones con bancos e instituciones financieras,,1344839,,,,,,,,0,,,,Junio de 2021
+70,21.04.00 Acreedores por intermediación,,0,,0,,,1017432,682001,,0,,1527295,,Junio de 2021
+71,21.05.00 Cuentas por pagar por operaciones de cartera propia,,0,468921,,,,,,,0,,,,Junio de 2021
+72,21.06.00 Cuentas por pagar a partes relacionadas,45468,207,7991047,0,0,,,1832,0,42809,,72552,,Junio de 2021
+73,21.07.00 Otras cuentas por pagar,22320,43077,17808,395773,9026,129,40335,31243,490747,342167,4464,13178,21414,Junio de 2021
+74,21.08.00 Provisiones,0,6428,41313,8219,7165,2368,1890,4299,58136,4644,,5899,3930,Junio de 2021
+75,21.09.00 Impuestos por pagar,0,0,,3177,1239,18,179,2656,3100,192,508,28602,1111,Junio de 2021
+76,21.10.00 Impuestos diferidos,0,1794,,,,,,,,0,,,8051,Junio de 2021
+77,21.11.00 Otros pasivos,0,7706,,,,,,,,0,,,,Junio de 2021
+78,21.00.00 Total Pasivos,67788,1404051,8519089,407169,17430,2515,1059836,722031,551983,389812,4972,1647526,34506,Junio de 2021
+79,Patrimonio,,,,,,,,,,,,,,Junio de 2021
+80,22.01.00 Capital,311661,433711,1290423,720453,389572,387118,214000,358728,701188,484476,323000,480000,902046,Junio de 2021
+81,22.02.00 Reservas,,0,456,-18865,,4940,2290,,17533,0,,,-21406,Junio de 2021
+82,22.03.00 Resultados acumulados,-56382,1026953,-298434,-15574,-93307,70755,25302,-110809,295347,230659,-65637,30543,-114762,Junio de 2021
+83,22.04.00 Resultado del ejercicio,-12910,11370,10788,-18063,-322,-26157,-38944,-2267,-87392,-34020,-6936,12650,-14485,Junio de 2021
+84,22.05.00 Dividendos provisorios o participaciones,,0,-3236,,,,,,,0,,,,Junio de 2021
+85,22.00.00 Total Patrimonio,242369,1472034,999997,667951,295943,436656,202648,245652,926676,681115,250427,523193,751393,Junio de 2021
+86,20.00.00 TOTAL PAC.M.F Y PATRIMONIO,310157,2876085,9519086,1075120,313373,439171,1262484,967683,1478659,1070927,255399,2170719,785899,Junio de 2021
+87,,,,,,,,,,,,,,,Junio de 2021
+88,Estado de resultados integrales,,,,,,,,,,,,,,Junio de 2021
+89,Estado de resultados,,,,,,,,,,,,,,Junio de 2021
+90,Resultado por intermediación,,,,,,,,,,,,,,Junio de 2021
+91,30.10.01 Comisiones por operaciones bursátiles,10645,63452,79400,50521,,4175,20967,141531,73851,4817,5942,8912,0,Junio de 2021
+92,30.10.02 Comisiones por operaciones extra bursátiles,,0,,,,,,,,0,,,,Junio de 2021
+93,30.10.03 Gastos por comisiones y servicios,-13501,-20177,-11316,-11755,-21467,-13376,-7759,-49289,-10863,-10356,,-53689,-15782,Junio de 2021
+94,30.10.04 Otras comisiones,0,5178,2578,,40759,,,,,153,,202712,,Junio de 2021
+95,30.10.00 Total resultado por intermediación,-2856,48453,70662,38766,19292,-9201,13208,92242,62988,-5386,5942,157935,-15782,Junio de 2021
+96,Ingresos por servicios,,,,,,,,,,,,,,Junio de 2021
+97,30.20.01 Ingresos por custodia,,0,,,,,,,,0,,,,Junio de 2021
+98,30.20.02 Ingresos por asesorías,,0,,,,0,,,0,0,8407,,,Junio de 2021
+99,30.20.03 Otros ingresos por servicios,,0,,,,,,,,0,,,5850,Junio de 2021
+100,30.20.00 Total ingresos por servicios,0,0,0,0,0,0,0,0,0,0,8407,0,5850,Junio de 2021
+101,Resultado por productos,,,,,,,,,,,,,,Junio de 2021
+102,30.30.01 A valor razonable,,19665,110454,,,3176,,,17882,0,,8291,,Junio de 2021
+103,30.30.02 A valor razonable - Instrumentos derivados,,0,,,,,,,,0,,,,Junio de 2021
+104,30.30.03 A costo amortizado,,0,35264,,,,,,,12713,,,,Junio de 2021
+105,30.30.04 A costo amortizado - Operaciones de financiamiento,,0,,,,,,,,0,,,,Junio de 2021
+106,30.30.00 Total resultado por productos,0,19665,145718,0,0,3176,0,0,17882,12713,0,8291,0,Junio de 2021
+107,Resultado por instrumentos financieros,,,,,,,,,,,,,,Junio de 2021
+108,30.40.01 A valor razonable,0,0,,11,4149,,,,20,0,66,,0,Junio de 2021
+109,30.40.02 A valor razonable - Instrumentos financieros derivados,,0,,,,,,,0,0,,,0,Junio de 2021
+110,30.40.03 A costo amortizado,,0,,,,,,,,0,,,,Junio de 2021
+111,30.40.04 A costo amortizado - Operaciones de financiamiento,,0,,,,,,,,0,,,,Junio de 2021
+112,30.40.00 Total resultado por instrumentos financieros,0,0,0,11,4149,0,0,0,20,0,66,0,0,Junio de 2021
+113,Resultado por operaciones de financiamiento,,,,,,,,,,,,,,Junio de 2021
+114,30.50.01 Gastos por financiamiento del mercado de productos,,0,,,,,,,,0,,,,Junio de 2021
+115,30.50.02 Gastos por financiamiento del mercado de valores,,0,,,,,,,,0,,,,Junio de 2021
+116,30.50.03 Otros gastos financieros,,-19931,-14280,,,,,-3823,-1043,0,,,,Junio de 2021
+117,30.50.00 Total resultado por operaciones de financiamiento,0,-19931,-14280,0,0,0,0,-3823,-1043,0,0,0,0,Junio de 2021
+118,Gastos de administración y comercialización,,,,,,,,,,,,,,Junio de 2021
+119,30.60.01 Remuneraciones y gastos de personal,0,-67742,-124330,-25122,-19617,-13232,-25898,-66272,-108498,-23241,,-119609,0,Junio de 2021
+120,30.60.02 Gastos de comercialización,0,0,-16094,,,0,,,-100194,0,,,,Junio de 2021
+121,30.60.03 Otros gastos de administración,-9284,-36988,-57038,-27725,-3658,-2941,-37753,-26616,,-18777,-21623,-32341,-4553,Junio de 2021
+122,30.60.00 Total gastos de administración y comercialización,-9284,-104730,-197462,-52847,-23275,-16173,-63651,-92888,-208692,-42018,-21623,-151950,-4553,Junio de 2021
+123,Otros resultados,,,,,,,,,,,,,,Junio de 2021
+124,30.70.01 Reajuste y diferencia de cambio,0,34,2727,,,,80,1948,5,671,,76,0,Junio de 2021
+125,30.70.02 Resultado de inversiones en sociedades,-770,-4561,0,-4565,-740,-3773,,,-3773,0,,-1066,,Junio de 2021
+126,30.70.03 Otros ingresos (gastos),0,67373,-6541,572,5,116,,,1083,0,272,,0,Junio de 2021
+127,30.70.00 Total otros resultados,-770,62846,-3814,-3993,-735,-3657,80,1948,-2685,671,272,-990,0,Junio de 2021
+128,30.80.00 Resultado antes de impuesto a la renta,-12910,6303,824,-18063,-569,-25855,-50363,-2521,-131530,-34020,-6936,13286,-14485,Junio de 2021
+129,30.90.00 Impuesto a la renta,0,5067,9964,0,247,-302,11419,254,44138,0,,-636,0,Junio de 2021
+130,30.00.00 Utilidad (pérdida) del ejercicio,-12910,11370,10788,-18063,-322,-26157,-38944,-2267,-87392,-34020,-6936,12650,-14485,Junio de 2021
+131,Estado de otros resultados integrales,,,,,,,,,,,,,,Junio de 2021
+132,30.00.00 Utilidad (pérdida) del ejercicio,-12910,11370,10788,-18063,-322,-26157,-38944,-2267,-87392,-34020,-6936,12650,-14485,Junio de 2021
+133,Ingresos (gastos) registrados con abono (cargo) a patrimonio,,,,,,,,,,,,,,Junio de 2021
+134,"31.10.00 Revalorización de propiedades, planta y equipo",,0,,,,,,,,0,,,0,Junio de 2021
+135,31.20.00 Activos financieros a valor razonable por patrimonio,,0,,,,,-809,,,0,,,0,Junio de 2021
+136,31.30.00 Participación de otros resultados integrales de inversiones en sociedades,,0,,,,,,,-788,0,,,,Junio de 2021
+137,31.40.00 Otros ingresos (gastos) registrados con abono (cargo) a patrimonio,,0,-429,,,,,,,0,,,,Junio de 2021
+138,31.50.00 Impuesto a la renta de otros resultados integrales,,0,,,,,,,,0,,,,Junio de 2021
+139,31.00.00 Total ingresos (gastos) registrados con abono (cargo) a patrimonio,0,0,-429,0,0,0,-809,0,-788,0,0,0,0,Junio de 2021
+140,32.00.00 Total resultados integrales reconocidos del ejercicio,-12910,11370,10359,-18063,-322,-26157,-39753,-2267,-88180,-34020,-6936,12650,-14485,Junio de 2021
+141,,,,,,,,,,,,,,,Junio de 2021
+142,Estados de Flujos de efectivo - Método directo,,,,,,,,,,,,,,Junio de 2021
+143,Flujo neto originado por actividades de la operación,,,,,,,,,,,,,,Junio de 2021
+144,51.11.00 Comisiones recaudadas (pagadas) por intermediación de productos,10645,68630,70291,38309,,4175,20967,-47246,63177,186198,7071,122371,,Junio de 2021
+145,51.12.00 Ingreso (egreso) neto por cuenta de clientes,0,0,,0,,,58975,,0,0,,,0,Junio de 2021
+146,51.13.00 Ingreso (egreso) neto por instrumentos a valor razonable del mercado de productos,0,0,-3765668,,,54575,,,0,0,,,,Junio de 2021
+147,51.14.00 Ingreso (egreso) neto por instrumentos derivados del mercado de productos,,0,,,,,,,0,0,,,,Junio de 2021
+148,51.15.00 Ingreso (egreso) neto por instrumentos a costo amortizado del mercado de productos,,0,-875167,,,,,,0,-66167,,,,Junio de 2021
+149,51.16.00 Ingreso (egreso) neto por asesorías y custodia,0,0,,,,0,,,0,0,10004,,-21443,Junio de 2021
+150,51.17.00 Gastos de administración y comercialización pagados,-22786,-93355,,-50574,-23068,-34985,-83098,-80951,-237526,-61912,-22711,-32341,-747,Junio de 2021
+151,51.18.00 Impuestos pagados,0,0,,-239,-196,-294,,-4033,-12342,-3374,-140,,0,Junio de 2021
+152,51.19.00 Otros ingresos (egresos) netos por actividades de la operación,0,0,-667294,-251619,,768,3055,,59413,4014,,544613,5850,Junio de 2021
+153,51.10.00 Flujo neto originado por actividades de la operación,-12141,-24725,-5237838,-264123,-23264,24239,-101,-132230,-127278,58759,-5776,634643,-16340,Junio de 2021
+154,Flujo neto originado por actividades de financiamiento,,,,,,,,,,,,,,Junio de 2021
+155,52.11.00 Ingreso (egreso) neto por pasivos del mercado de productos,,0,,,,,,50095,,0,,,,Junio de 2021
+156,52.12.00 Ingreso (egreso) neto por pasivos financieros del mercado de valores,,0,,,,,,,,0,,,,Junio de 2021
+157,52.13.00 Ingreso (egreso) neto por financiamiento de partes relacionadas,24920,230000,5523294,,25000,,,,0,0,,,15131,Junio de 2021
+158,52.14.00 Aumentos de capital,,0,,,,,,,,0,20000,,,Junio de 2021
+159,52.15.00 Reparto de utilidades y de capital,,0,,,,,,,0,0,,,0,Junio de 2021
+160,52.16.00 Otros ingresos (egresos) netos por actividades de financiamiento,,-16868,,,,,,1201,,0,,,,Junio de 2021
+161,52.10.00 Flujo neto originado por actividades de financiamiento,24920,213132,5523294,0,25000,0,0,51296,0,0,20000,0,15131,Junio de 2021
+162,Flujo neto originado por actividades de inversión,,,,,,,,,,,,,,Junio de 2021
+163,53.11.00 Ingreso (egreso) neto por instrumentos financieros a valor razonable del mercado de valores,,0,,468,,,,,20,0,66,,0,Junio de 2021
+164,53.12.00 Ingreso (egreso) neto por instrumentos financieros derivados del mercado de valores,,0,,,,,,,,0,,,,Junio de 2021
+165,53.13.00 Ingreso (egreso) neto por instrumentos financieros a costo amortizado del mercado de valores,,0,,,,,,,0,0,,,,Junio de 2021
+166,"53.14.00 Ingresos por ventas de propiedades, planta y equipo",,0,,,,,,,,0,,,,Junio de 2021
+167,53.15.00 Ingresos por ventas de inversiones en sociedades,,0,,,,,,,,0,,,,Junio de 2021
+168,53.16.00 Dividendos y otros ingresos percibidos de inversiones en sociedades,,0,,,13,,,,,0,,,,Junio de 2021
+169,"53.17.00 Incorporación de propiedades, planta y equipo",,0,0,,,,,-1548,,0,,,,Junio de 2021
+170,53.18.00 Inversiones en sociedades,0,0,,0,,,,,,0,,,,Junio de 2021
+171,53.19.00 Otros ingresos (egresos) netos de inversión,-770,-868536,,,,13,,-23269,,0,,,,Junio de 2021
+172,53.10.00 Flujo neto originado por actividades de inversión,-770,-868536,0,468,13,13,0,-24817,20,0,66,0,0,Junio de 2021
+173,50.10.00 Flujo neto total positivo (negativo) del período,12009,-680129,285456,-263655,1749,24252,-101,-105751,-127258,58759,14290,634643,-1209,Junio de 2021
+174,50.20.00 Efecto de la variación por tipo de cambio sobre el efectivo y efectivo equivalente,,,,,,,,,,,,,,Junio de 2021
+175,50.30.00 Variación neta del efectivo y efectivo equivalente,12009,-680129,285456,-263655,1749,24252,-101,-105751,-127258,58759,14290,634643,-1209,Junio de 2021
+176,50.40.00 Saldo inicial de efetivo y efectivo equivalente,256096,1068711,1267,1046262,11158,21045,189765,294675,775720,156776,140717,170299,1596,Junio de 2021
+177,50.00.00 Saldo final de efectivo y efectivo equivalente,268105,388582,286723,782607,12907,45297,189664,188924,648462,215535,155007,804942,387,Junio de 2021

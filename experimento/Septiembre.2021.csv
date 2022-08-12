@@ -1,0 +1,178 @@
+Unnamed: 0,Cuentas,AVLA 09 / 2021,BAN TATTERSALL 09 / 2021,BCI 09 / 2021,CONTEMPORA 09 / 2021,DANK 09 / 2021,ECR OSORNO 09 / 2021,ELOY 09 / 2021,FINMAS 09 / 2021,LARRAIN VIAL 09 / 2021,LATAM TRADE CAPITAL 09 / 2021,MOONK 09 / 2021,NUEVO CAPITAL 09 / 2021,TANNER 09 / 2021,Fecha
+1,RUT,76.268.236-2,76.977.670-2,76.466.468-K,76.686.240-3,76.249.106-0,76.030.732-7,76.389.487-8,76.609.787-1,99.587.310-9,76.148.647-0,76.727.442-4,76.899.853-1,76.313.350-8,Septiembre de 2021
+2,Razón social,AVLA,BAN TATTERSALL,BCI,CONTEMPORA,DANK,ECR OSORNO,ELOY,FINMAS,LARRAIN VIAL,LATAM TRADE CAPITAL,MOONK,NUEVO CAPITAL,TANNER,Septiembre de 2021
+3,,,,,,,,,,,,,,,Septiembre de 2021
+4,Estado de situación financiera,,,,,,,,,,,,,,Septiembre de 2021
+5,Activos,,,,,,,,,,,,,,Septiembre de 2021
+6,11.01.00 Efectivo y efectivo equivalente,284413,418376,7159,542391,14023,17934,188142,199396,487673,5014,146273,734105,845,Septiembre de 2021
+7,11.02.00 Instrumentos financieros,0,0,0,0,141648,0,0,0,0,0,0,0,0,Septiembre de 2021
+8,11.02.10 A valor razonable - Cartera propia disponible,0,0,0,0,141648,0,0,0,0,0,0,0,0,Septiembre de 2021
+9,11.02.11 Renta variable (IRV),,0,,0,141648,0,,,0,,,,,Septiembre de 2021
+10,11.02.12 Renta fija e Intermediación Financiera (IRF e IIF),,0,,,,0,,,,0,,,,Septiembre de 2021
+11,11.02.20 A valor razonable - Cartera propia comprometida,0,0,0,0,0,0,0,0,0,0,0,0,0,Septiembre de 2021
+12,11.02.21 Renta variable,,0,,,,,,,,0,,,,Septiembre de 2021
+13,11.02.22 Renta fija e Intermediación Financiera,,0,,,,,,,,0,,,,Septiembre de 2021
+14,11.02.30 A valor razonable - Instrumentos financieros derivados,,0,,,,,,,,0,,,,Septiembre de 2021
+15,11.02.40 A costo amortizado - Cartera propia disponible,,0,,,,,,,,0,,,,Septiembre de 2021
+16,11.02.50 A costo amortizado - Cartera propia comprometida,,0,,,,,,,,0,,,,Septiembre de 2021
+17,11.02.60 A costo amortizado - Operaciones de financiamiento,0,0,0,0,0,0,0,0,0,0,0,0,0,Septiembre de 2021
+18,11.02.61 Operaciones de compra con retroventa sobre IRV,,0,,,,,,,,0,,,,Septiembre de 2021
+19,11.02.62 Operaciones de compra con retroventa sobre IRF e IIF,,0,,,,,,,,0,,,,Septiembre de 2021
+20,11.02.63 Otras,,0,,,,,,,,0,,,,Septiembre de 2021
+21,11.03.00 Productos,0,986944,12724840,0,0,248025,0,0,0,672625,0,0,0,Septiembre de 2021
+22,11.03.10 A valor razonable - Cartera propia disponible,0,986944,11855770,0,0,248025,0,0,0,0,0,0,0,Septiembre de 2021
+23,11.03.11 Productos agropecuarios,,0,,,,,,,,0,,,,Septiembre de 2021
+24,11.03.12 Títulos representativos de productos agropecuarios (TRP),,0,,,,,,,,0,,,,Septiembre de 2021
+25,11.03.13 Facturas,,986944,11855770,,,248025,,,0,0,,0,,Septiembre de 2021
+26,11.03.14 Títulos representativos de facturas (TRF),,0,,,,,,,,0,,,,Septiembre de 2021
+27,11.03.15 Otros,,0,,,,,,,,0,,,,Septiembre de 2021
+28,11.03.20 A valor razonable - Cartera propia comprometida,0,0,0,0,0,0,0,0,0,0,0,0,0,Septiembre de 2021
+29,11.03.21 Productos agropecuarios,,0,,,,,,,,0,,,,Septiembre de 2021
+30,11.03.22 Títulos representativos de productos agropecuarios,,0,,,,,,,,0,,,,Septiembre de 2021
+31,11.03.23 Otros,,0,,,,,,,,0,,,,Septiembre de 2021
+32,11.03.30 A valor razonable - Instrumentos derivados,,0,,,,,,,,0,,,,Septiembre de 2021
+33,11.03.40 A costo amortizado - Cartera propia disponible,0,0,819752,0,0,0,0,0,0,672625,0,0,0,Septiembre de 2021
+34,11.03.41 Facturas,,0,819752,,,,,,,672625,,,,Septiembre de 2021
+35,11.03.42 Títulos representativos de facturas,,0,,,,,,,,0,,,,Septiembre de 2021
+36,11.03.43 Otros,,0,,,,,,,,0,,,,Septiembre de 2021
+37,11.03.50 A costo amortizado - Cartera propia comprometida,,0,,,,,,,,0,,,,Septiembre de 2021
+38,11.03.60 A costo amortizado - Operaciones de financiamiento,0,0,49318,0,0,0,0,0,0,0,0,0,0,Septiembre de 2021
+39,11.03.61 Operaciones de compra con retroventa sobre productos agropecuarios,,0,,,,,,,,0,,,,Septiembre de 2021
+40,11.03.62 Operaciones de compra con retroventa sobre TRP,,0,49318,,,,,,,0,,,,Septiembre de 2021
+41,11.03.63 Otras,,0,,,,,,,,0,,,,Septiembre de 2021
+42,11.04.00 Deudores por intermediación,,0,0,0,,,1101459,817076,,0,,507425,,Septiembre de 2021
+43,11.05.00 Cuentas por cobrar por operaciones de cartera propia,,72855,0,,,,,,,0,,,,Septiembre de 2021
+44,11.06.00 Cuentas por cobrar a partes relacionadas,,8053,0,20232,102625,,,2599,0,0,,16507,529281,Septiembre de 2021
+45,11.07.00 Otras cuentas por cobrar,0,47701,0,13459,,0,,2887,3104,0,,,,Septiembre de 2021
+46,11.08.00 Impuestos por cobrar,15658,4668,71796,,2849,6144,22648,945,21554,11082,16815,32148,39845,Septiembre de 2021
+47,11.09.00 Impuestos diferidos,0,84193,245548,83263,32879,14325,13613,16171,284139,27858,30900,2702,69773,Septiembre de 2021
+48,11.10.00 Inversiones en sociedades,25475,151098,,174734,24953,151245,26809,,151098,0,,43171,155057,Septiembre de 2021
+49,11.11.00 Intangibles,0,5431,354,0,,,4825,45928,,33705,51100,40884,,Septiembre de 2021
+50,"11.12.00 Propiedades, planta y equipo",0,0,1065,747,,,13300,3310,,228,131,0,0,Septiembre de 2021
+51,11.13.00 Otros activos,0,1109096,2083,,829,556,,6509,1620,3149,2063,1465,4298,Septiembre de 2021
+52,10.00.00 Total Activos,325546,2888415,13052845,834826,319806,438229,1370796,1094821,949188,753661,247282,1378407,799099,Septiembre de 2021
+53,Pasivos y Patrimonio,,,,,,,,,,,,,,Septiembre de 2021
+54,Pasivos,,,,,,,,,,,,,,Septiembre de 2021
+55,21.01.00 Pasivos financieros,0,0,0,0,0,0,0,0,0,0,0,0,0,Septiembre de 2021
+56,21.01.10 A valor razonable,,0,,,,,,,,0,,,,Septiembre de 2021
+57,21.01.20 A valor razonable - Instrumentos financieros derivados,,0,,,,,,,,0,,,,Septiembre de 2021
+58,21.01.30 Obligaciones por financiamiento,0,0,0,0,0,0,0,0,0,0,0,0,0,Septiembre de 2021
+59,21.01.31 Operaciones de venta con retrocompra sobre IRV,,0,,,,,,,,0,,,,Septiembre de 2021
+60,21.01.32 Operaciones de venta con retrocompra sobre IRF e IIF,,0,,,,,,,,0,,,,Septiembre de 2021
+61,21.01.33 Otras,,0,,,,,,,,0,,,,Septiembre de 2021
+62,21.02.00 Pasivos del mercado de productos,0,0,0,0,0,0,0,0,0,0,0,0,0,Septiembre de 2021
+63,21.02.10 A valor razonable,,0,,,,,,,,0,,,,Septiembre de 2021
+64,21.02.20 A valor razonable - Instrumentos derivados,,0,,,,,,,,0,,,,Septiembre de 2021
+65,21.02.30 Obligaciones por financiamiento,0,0,0,0,0,0,0,0,0,0,0,0,0,Septiembre de 2021
+66,21.02.31 Operaciones de venta con retrocompra sobre productos agropecuarios,,0,,,,,,,,0,,,,Septiembre de 2021
+67,21.02.32 Operaciones de venta con retrocompra sobre TRP,,0,,,,,,,0,0,,,,Septiembre de 2021
+68,21.02.33 Otras,,0,,,,,,,,0,,,,Septiembre de 2021
+69,21.03.00 Obligaciones con bancos e instituciones financieras,,1345609,,,,,,,,0,,,,Septiembre de 2021
+70,21.04.00 Acreedores por intermediación,,0,,0,,,1150014,813796,,0,,810379,,Septiembre de 2021
+71,21.05.00 Cuentas por pagar por operaciones de cartera propia,,0,55478,,,,,,,0,,,,Septiembre de 2021
+72,21.06.00 Cuentas por pagar a partes relacionadas,59614,209,11842705,,,,,4713,0,42819,,,,Septiembre de 2021
+73,21.07.00 Otras cuentas por pagar,14163,27840,51110,152872,9590,171,48506,39043,41064,56358,4176,1453,26867,Septiembre de 2021
+74,21.08.00 Provisiones,0,9676,69876,9069,3535,2462,4969,4299,72953,5764,,5760,3930,Septiembre de 2021
+75,21.09.00 Impuestos por pagar,1022,0,0,3497,2232,46,162,3910,1474,69,258,13151,2461,Septiembre de 2021
+76,21.10.00 Impuestos diferidos,0,1794,,,,,,,,0,,,8051,Septiembre de 2021
+77,21.11.00 Otros pasivos,0,7696,,,,,,,,0,,,,Septiembre de 2021
+78,21.00.00 Total Pasivos,74799,1392824,12019169,165438,15357,2679,1203651,865761,115491,105010,4434,830743,41309,Septiembre de 2021
+79,Patrimonio,,,,,,,,,,,,,,Septiembre de 2021
+80,22.01.00 Capital,311661,433711,1290423,720453,389572,387118,214000,358728,701188,484476,323000,480000,902046,Septiembre de 2021
+81,22.02.00 Reservas,,0,215,-18865,,4940,2257,,14570,0,,,-21406,Septiembre de 2021
+82,22.03.00 Resultados acumulados,-56382,1026953,-298434,-15574,-93307,70755,25302,-110809,295347,230659,-65637,30543,-114762,Septiembre de 2021
+83,22.04.00 Resultado del ejercicio,-4532,34927,59246,-16626,8184,-27263,-74414,-18859,-177408,-66484,-14515,37121,-8088,Septiembre de 2021
+84,22.05.00 Dividendos provisorios o participaciones,,0,-17774,,,,,,,0,,0,,Septiembre de 2021
+85,22.00.00 Total Patrimonio,250747,1495591,1033676,669388,304449,435550,167145,229060,833697,648651,242848,547664,757790,Septiembre de 2021
+86,20.00.00 TOTAL PAC.M.F Y PATRIMONIO,325546,2888415,13052845,834826,319806,438229,1370796,1094821,949188,753661,247282,1378407,799099,Septiembre de 2021
+87,,,,,,,,,,,,,,,Septiembre de 2021
+88,Estado de resultados integrales,,,,,,,,,,,,,,Septiembre de 2021
+89,Estado de resultados,,,,,,,,,,,,,,Septiembre de 2021
+90,Resultado por intermediación,,,,,,,,,,,,,,Septiembre de 2021
+91,30.10.01 Comisiones por operaciones bursátiles,27574,107968,128923,78451,1086,6882,22039,189255,90497,8347,9814,16105,0,Septiembre de 2021
+92,30.10.02 Comisiones por operaciones extra bursátiles,,0,,,,,,,,0,,0,,Septiembre de 2021
+93,30.10.03 Gastos por comisiones y servicios,-18484,-29502,-18963,-17635,-32633,-20442,-9355,-75733,-19271,-17041,,-87097,-23964,Septiembre de 2021
+94,30.10.04 Otras comisiones,0,11096,3422,,65120,,,,,257,,284388,,Septiembre de 2021
+95,30.10.00 Total resultado por intermediación,9090,89562,113382,60816,33573,-13560,12684,113522,71226,-8437,9814,213396,-23964,Septiembre de 2021
+96,Ingresos por servicios,,,,,,,,,,,,,,Septiembre de 2021
+97,30.20.01 Ingresos por custodia,,0,,,,,,,,0,,,,Septiembre de 2021
+98,30.20.02 Ingresos por asesorías,,0,,,,4500,,,0,0,8407,0,,Septiembre de 2021
+99,30.20.03 Otros ingresos por servicios,,0,,,,,,,,0,,,25360,Septiembre de 2021
+100,30.20.00 Total ingresos por servicios,0,0,0,0,0,4500,0,0,0,0,8407,0,25360,Septiembre de 2021
+101,Resultado por productos,,,,,,,,,,,,,,Septiembre de 2021
+102,30.30.01 A valor razonable,,35452,119583,,,4901,,,39914,0,,11771,,Septiembre de 2021
+103,30.30.02 A valor razonable - Instrumentos derivados,,0,,,,,,,,0,,,,Septiembre de 2021
+104,30.30.03 A costo amortizado,,0,175207,,,,,,,19467,,,,Septiembre de 2021
+105,30.30.04 A costo amortizado - Operaciones de financiamiento,,0,,,,,,,,0,,,,Septiembre de 2021
+106,30.30.00 Total resultado por productos,0,35452,294790,0,0,4901,0,0,39914,19467,0,11771,0,Septiembre de 2021
+107,Resultado por instrumentos financieros,,,,,,,,,,,,,,Septiembre de 2021
+108,30.40.01 A valor razonable,0,0,,53,6562,,,,102,0,122,,0,Septiembre de 2021
+109,30.40.02 A valor razonable - Instrumentos financieros derivados,,0,,,,,,,0,0,,,0,Septiembre de 2021
+110,30.40.03 A costo amortizado,,0,,,,,,,,0,,228,,Septiembre de 2021
+111,30.40.04 A costo amortizado - Operaciones de financiamiento,,0,,,,,,,,0,,,,Septiembre de 2021
+112,30.40.00 Total resultado por instrumentos financieros,0,0,0,53,6562,0,0,0,102,0,122,228,0,Septiembre de 2021
+113,Resultado por operaciones de financiamiento,,,,,,,,,,,,,,Septiembre de 2021
+114,30.50.01 Gastos por financiamiento del mercado de productos,,0,,,,,,,,0,,,,Septiembre de 2021
+115,30.50.02 Gastos por financiamiento del mercado de valores,,0,,,,,,,,0,,,,Septiembre de 2021
+116,30.50.03 Otros gastos financieros,,-30205,-45080,,,,,-5705,-1692,0,,,,Septiembre de 2021
+117,30.50.00 Total resultado por operaciones de financiamiento,0,-30205,-45080,0,0,0,0,-5705,-1692,0,0,0,0,Septiembre de 2021
+118,Gastos de administración y comercialización,,,,,,,,,,,,,,Septiembre de 2021
+119,30.60.01 Remuneraciones y gastos de personal,0,-100156,-196174,-34475,-28687,-15270,-55557,-89656,-160498,-36321,,-133192,0,Septiembre de 2021
+120,30.60.02 Gastos de comercialización,0,0,-31834,,,0,,,-155039,0,,,,Septiembre de 2021
+121,30.60.03 Otros gastos de administración,-12820,-58241,-88142,-39139,-1529,-3949,-51979,-45021,,-42026,-33174,-46386,-9484,Septiembre de 2021
+122,30.60.00 Total gastos de administración y comercialización,-12820,-158397,-316150,-73614,-30216,-19219,-107536,-134677,-315537,-78347,-33174,-179578,-9484,Septiembre de 2021
+123,Otros resultados,,,,,,,,,,,,,,Septiembre de 2021
+124,30.70.01 Reajuste y diferencia de cambio,0,34,29842,,,,7997,5906,5,833,,337,0,Septiembre de 2021
+125,30.70.02 Resultado de inversiones en sociedades,-802,-4747,0,-4751,-784,-3964,,,-996,0,,-1356,,Septiembre de 2021
+126,30.70.03 Otros ingresos (gastos),0,98161,-15305,870,20,404,,,2176,0,316,,0,Septiembre de 2021
+127,30.70.00 Total otros resultados,-802,93448,14537,-3881,-764,-3560,7997,5906,1185,833,316,-1019,0,Septiembre de 2021
+128,30.80.00 Resultado antes de impuesto a la renta,-4532,29860,61479,-16626,9155,-26938,-86855,-20954,-204802,-66484,-14515,44798,-8088,Septiembre de 2021
+129,30.90.00 Impuesto a la renta,0,5067,-2233,0,-971,-325,12441,2095,27394,0,,-7677,0,Septiembre de 2021
+130,30.00.00 Utilidad (pérdida) del ejercicio,-4532,34927,59246,-16626,8184,-27263,-74414,-18859,-177408,-66484,-14515,37121,-8088,Septiembre de 2021
+131,Estado de otros resultados integrales,,,,,,,,,,,,,,Septiembre de 2021
+132,30.00.00 Utilidad (pérdida) del ejercicio,-4532,34927,59246,-16626,8184,-27263,-74414,-18859,-177408,-66484,-14515,37121,-8088,Septiembre de 2021
+133,Ingresos (gastos) registrados con abono (cargo) a patrimonio,,,,,,,,,,,,,,Septiembre de 2021
+134,"31.10.00 Revalorización de propiedades, planta y equipo",,0,,,,,,,,0,,,0,Septiembre de 2021
+135,31.20.00 Activos financieros a valor razonable por patrimonio,,0,,,,,-842,,,0,,,0,Septiembre de 2021
+136,31.30.00 Participación de otros resultados integrales de inversiones en sociedades,,0,,,,,,,-3751,0,,,,Septiembre de 2021
+137,31.40.00 Otros ingresos (gastos) registrados con abono (cargo) a patrimonio,,0,-670,,,,,,,0,,,,Septiembre de 2021
+138,31.50.00 Impuesto a la renta de otros resultados integrales,,0,,,,,,,,0,,,,Septiembre de 2021
+139,31.00.00 Total ingresos (gastos) registrados con abono (cargo) a patrimonio,0,0,-670,0,0,0,-842,0,-3751,0,0,0,0,Septiembre de 2021
+140,32.00.00 Total resultados integrales reconocidos del ejercicio,-4532,34927,58576,-16626,8184,-27263,-75256,-18859,-181159,-66484,-14515,37121,-8088,Septiembre de 2021
+141,,,,,,,,,,,,,,,Septiembre de 2021
+142,Estados de Flujos de efectivo - Método directo,,,,,,,,,,,,,,Septiembre de 2021
+143,Flujo neto originado por actividades de la operación,,,,,,,,,,,,,,Septiembre de 2021
+144,51.11.00 Comisiones recaudadas (pagadas) por intermediación de productos,27574,119064,114086,60361,,6882,22039,-87524,71226,99595,11679,155938,,Septiembre de 2021
+145,51.12.00 Ingreso (egreso) neto por cuenta de clientes,0,0,,0,,,82667,,0,0,,,0,Septiembre de 2021
+146,51.13.00 Ingreso (egreso) neto por instrumentos a valor razonable del mercado de productos,0,0,-7562960,,,31177,,,0,0,,,,Septiembre de 2021
+147,51.14.00 Ingreso (egreso) neto por instrumentos derivados del mercado de productos,,0,,,,,,,0,0,,,,Septiembre de 2021
+148,51.15.00 Ingreso (egreso) neto por instrumentos a costo amortizado del mercado de productos,,0,-869070,,,,,,0,-165976,,,,Septiembre de 2021
+149,51.16.00 Ingreso (egreso) neto por asesorías y custodia,0,0,,,,4500,,,0,0,10005,,-5271,Septiembre de 2021
+150,51.17.00 Gastos de administración y comercialización pagados,-31306,-140716,,-69482,-23245,-46708,-130858,-122868,-339372,-87377,-36059,-46615,-20840,Septiembre de 2021
+151,51.18.00 Impuestos pagados,0,0,,-559,-196,-362,,-4397,-15277,-3948,-191,,0,Septiembre de 2021
+152,51.19.00 Otros ingresos (egresos) netos por actividades de la operación,0,0,-1036280,-494698,1293,1142,24529,,-4726,5944,,454483,25360,Septiembre de 2021
+153,51.10.00 Flujo neto originado por actividades de la operación,-3732,-21652,-9354224,-504378,-22148,-3369,-1623,-214789,-288149,-151762,-14566,563806,-751,Septiembre de 2021
+154,Flujo neto originado por actividades de financiamiento,,,,,,,,,,,,,,Septiembre de 2021
+155,52.11.00 Ingreso (egreso) neto por pasivos del mercado de productos,,0,,,,,,136919,,0,,,,Septiembre de 2021
+156,52.12.00 Ingreso (egreso) neto por pasivos financieros del mercado de valores,,0,,,,,,,,0,,,,Septiembre de 2021
+157,52.13.00 Ingreso (egreso) neto por financiamiento de partes relacionadas,32851,230000,9360116,,25000,,,,0,0,,,0,Septiembre de 2021
+158,52.14.00 Aumentos de capital,,0,,,,,,,,0,20000,,,Septiembre de 2021
+159,52.15.00 Reparto de utilidades y de capital,,0,,,,,,,0,0,,,0,Septiembre de 2021
+160,52.16.00 Otros ingresos (egresos) netos por actividades de financiamiento,,-23998,,,,,,811,,0,,,,Septiembre de 2021
+161,52.10.00 Flujo neto originado por actividades de financiamiento,32851,206002,9360116,0,25000,0,0,137730,0,0,20000,0,0,Septiembre de 2021
+162,Flujo neto originado por actividades de inversión,,,,,,,,,,,,,,Septiembre de 2021
+163,53.11.00 Ingreso (egreso) neto por instrumentos financieros a valor razonable del mercado de valores,,0,,507,,,,,102,0,122,,0,Septiembre de 2021
+164,53.12.00 Ingreso (egreso) neto por instrumentos financieros derivados del mercado de valores,,0,,,,,,,,0,,,,Septiembre de 2021
+165,53.13.00 Ingreso (egreso) neto por instrumentos financieros a costo amortizado del mercado de valores,,0,,,,,,,0,0,,,,Septiembre de 2021
+166,"53.14.00 Ingresos por ventas de propiedades, planta y equipo",,0,,,,,,,,0,,,,Septiembre de 2021
+167,53.15.00 Ingresos por ventas de inversiones en sociedades,,0,,,,,,,,0,,,,Septiembre de 2021
+168,53.16.00 Dividendos y otros ingresos percibidos de inversiones en sociedades,,0,,,13,,,,,0,,,,Septiembre de 2021
+169,"53.17.00 Incorporación de propiedades, planta y equipo",,0,0,,,,,-1548,,0,,,,Septiembre de 2021
+170,53.18.00 Inversiones en sociedades,0,0,,0,,,,,,0,,,,Septiembre de 2021
+171,53.19.00 Otros ingresos (egresos) netos de inversión,-802,-834685,,,,258,,-5673,,0,,,,Septiembre de 2021
+172,53.10.00 Flujo neto originado por actividades de inversión,-802,-834685,0,507,13,258,0,-7221,102,0,122,0,0,Septiembre de 2021
+173,50.10.00 Flujo neto total positivo (negativo) del período,28317,-650335,5892,-503871,2865,-3111,-1623,-84280,-288047,-151762,5556,563806,-751,Septiembre de 2021
+174,50.20.00 Efecto de la variación por tipo de cambio sobre el efectivo y efectivo equivalente,,,,,,,,,,,,,,Septiembre de 2021
+175,50.30.00 Variación neta del efectivo y efectivo equivalente,28317,-650335,5892,-503871,2865,-3111,-1623,-84280,-288047,-151762,5556,563806,-751,Septiembre de 2021
+176,50.40.00 Saldo inicial de efetivo y efectivo equivalente,256096,1068711,1267,1046262,11158,21045,189765,283676,775720,156776,140717,170299,1596,Septiembre de 2021
+177,50.00.00 Saldo final de efectivo y efectivo equivalente,284413,418376,7159,542391,14023,17934,188142,199396,487673,5014,146273,734105,845,Septiembre de 2021

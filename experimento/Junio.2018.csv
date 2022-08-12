@@ -1,0 +1,178 @@
+Unnamed: 0,Cuentas,ADDWISE 06 / 2018,AVLA 06 / 2018,BAN TATTERSALL 06 / 2018,BCI 06 / 2018,CONTEMPORA 06 / 2018,DANK 06 / 2018,ECR OSORNO 06 / 2018,ELOY 06 / 2018,FINMAS 06 / 2018,LARRAIN VIAL 06 / 2018,LATAM TRADE CAPITAL 06 / 2018,MOONK 06 / 2018,TANNER 06 / 2018,Fecha
+1,RUT,76.147.513-4,76.268.236-2,76.977.670-2,76.466.468-K,76.686.240-3,76.249.106-0,76.030.732-7,76.389.487-8,76.609.787-1,99.587.310-9,76.148.647-0,76.727.442-4,76.313.350-8,Junio de 2018
+2,Razón social,ADDWISE,AVLA,BAN TATTERSALL,BCI,CONTEMPORA,DANK,ECR OSORNO,ELOY,FINMAS,LARRAIN VIAL,LATAM TRADE CAPITAL,MOONK,TANNER,Junio de 2018
+3,,,,,,,,,,,,,,,Junio de 2018
+4,Estado de situación financiera,,,,,,,,,,,,,,Junio de 2018
+5,Activos,,,,,,,,,,,,,,Junio de 2018
+6,11.01.00 Efectivo y efectivo equivalente,164836,248475,567638,1803,607492,4646,246377,323026,193326,55174,195981,423977,443271,Junio de 2018
+7,11.02.00 Instrumentos financieros,,0,0,430628,0,0,0,0,0,550000,0,0,515911,Junio de 2018
+8,11.02.10 A valor razonable - Cartera propia disponible,,0,0,430628,0,0,0,0,0,550000,0,0,515911,Junio de 2018
+9,11.02.11 Renta variable (IRV),,,,,0,,,,,550000,,,,Junio de 2018
+10,11.02.12 Renta fija e Intermediación Financiera (IRF e IIF),,,,430628,,,,,,,0,,515911,Junio de 2018
+11,11.02.20 A valor razonable - Cartera propia comprometida,,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2018
+12,11.02.21 Renta variable,,,,,,,,,,,0,,,Junio de 2018
+13,11.02.22 Renta fija e Intermediación Financiera,,,,,,,,,,,0,,,Junio de 2018
+14,11.02.30 A valor razonable - Instrumentos financieros derivados,,,,,,,,,,,0,,,Junio de 2018
+15,11.02.40 A costo amortizado - Cartera propia disponible,,,,,,,,,,,0,,,Junio de 2018
+16,11.02.50 A costo amortizado - Cartera propia comprometida,,,,,,,,,,,0,,,Junio de 2018
+17,11.02.60 A costo amortizado - Operaciones de financiamiento,,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2018
+18,11.02.61 Operaciones de compra con retroventa sobre IRV,,,,,,,,,,,0,,,Junio de 2018
+19,11.02.62 Operaciones de compra con retroventa sobre IRF e IIF,,,,,,,,,,,0,,,Junio de 2018
+20,11.02.63 Otras,,,,,,,,,,,0,,,Junio de 2018
+21,11.03.00 Productos,,0,96127,7719578,0,0,0,0,0,434387,437354,0,195817,Junio de 2018
+22,11.03.10 A valor razonable - Cartera propia disponible,,0,96127,7246468,0,0,0,0,0,434387,0,0,0,Junio de 2018
+23,11.03.11 Productos agropecuarios,,,,,,,,,,,0,,,Junio de 2018
+24,11.03.12 Títulos representativos de productos agropecuarios (TRP),,,94711,,,,,,,,0,,,Junio de 2018
+25,11.03.13 Facturas,,,1416,7246468,,,0,,,434387,0,,,Junio de 2018
+26,11.03.14 Títulos representativos de facturas (TRF),,,,,,,,,,,0,,,Junio de 2018
+27,11.03.15 Otros,,,,,,,,,,,0,,,Junio de 2018
+28,11.03.20 A valor razonable - Cartera propia comprometida,,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2018
+29,11.03.21 Productos agropecuarios,,,,,,,,,,,0,,,Junio de 2018
+30,11.03.22 Títulos representativos de productos agropecuarios,,,,,,,,,,,0,,,Junio de 2018
+31,11.03.23 Otros,,,,,,,,,,,0,,,Junio de 2018
+32,11.03.30 A valor razonable - Instrumentos derivados,,,,,,,,,,,0,,,Junio de 2018
+33,11.03.40 A costo amortizado - Cartera propia disponible,,0,0,0,0,0,0,0,0,0,437354,0,195817,Junio de 2018
+34,11.03.41 Facturas,,,,,,,,,,,437354,,195817,Junio de 2018
+35,11.03.42 Títulos representativos de facturas,,,,,,,,,,,0,,,Junio de 2018
+36,11.03.43 Otros,,,,,,,,,,,0,,,Junio de 2018
+37,11.03.50 A costo amortizado - Cartera propia comprometida,,,,,,,,,,,0,,,Junio de 2018
+38,11.03.60 A costo amortizado - Operaciones de financiamiento,,0,0,473110,0,0,0,0,0,0,0,0,0,Junio de 2018
+39,11.03.61 Operaciones de compra con retroventa sobre productos agropecuarios,,,,,,,,,,,0,,,Junio de 2018
+40,11.03.62 Operaciones de compra con retroventa sobre TRP,,,,473110,,,,,,0,0,,,Junio de 2018
+41,11.03.63 Otras,,,,,,,,,,,0,,,Junio de 2018
+42,11.04.00 Deudores por intermediación,,,,4240,0,,,476527,663474,1889355,0,,1734404,Junio de 2018
+43,11.05.00 Cuentas por cobrar por operaciones de cartera propia,,,,,,,,,,,0,,2925,Junio de 2018
+44,11.06.00 Cuentas por cobrar a partes relacionadas,,,43792,14389,,0,,,30372,48079,30,,,Junio de 2018
+45,11.07.00 Otras cuentas por cobrar,1046,,1396531,53693,10175,2028,9857,589,4792,30901,0,,117,Junio de 2018
+46,11.08.00 Impuestos por cobrar,9022,9780,77942,,,821,1818,12780,1543,53756,5307,5809,46546,Junio de 2018
+47,11.09.00 Impuestos diferidos,2963,0,2442,19745,54593,30125,152,1267,27214,3487,2366,15089,30661,Junio de 2018
+48,11.10.00 Inversiones en sociedades,,24888,198042,,170914,24323,147426,26137,,147282,0,,153930,Junio de 2018
+49,11.11.00 Intangibles,8535,4374,10561,14170,0,,,5606,40017,0,33705,51995,,Junio de 2018
+50,"11.12.00 Propiedades, planta y equipo",74,0,2826,1091,126,,,4681,1019,,378,,87,Junio de 2018
+51,11.13.00 Otros activos,,3245,1473572,0,,197409,,11297,1264,0,20927,2053,223,Junio de 2018
+52,10.00.00 Total Activos,186476,290762,3869473,8259337,843300,259352,405630,861910,963021,3212421,696048,498923,3123892,Junio de 2018
+53,Pasivos y Patrimonio,,,,,,,,,,,,,,Junio de 2018
+54,Pasivos,,,,,,,,,,,,,,Junio de 2018
+55,21.01.00 Pasivos financieros,,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2018
+56,21.01.10 A valor razonable,,,,,,,,,,,0,,,Junio de 2018
+57,21.01.20 A valor razonable - Instrumentos financieros derivados,,,,,,,,,,,0,,,Junio de 2018
+58,21.01.30 Obligaciones por financiamiento,,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2018
+59,21.01.31 Operaciones de venta con retrocompra sobre IRV,,,,,,,,,,,0,,,Junio de 2018
+60,21.01.32 Operaciones de venta con retrocompra sobre IRF e IIF,,,,,,,,,,,0,,,Junio de 2018
+61,21.01.33 Otras,,,,,,,,,,,0,,,Junio de 2018
+62,21.02.00 Pasivos del mercado de productos,,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2018
+63,21.02.10 A valor razonable,,,,,,,,,,,0,,,Junio de 2018
+64,21.02.20 A valor razonable - Instrumentos derivados,,,,,,,,,,,0,,,Junio de 2018
+65,21.02.30 Obligaciones por financiamiento,,0,0,0,0,0,0,0,0,0,0,0,0,Junio de 2018
+66,21.02.31 Operaciones de venta con retrocompra sobre productos agropecuarios,,,,,,,,,,,0,,,Junio de 2018
+67,21.02.32 Operaciones de venta con retrocompra sobre TRP,,,,,,,,,,0,0,,,Junio de 2018
+68,21.02.33 Otras,,,,,,,,,,,0,,,Junio de 2018
+69,21.03.00 Obligaciones con bancos e instituciones financieras,,,1352388,,,,,,,,0,,,Junio de 2018
+70,21.04.00 Acreedores por intermediación,,,,,0,0,,588155,676414,1905704,0,,1732984,Junio de 2018
+71,21.05.00 Cuentas por pagar por operaciones de cartera propia,,,,48868,,,,,,,0,,,Junio de 2018
+72,21.06.00 Cuentas por pagar a partes relacionadas,,94213,175844,7479704,,14796,,,20984,,0,1286,3205,Junio de 2018
+73,21.07.00 Otras cuentas por pagar,215,4323,741916,57069,171213,23408,90,25141,14544,219982,32764,3785,29522,Junio de 2018
+74,21.08.00 Provisiones,2839,4345,16080,62929,6504,13831,3471,12645,,24448,1696,1455,9571,Junio de 2018
+75,21.09.00 Impuestos por pagar,,0,22747,23692,1282,641,104,2889,6800,28911,7580,0,,Junio de 2018
+76,21.10.00 Impuestos diferidos,,1181,0,,,,,,,,0,0,,Junio de 2018
+77,21.11.00 Otros pasivos,,0,4242,,,,,,,,0,0,,Junio de 2018
+78,21.00.00 Total Pasivos,3054,104062,2313217,7672262,178999,52676,3665,628830,718742,2179045,42040,6526,1775282,Junio de 2018
+79,Patrimonio,,,,,,,,,,,,,,Junio de 2018
+80,22.01.00 Capital,240000,206900,433711,460000,720453,319572,387118,214000,322996,701188,484476,523000,902046,Junio de 2018
+81,22.02.00 Reservas,,,149,631,-18865,,4940,1585,,14505,,,-14481,Junio de 2018
+82,22.03.00 Resultados acumulados,-17546,1910,1099071,71521,-15547,-61233,30979,-27676,-62501,236677,148421,-7479,462011,Junio de 2018
+83,22.04.00 Resultado del ejercicio,-39032,-22110,23325,78461,-21740,-51663,-21072,45171,-16216,81006,21111,-23124,-966,Junio de 2018
+84,22.05.00 Dividendos provisorios o participaciones,,,,-23538,,,,,,,0,0,,Junio de 2018
+85,22.00.00 Total Patrimonio,183422,186700,1556256,587075,664301,206676,401965,233080,244279,1033376,654008,492397,1348610,Junio de 2018
+86,20.00.00 TOTAL PAC.M.F Y PATRIMONIO,186476,290762,3869473,8259337,843300,259352,405630,861910,963021,3212421,696048,498923,3123892,Junio de 2018
+87,,,,,,,,,,,,,,,Junio de 2018
+88,Estado de resultados integrales,,,,,,,,,,,,,,Junio de 2018
+89,Estado de resultados,,,,,,,,,,,,,,Junio de 2018
+90,Resultado por intermediación,,,,,,,,,,,,,,Junio de 2018
+91,30.10.01 Comisiones por operaciones bursátiles,,0,216346,136300,83886,84020,25537,245113,94775,135780,87339,,6658,Junio de 2018
+92,30.10.02 Comisiones por operaciones extra bursátiles,,,,,,,,,,,0,,,Junio de 2018
+93,30.10.03 Gastos por comisiones y servicios,-4719,-14221,-65354,,-18042,-72310,-13200,-16973,-28330,-30014,-31505,,-22027,Junio de 2018
+94,30.10.04 Otras comisiones,,0,12589,,,3468,,,,,18538,,,Junio de 2018
+95,30.10.00 Total resultado por intermediación,-4719,-14221,163581,136300,65844,15178,12337,228140,66445,105766,74372,0,-15369,Junio de 2018
+96,Ingresos por servicios,,,,,,,,,,,,,,Junio de 2018
+97,30.20.01 Ingresos por custodia,,,,,,,,,,,0,,,Junio de 2018
+98,30.20.02 Ingresos por asesorías,,,,,,12920,58825,,5338,117514,0,,,Junio de 2018
+99,30.20.03 Otros ingresos por servicios,,,,,,,,,,,0,,,Junio de 2018
+100,30.20.00 Total ingresos por servicios,0,0,0,0,0,12920,58825,0,5338,117514,0,0,0,Junio de 2018
+101,Resultado por productos,,,,,,,,,,,,,,Junio de 2018
+102,30.30.01 A valor razonable,,,86883,,,,4564,,,17855,0,4015,,Junio de 2018
+103,30.30.02 A valor razonable - Instrumentos derivados,,,,,,,,,,,0,,,Junio de 2018
+104,30.30.03 A costo amortizado,,,,254545,,,,,,,0,,80358,Junio de 2018
+105,30.30.04 A costo amortizado - Operaciones de financiamiento,,,,,,,,,,,0,,,Junio de 2018
+106,30.30.00 Total resultado por productos,,0,86883,254545,0,0,4564,0,0,17855,0,4015,80358,Junio de 2018
+107,Resultado por instrumentos financieros,,,,,,,,,,,,,,Junio de 2018
+108,30.40.01 A valor razonable,,4389,,,375,6934,,,,9166,0,,9035,Junio de 2018
+109,30.40.02 A valor razonable - Instrumentos financieros derivados,,,,,,,,,,,0,,,Junio de 2018
+110,30.40.03 A costo amortizado,,,,,,,,,,,0,,,Junio de 2018
+111,30.40.04 A costo amortizado - Operaciones de financiamiento,,,,,,,,,,,0,,,Junio de 2018
+112,30.40.00 Total resultado por instrumentos financieros,,4389,0,0,375,6934,0,0,0,9166,0,0,9035,Junio de 2018
+113,Resultado por operaciones de financiamiento,,,,,,,,,,,,,,Junio de 2018
+114,30.50.01 Gastos por financiamiento del mercado de productos,-28097,,,,,,,,,,0,,,Junio de 2018
+115,30.50.02 Gastos por financiamiento del mercado de valores,-6100,,,,,,,,,,0,,,Junio de 2018
+116,30.50.03 Otros gastos financieros,-116,,-54063,-90700,,-324,,,-146,-4213,0,,,Junio de 2018
+117,30.50.00 Total resultado por operaciones de financiamiento,-34313,0,-54063,-90700,0,-324,0,0,-146,-4213,0,0,0,Junio de 2018
+118,Gastos de administración y comercialización,,,,,,,,,,,,,,Junio de 2018
+119,30.60.01 Remuneraciones y gastos de personal,,0,-102438,-104802,-58762,-54461,-90224,-117690,-75048,-124365,-13277,-19039,-68598,Junio de 2018
+120,30.60.02 Gastos de comercialización,,0,,-33717,,,,,,-17659,0,,,Junio de 2018
+121,30.60.03 Otros gastos de administración,,-13344,-84116,-58271,-27661,-40195,-3470,-55865,-18803,,-36894,-20478,-17507,Junio de 2018
+122,30.60.00 Total gastos de administración y comercialización,,-13344,-186554,-196790,-86423,-94656,-93694,-173555,-93851,-142024,-50171,-39517,-86105,Junio de 2018
+123,Otros resultados,,,,,,,,,,,,,,Junio de 2018
+124,30.70.01 Reajuste y diferencia de cambio,,121,627,4383,,,,45,,,-1,49,116,Junio de 2018
+125,30.70.02 Resultado de inversiones en sociedades,,-137,-2175,0,-1962,,-1963,,,0,0,,,Junio de 2018
+126,30.70.03 Otros ingresos (gastos),,623,23653,-3241,426,-7,39,-407,,1631,0,,,Junio de 2018
+127,30.70.00 Total otros resultados,,607,22105,1142,-1536,-7,-1924,-362,0,1631,-1,49,116,Junio de 2018
+128,30.80.00 Resultado antes de impuesto a la renta,-39032,-22569,31952,104497,-21740,-59955,-19892,54223,-22214,105695,24200,-35453,-11965,Junio de 2018
+129,30.90.00 Impuesto a la renta,,459,-8627,-26036,0,8292,-1180,-9052,5998,-24689,-3089,12329,10999,Junio de 2018
+130,30.00.00 Utilidad (pérdida) del ejercicio,-39032,-22110,23325,78461,-21740,-51663,-21072,45171,-16216,81006,21111,-23124,-966,Junio de 2018
+131,Estado de otros resultados integrales,,,,,,,,,,,,,,Junio de 2018
+132,30.00.00 Utilidad (pérdida) del ejercicio,-39032,-22110,23325,78461,-21740,-51663,-21072,45171,-16216,81006,21111,-23124,-966,Junio de 2018
+133,Ingresos (gastos) registrados con abono (cargo) a patrimonio,,,,,,,,,,,,,,Junio de 2018
+134,"31.10.00 Revalorización de propiedades, planta y equipo",,,,,,,,,,,0,,,Junio de 2018
+135,31.20.00 Activos financieros a valor razonable por patrimonio,,,,,,,,-348,,,0,,,Junio de 2018
+136,31.30.00 Participación de otros resultados integrales de inversiones en sociedades,,,,,,,,,,,0,,,Junio de 2018
+137,31.40.00 Otros ingresos (gastos) registrados con abono (cargo) a patrimonio,,,,-62,,,,,,-1960,0,,,Junio de 2018
+138,31.50.00 Impuesto a la renta de otros resultados integrales,,,,,,,,,,,0,,,Junio de 2018
+139,31.00.00 Total ingresos (gastos) registrados con abono (cargo) a patrimonio,,0,0,-62,0,0,0,-348,0,-1960,0,0,0,Junio de 2018
+140,32.00.00 Total resultados integrales reconocidos del ejercicio,-39032,-22110,23325,78399,-21740,-51663,-21072,44823,-16216,79046,21111,-23124,-966,Junio de 2018
+141,,,,,,,,,,,,,,,Junio de 2018
+142,Estados de Flujos de efectivo - Método directo,,,,,,,,,,,,,,Junio de 2018
+143,Flujo neto originado por actividades de la operación,,,,,,,,,,,,,,Junio de 2018
+144,51.11.00 Comisiones recaudadas (pagadas) por intermediación de productos,,0,162135,135553,63743,23861,25537,245113,,105766,196777,,-15369,Junio de 2018
+145,51.12.00 Ingreso (egreso) neto por cuenta de clientes,,0,1180774,,0,,,56161,93164,208375,0,,40495,Junio de 2018
+146,51.13.00 Ingreso (egreso) neto por instrumentos a valor razonable del mercado de productos,,0,0,-87451,,,146905,,,0,0,,,Junio de 2018
+147,51.14.00 Ingreso (egreso) neto por instrumentos derivados del mercado de productos,,,0,,,,,,,0,0,,,Junio de 2018
+148,51.15.00 Ingreso (egreso) neto por instrumentos a costo amortizado del mercado de productos,,,141095,,,,,,,0,-19592,,9438,Junio de 2018
+149,51.16.00 Ingreso (egreso) neto por asesorías y custodia,,0,0,,,,48968,,5338,,0,,,Junio de 2018
+150,51.17.00 Gastos de administración y comercialización pagados,-28096,-27332,-309405,,-118758,-78689,-92346,-173555,-151886,-224589,-60396,-55874,-96174,Junio de 2018
+151,51.18.00 Impuestos pagados,,0,0,,-4133,-2626,-2905,-15979,-5096,-76892,-22075,,-11005,Junio de 2018
+152,51.19.00 Otros ingresos (egresos) netos por actividades de la operación,-292173,876,0,41271,172905,4837,-16395,-407,-1072,-594,,,,Junio de 2018
+153,51.10.00 Flujo neto originado por actividades de la operación,-320269,-26456,1174599,89373,113757,-52617,109764,111333,-59552,12066,94714,-55874,-72615,Junio de 2018
+154,Flujo neto originado por actividades de financiamiento,,,,,,,,,,,,,,Junio de 2018
+155,52.11.00 Ingreso (egreso) neto por pasivos del mercado de productos,,,0,,,,,,,,0,,-103571,Junio de 2018
+156,52.12.00 Ingreso (egreso) neto por pasivos financieros del mercado de valores,,,0,,,,,,67034,,0,,,Junio de 2018
+157,52.13.00 Ingreso (egreso) neto por financiamiento de partes relacionadas,,0,-5000,-86753,,33613,,,,2646,-30,0,3205,Junio de 2018
+158,52.14.00 Aumentos de capital,20000,26900,0,,,,,,,,0,100000,,Junio de 2018
+159,52.15.00 Reparto de utilidades y de capital,,,0,,,,,,,-158270,0,,,Junio de 2018
+160,52.16.00 Otros ingresos (egresos) netos por actividades de financiamiento,,99,-35588,,,,,,-146,,0,,,Junio de 2018
+161,52.10.00 Flujo neto originado por actividades de financiamiento,20000,26999,-40588,-86753,0,33613,0,0,66888,-155624,-30,100000,-100366,Junio de 2018
+162,Flujo neto originado por actividades de inversión,,,,,,,,,,,,,,Junio de 2018
+163,53.11.00 Ingreso (egreso) neto por instrumentos financieros a valor razonable del mercado de valores,,,0,,2476,,,,,-540834,0,4015,378004,Junio de 2018
+164,53.12.00 Ingreso (egreso) neto por instrumentos financieros derivados del mercado de valores,,,0,,,,,,,,0,,,Junio de 2018
+165,53.13.00 Ingreso (egreso) neto por instrumentos financieros a costo amortizado del mercado de valores,,,0,,,,,,,,0,,,Junio de 2018
+166,"53.14.00 Ingresos por ventas de propiedades, planta y equipo",,,0,,,,,,,,0,,,Junio de 2018
+167,53.15.00 Ingresos por ventas de inversiones en sociedades,,,0,,,,,,,,0,,,Junio de 2018
+168,53.16.00 Dividendos y otros ingresos percibidos de inversiones en sociedades,,,0,,,,,,,,0,,,Junio de 2018
+169,"53.17.00 Incorporación de propiedades, planta y equipo",,,0,-1155,,,,,,,0,,,Junio de 2018
+170,53.18.00 Inversiones en sociedades,,0,0,,0,,,,,,0,,,Junio de 2018
+171,53.19.00 Otros ingresos (egresos) netos de inversión,,4389,-1446792,,,,9,,,,0,,,Junio de 2018
+172,53.10.00 Flujo neto originado por actividades de inversión,,4389,-1446792,-1155,2476,0,9,0,0,-540834,0,4015,378004,Junio de 2018
+173,50.10.00 Flujo neto total positivo (negativo) del período,-300269,4932,-312781,1465,116233,-19004,109773,111333,7336,-684392,94684,48141,205023,Junio de 2018
+174,50.20.00 Efecto de la variación por tipo de cambio sobre el efectivo y efectivo equivalente,,,,,,,,,,,,,,Junio de 2018
+175,50.30.00 Variación neta del efectivo y efectivo equivalente,-300269,4932,-312781,1465,116233,-19004,109773,111333,7336,-684392,94684,48141,205023,Junio de 2018
+176,50.40.00 Saldo inicial de efetivo y efectivo equivalente,465105,243543,880419,338,491259,23650,136604,211693,185990,739566,101297,375836,238248,Junio de 2018
+177,50.00.00 Saldo final de efectivo y efectivo equivalente,164836,248475,567638,1803,607492,4646,246377,323026,193326,55174,195981,423977,443271,Junio de 2018

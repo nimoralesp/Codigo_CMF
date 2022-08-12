@@ -1,0 +1,178 @@
+Unnamed: 0,Cuentas,ADDWISE 09 / 2016,AVLA 09 / 2016,BAN TATTERSALL 09 / 2016,BCI 09 / 2016,CONTEMPORA 09 / 2016,DANK 09 / 2016,ECR OSORNO 09 / 2016,ELOY 09 / 2016,FINANCIA CAPITAL 09 / 2016,LARRAIN VIAL 09 / 2016,LATAM TRADE CAPITAL 09 / 2016,TANNER 09 / 2016,Fecha
+1,RUT,76.147.513-4,76.268.236-2,76.977.670-2,76.466.468-K,76.686.240-3,76.249.106-0,76.030.732-7,76.389.487-8,76.089.848-1,99.587.310-9,76.148.647-0,76.313.350-8,Septiembre de 2016
+2,Razón social,ADDWISE,AVLA,BAN TATTERSALL,BCI,CONTEMPORA,DANK,ECR OSORNO,ELOY,FINANCIA CAPITAL,LARRAIN VIAL,LATAM TRADE CAPITAL,TANNER,Septiembre de 2016
+3,,,,,,,,,,,,,,Septiembre de 2016
+4,Estado de situación financiera,,,,,,,,,,,,,Septiembre de 2016
+5,Activos,,,,,,,,,,,,,Septiembre de 2016
+6,11.01.00 Efectivo y efectivo equivalente,560853,224745,765213,74969,432314,1711,31609,401195,27638,832226,301714,64678,Septiembre de 2016
+7,11.02.00 Instrumentos financieros,,0,1428797,407756,0,0,0,0,0,450139,0,120000,Septiembre de 2016
+8,11.02.10 A valor razonable - Cartera propia disponible,,0,0,407756,0,0,0,0,0,450139,0,0,Septiembre de 2016
+9,11.02.11 Renta variable (IRV),,,,,0,,,,,450139,,0,Septiembre de 2016
+10,11.02.12 Renta fija e Intermediación Financiera (IRF e IIF),,,,407756,,,,,,,0,0,Septiembre de 2016
+11,11.02.20 A valor razonable - Cartera propia comprometida,,0,0,0,0,0,0,0,0,0,0,0,Septiembre de 2016
+12,11.02.21 Renta variable,,,,,,,,,,,0,0,Septiembre de 2016
+13,11.02.22 Renta fija e Intermediación Financiera,,,,,,,,,,,0,0,Septiembre de 2016
+14,11.02.30 A valor razonable - Instrumentos financieros derivados,,,,,,,,,,,0,0,Septiembre de 2016
+15,11.02.40 A costo amortizado - Cartera propia disponible,,,1428797,,,,,,,,0,120000,Septiembre de 2016
+16,11.02.50 A costo amortizado - Cartera propia comprometida,,,,,,,,,,,0,0,Septiembre de 2016
+17,11.02.60 A costo amortizado - Operaciones de financiamiento,,0,0,0,0,0,0,0,0,0,0,0,Septiembre de 2016
+18,11.02.61 Operaciones de compra con retroventa sobre IRV,,,,,,,,,,,0,0,Septiembre de 2016
+19,11.02.62 Operaciones de compra con retroventa sobre IRF e IIF,,,,,,,,,,,0,0,Septiembre de 2016
+20,11.02.63 Otras,,,,,,,,,0,,0,0,Septiembre de 2016
+21,11.03.00 Productos,,0,0,4195649,0,0,198447,0,0,475941,15550,809199,Septiembre de 2016
+22,11.03.10 A valor razonable - Cartera propia disponible,,0,0,4195649,0,0,198447,0,0,475941,0,0,Septiembre de 2016
+23,11.03.11 Productos agropecuarios,,,,,,,,,,,0,0,Septiembre de 2016
+24,11.03.12 Títulos representativos de productos agropecuarios (TRP),,,,,,,,,,,0,0,Septiembre de 2016
+25,11.03.13 Facturas,,,,4195649,,,198447,,,475941,0,0,Septiembre de 2016
+26,11.03.14 Títulos representativos de facturas (TRF),,,,,,,,,,,0,0,Septiembre de 2016
+27,11.03.15 Otros,,,,,,,,,,,0,0,Septiembre de 2016
+28,11.03.20 A valor razonable - Cartera propia comprometida,,0,0,0,0,0,0,0,0,0,0,0,Septiembre de 2016
+29,11.03.21 Productos agropecuarios,,,,,,,,,,,0,0,Septiembre de 2016
+30,11.03.22 Títulos representativos de productos agropecuarios,,,,,,,,,,,0,0,Septiembre de 2016
+31,11.03.23 Otros,,,,,,,,,,,0,0,Septiembre de 2016
+32,11.03.30 A valor razonable - Instrumentos derivados,,,,,,,,,,,0,0,Septiembre de 2016
+33,11.03.40 A costo amortizado - Cartera propia disponible,,0,0,0,0,0,0,0,0,0,15550,809199,Septiembre de 2016
+34,11.03.41 Facturas,,,,,,,,,,,15550,809199,Septiembre de 2016
+35,11.03.42 Títulos representativos de facturas,,,,,,,,,,,0,0,Septiembre de 2016
+36,11.03.43 Otros,,,,,,,,,,,0,0,Septiembre de 2016
+37,11.03.50 A costo amortizado - Cartera propia comprometida,,,,,,,,,,,0,0,Septiembre de 2016
+38,11.03.60 A costo amortizado - Operaciones de financiamiento,,0,0,0,0,0,0,0,0,0,0,0,Septiembre de 2016
+39,11.03.61 Operaciones de compra con retroventa sobre productos agropecuarios,,,,,,,,,,,0,0,Septiembre de 2016
+40,11.03.62 Operaciones de compra con retroventa sobre TRP,,,,,,,,,,0,0,0,Septiembre de 2016
+41,11.03.63 Otras,,,,,,,,,,,0,0,Septiembre de 2016
+42,11.04.00 Deudores por intermediación,,,246507,,37866,,,145512,,0,0,0,Septiembre de 2016
+43,11.05.00 Cuentas por cobrar por operaciones de cartera propia,,,,,,,,,,,0,773090,Septiembre de 2016
+44,11.06.00 Cuentas por cobrar a partes relacionadas,,,54055,,,,,,519647,68141,329103,0,Septiembre de 2016
+45,11.07.00 Otras cuentas por cobrar,,,100754,196239,8613,10734,,420,0,1308,0,189723,Septiembre de 2016
+46,11.08.00 Impuestos por cobrar,4670,1184,48299,3759,,977,4865,8706,5418,5872,37569,32309,Septiembre de 2016
+47,11.09.00 Impuestos diferidos,893,289,4272,20405,41322,67411,971,1699,0,5733,1210,9007,Septiembre de 2016
+48,11.10.00 Inversiones en sociedades,,24698,197197,,170251,24213,146763,26015,0,146620,0,138380,Septiembre de 2016
+49,11.11.00 Intangibles,13191,17496,27596,21867,304,,,9549,21202,1043,36619,0,Septiembre de 2016
+50,"11.12.00 Propiedades, planta y equipo",344,0,2066,,0,,,6396,393,,533,342,Septiembre de 2016
+51,11.13.00 Otros activos,7875,3095,980,545,,172973,,2511,1781,0,34483,3292,Septiembre de 2016
+52,10.00.00 Total Activos,587826,271507,2875736,4921189,690670,278019,382655,602003,576079,1987023,756781,2140020,Septiembre de 2016
+53,Pasivos y Patrimonio,,,,,,,,,,,,,Septiembre de 2016
+54,Pasivos,,,,,,,,,,,,,Septiembre de 2016
+55,21.01.00 Pasivos financieros,,0,0,0,0,0,0,0,0,0,0,0,Septiembre de 2016
+56,21.01.10 A valor razonable,,,,,,,,,,,0,,Septiembre de 2016
+57,21.01.20 A valor razonable - Instrumentos financieros derivados,,,,,,,,,,,0,,Septiembre de 2016
+58,21.01.30 Obligaciones por financiamiento,,0,0,0,0,0,0,0,0,0,0,0,Septiembre de 2016
+59,21.01.31 Operaciones de venta con retrocompra sobre IRV,,,,,,,,,,,0,,Septiembre de 2016
+60,21.01.32 Operaciones de venta con retrocompra sobre IRF e IIF,,,,,,,,,,,0,,Septiembre de 2016
+61,21.01.33 Otras,,,,,,,,,,,0,,Septiembre de 2016
+62,21.02.00 Pasivos del mercado de productos,,0,0,0,0,0,0,0,0,0,0,0,Septiembre de 2016
+63,21.02.10 A valor razonable,,,,,,,,,,,0,,Septiembre de 2016
+64,21.02.20 A valor razonable - Instrumentos derivados,,,,,,,,,,,0,,Septiembre de 2016
+65,21.02.30 Obligaciones por financiamiento,,0,0,0,0,0,0,0,0,0,0,0,Septiembre de 2016
+66,21.02.31 Operaciones de venta con retrocompra sobre productos agropecuarios,,,,,,,,,,,0,,Septiembre de 2016
+67,21.02.32 Operaciones de venta con retrocompra sobre TRP,,,,,,,,,,0,0,,Septiembre de 2016
+68,21.02.33 Otras,,,,,,,,,,,0,,Septiembre de 2016
+69,21.03.00 Obligaciones con bancos e instituciones financieras,,,605106,,,,,,0,,0,0,Septiembre de 2016
+70,21.04.00 Acreedores por intermediación,276481,,,,0,,,312867,0,0,0,0,Septiembre de 2016
+71,21.05.00 Cuentas por pagar por operaciones de cartera propia,,,,20583,,,,,,,0,0,Septiembre de 2016
+72,21.06.00 Cuentas por pagar a partes relacionadas,,45982,159065,2468708,,78983,,,12520,,277027,3019,Septiembre de 2016
+73,21.07.00 Otras cuentas por pagar,33357,2770,625661,1975417,2156,3864,1726,29057,16750,939397,9631,163613,Septiembre de 2016
+74,21.08.00 Provisiones,39647,1311,14659,32548,6543,15015,6638,7077,2943,33226,1001,18516,Septiembre de 2016
+75,21.09.00 Impuestos por pagar,110,495,35912,1735,2296,231,587,10587,1772,83663,86,3942,Septiembre de 2016
+76,21.10.00 Impuestos diferidos,,0,0,,,,,,3534,,0,139,Septiembre de 2016
+77,21.11.00 Otros pasivos,,0,9939,,,,,,,,0,19583,Septiembre de 2016
+78,21.00.00 Total Pasivos,349595,50558,1450342,4498991,10995,98093,8951,359588,37519,1056286,287745,208812,Septiembre de 2016
+79,Patrimonio,,,,,,,,,,,,,Septiembre de 2016
+80,22.01.00 Capital,197000,180000,433711,460000,720453,319571,387118,214000,285060,701188,378000,902046,Septiembre de 2016
+81,22.02.00 Reservas,,,149,-743,-18865,,4940,1462,-5060,24200,0,-25833,Septiembre de 2016
+82,22.03.00 Resultados acumulados,45347,39490,829968,-25414,-44223,-106181,-2213,-633,249053,-55664,138197,1036578,Septiembre de 2016
+83,22.04.00 Resultado del ejercicio,-4116,1459,161566,-11645,22310,-33464,-16141,27586,13581,261013,-47161,38000,Septiembre de 2016
+84,22.05.00 Dividendos provisorios o participaciones,,,,,,,,,-4074,,0,-19583,Septiembre de 2016
+85,22.00.00 Total Patrimonio,238231,220949,1425394,422198,679675,179926,373704,242415,538560,930737,469036,1931208,Septiembre de 2016
+86,20.00.00 TOTAL PAC.M.F Y PATRIMONIO,587826,271507,2875736,4921189,690670,278019,382655,602003,576079,1987023,756781,2140020,Septiembre de 2016
+87,,,,,,,,,,,,,,Septiembre de 2016
+88,Estado de resultados integrales,,,,,,,,,,,,,Septiembre de 2016
+89,Estado de resultados,,,,,,,,,,,,,Septiembre de 2016
+90,Resultado por intermediación,,,,,,,,,,,,,Septiembre de 2016
+91,30.10.01 Comisiones por operaciones bursátiles,78074,0,656414,35197,134639,50405,13010,501442,61746,183782,7767,145534,Septiembre de 2016
+92,30.10.02 Comisiones por operaciones extra bursátiles,,,,,,,,,,0,0,0,Septiembre de 2016
+93,30.10.03 Gastos por comisiones y servicios,-24113,-20536,-138998,,-26172,-28879,-23233,-129158,-21087,-62658,-36836,-40245,Septiembre de 2016
+94,30.10.04 Otras comisiones,,0,33903,,,,2775,,52363,,26870,0,Septiembre de 2016
+95,30.10.00 Total resultado por intermediación,53961,-20536,551319,35197,108467,21526,-7448,372284,93022,121124,-2199,105289,Septiembre de 2016
+96,Ingresos por servicios,,,,,,,,,,,,,Septiembre de 2016
+97,30.20.01 Ingresos por custodia,,,,,,,,,,,0,,Septiembre de 2016
+98,30.20.02 Ingresos por asesorías,,,,,,4500,54431,,,211722,0,0,Septiembre de 2016
+99,30.20.03 Otros ingresos por servicios,40732,35424,,,,36812,,,,,0,0,Septiembre de 2016
+100,30.20.00 Total ingresos por servicios,40732,35424,0,0,0,41312,54431,0,0,211722,0,0,Septiembre de 2016
+101,Resultado por productos,,,,,,,,,,,,,Septiembre de 2016
+102,30.30.01 A valor razonable,,,,,,,5670,,,35382,0,,Septiembre de 2016
+103,30.30.02 A valor razonable - Instrumentos derivados,,,,,,,,,,,0,,Septiembre de 2016
+104,30.30.03 A costo amortizado,,,,169751,,,,560,,,0,111086,Septiembre de 2016
+105,30.30.04 A costo amortizado - Operaciones de financiamiento,,,,,,,,,,,0,,Septiembre de 2016
+106,30.30.00 Total resultado por productos,,0,0,169751,0,0,5670,560,0,35382,0,111086,Septiembre de 2016
+107,Resultado por instrumentos financieros,,,,,,,,,,,,,Septiembre de 2016
+108,30.40.01 A valor razonable,,8117,,,594,9807,,,0,,0,5740,Septiembre de 2016
+109,30.40.02 A valor razonable - Instrumentos financieros derivados,,,,,,,,,,,0,,Septiembre de 2016
+110,30.40.03 A costo amortizado,,,,,,,,,0,,0,,Septiembre de 2016
+111,30.40.04 A costo amortizado - Operaciones de financiamiento,,,,27522,,,,,,,0,,Septiembre de 2016
+112,30.40.00 Total resultado por instrumentos financieros,,8117,0,27522,594,9807,0,0,0,0,0,5740,Septiembre de 2016
+113,Resultado por operaciones de financiamiento,,,,,,,,,,,,,Septiembre de 2016
+114,30.50.01 Gastos por financiamiento del mercado de productos,,,,,,,,,,,0,0,Septiembre de 2016
+115,30.50.02 Gastos por financiamiento del mercado de valores,,,,,,,,,,,0,,Septiembre de 2016
+116,30.50.03 Otros gastos financieros,,,-8557,-96894,,-15212,,,,-8531,0,,Septiembre de 2016
+117,30.50.00 Total resultado por operaciones de financiamiento,,0,-8557,-96894,0,-15212,0,0,0,-8531,0,0,Septiembre de 2016
+118,Gastos de administración y comercialización,,,,,,,,,,,,,Septiembre de 2016
+119,30.60.01 Remuneraciones y gastos de personal,-70609,-7971,-218797,-105402,-55106,,-62261,-206147,-15876,-174607,-22993,-140883,Septiembre de 2016
+120,30.60.02 Gastos de comercialización,-33228,0,,-28054,,,,,,-18553,0,-4440,Septiembre de 2016
+121,30.60.03 Otros gastos de administración,,-13114,-118664,-18509,-36946,-106230,-10135,-136939,-63390,0,-38682,-44039,Septiembre de 2016
+122,30.60.00 Total gastos de administración y comercialización,-103837,-21085,-337461,-151965,-92052,-106230,-72396,-343086,-79266,-193160,-61675,-189362,Septiembre de 2016
+123,Otros resultados,,,,,,,,,,,,,Septiembre de 2016
+124,30.70.01 Reajuste y diferencia de cambio,3899,0,296,78,,,,-2166,76,,52,2031,Septiembre de 2016
+125,30.70.02 Resultado de inversiones en sociedades,,0,2748,79,2673,,2675,,,-5423,0,0,Septiembre de 2016
+126,30.70.03 Otros ingresos (gastos),1129,0,992,-4346,2628,,670,-6,,179159,0,236,Septiembre de 2016
+127,30.70.00 Total otros resultados,5028,0,4036,-4189,5301,0,3345,-2172,76,173736,52,2267,Septiembre de 2016
+128,30.80.00 Resultado antes de impuesto a la renta,-4116,1920,209337,-20578,22310,-48797,-16398,27586,13832,340273,-63822,35020,Septiembre de 2016
+129,30.90.00 Impuesto a la renta,,-461,-47771,8933,0,15333,257,,-251,-79260,16661,2980,Septiembre de 2016
+130,30.00.00 Utilidad (pérdida) del ejercicio,-4116,1459,161566,-11645,22310,-33464,-16141,27586,13581,261013,-47161,38000,Septiembre de 2016
+131,Estado de otros resultados integrales,,,,,,,,,,,,,Septiembre de 2016
+132,30.00.00 Utilidad (pérdida) del ejercicio,-4116,1459,161566,-11645,22310,-33464,-16141,27586,13581,261013,-47161,38000,Septiembre de 2016
+133,Ingresos (gastos) registrados con abono (cargo) a patrimonio,,,,,,,,,,,,,Septiembre de 2016
+134,"31.10.00 Revalorización de propiedades, planta y equipo",,,,,,,,,,,0,,Septiembre de 2016
+135,31.20.00 Activos financieros a valor razonable por patrimonio,,,,,,,,469,,,0,,Septiembre de 2016
+136,31.30.00 Participación de otros resultados integrales de inversiones en sociedades,,,,,,,,,,,0,,Septiembre de 2016
+137,31.40.00 Otros ingresos (gastos) registrados con abono (cargo) a patrimonio,,,,-743,,,,,,,0,,Septiembre de 2016
+138,31.50.00 Impuesto a la renta de otros resultados integrales,,,,,,,,,,,0,,Septiembre de 2016
+139,31.00.00 Total ingresos (gastos) registrados con abono (cargo) a patrimonio,,0,0,-743,0,0,0,469,0,0,0,0,Septiembre de 2016
+140,32.00.00 Total resultados integrales reconocidos del ejercicio,-4116,1459,161566,-12388,22310,-33464,-16141,28055,13581,261013,-47161,38000,Septiembre de 2016
+141,,,,,,,,,,,,,,Septiembre de 2016
+142,Estados de Flujos de efectivo - Método directo,,,,,,,,,,,,,Septiembre de 2016
+143,Flujo neto originado por actividades de la operación,,,,,,,,,,,,,Septiembre de 2016
+144,51.11.00 Comisiones recaudadas (pagadas) por intermediación de productos,78074,32090,332438,,108467,64450,13010,372284,40659,183782,-197739,115339,Septiembre de 2016
+145,51.12.00 Ingreso (egreso) neto por cuenta de clientes,,0,180554,,-40593,,,143587,,,0,35020,Septiembre de 2016
+146,51.13.00 Ingreso (egreso) neto por instrumentos a valor razonable del mercado de productos,,6705,,1682753,,,-50298,,,,0,0,Septiembre de 2016
+147,51.14.00 Ingreso (egreso) neto por instrumentos derivados del mercado de productos,,,,,,,,,,,0,0,Septiembre de 2016
+148,51.15.00 Ingreso (egreso) neto por instrumentos a costo amortizado del mercado de productos,,,184979,,,,,,,35832,212182,72678,Septiembre de 2016
+149,51.16.00 Ingreso (egreso) neto por asesorías y custodia,,0,,,,,54431,,,,0,-1544,Septiembre de 2016
+150,51.17.00 Gastos de administración y comercialización pagados,-53882,-22633,-740218,,-91276,-106481,-68722,-341723,-129854,-166768,-107101,-170257,Septiembre de 2016
+151,51.18.00 Impuestos pagados,,-2174,,,-318,-7137,-3831,-6559,-14729,-81772,-3508,-78732,Septiembre de 2016
+152,51.19.00 Otros ingresos (egresos) netos por actividades de la operación,29632,-4674,33903,-566897,1724,-7962,-20820,-56719,52363,388622,-947,-11719,Septiembre de 2016
+153,51.10.00 Flujo neto originado por actividades de la operación,53824,9314,-8344,1115856,-21996,-57130,-76230,110870,-51561,359696,-97113,-39215,Septiembre de 2016
+154,Flujo neto originado por actividades de financiamiento,,,,,,,,,,,,,Septiembre de 2016
+155,52.11.00 Ingreso (egreso) neto por pasivos del mercado de productos,,,,,,,,,0,,0,906611,Septiembre de 2016
+156,52.12.00 Ingreso (egreso) neto por pasivos financieros del mercado de valores,,,,,,,,,,,0,0,Septiembre de 2016
+157,52.13.00 Ingreso (egreso) neto por financiamiento de partes relacionadas,,20,-12500,-1057549,,24000,79000,,,-40000,10442,-555359,Septiembre de 2016
+158,52.14.00 Aumentos de capital,,0,,,,,,,,,,0,Septiembre de 2016
+159,52.15.00 Reparto de utilidades y de capital,,,,,,,,,,,0,-204243,Septiembre de 2016
+160,52.16.00 Otros ingresos (egresos) netos por actividades de financiamiento,,0,599007,,,,,,,,0,-480,Septiembre de 2016
+161,52.10.00 Flujo neto originado por actividades de financiamiento,,20,586507,-1057549,0,24000,79000,0,0,-40000,10442,146529,Septiembre de 2016
+162,Flujo neto originado por actividades de inversión,,,,,,,,,,,,,Septiembre de 2016
+163,53.11.00 Ingreso (egreso) neto por instrumentos financieros a valor razonable del mercado de valores,80052,,,,2987,,,,,0,0,-114652,Septiembre de 2016
+164,53.12.00 Ingreso (egreso) neto por instrumentos financieros derivados del mercado de valores,,,,,,,,,,,0,0,Septiembre de 2016
+165,53.13.00 Ingreso (egreso) neto por instrumentos financieros a costo amortizado del mercado de valores,,,,,,,,560,,373202,0,0,Septiembre de 2016
+166,"53.14.00 Ingresos por ventas de propiedades, planta y equipo",,,,,,,,,,,0,0,Septiembre de 2016
+167,53.15.00 Ingresos por ventas de inversiones en sociedades,,,,,,,,,,,0,0,Septiembre de 2016
+168,53.16.00 Dividendos y otros ingresos percibidos de inversiones en sociedades,,,,,,,,,62819,,0,0,Septiembre de 2016
+169,"53.17.00 Incorporación de propiedades, planta y equipo",,,,,,,,-2645,,,0,0,Septiembre de 2016
+170,53.18.00 Inversiones en sociedades,,0,-50000,,0,,,,,0,0,0,Septiembre de 2016
+171,53.19.00 Otros ingresos (egresos) netos de inversión,,0,991,-941,,,561,-1026,-7029,,0,0,Septiembre de 2016
+172,53.10.00 Flujo neto originado por actividades de inversión,80052,0,-49009,-941,2987,0,561,-3111,55790,373202,0,-114652,Septiembre de 2016
+173,50.10.00 Flujo neto total positivo (negativo) del período,133876,9334,529154,57366,-19009,-33130,3331,107759,4229,692898,-86671,-7338,Septiembre de 2016
+174,50.20.00 Efecto de la variación por tipo de cambio sobre el efectivo y efectivo equivalente,,,,,,,,,23409,,,,Septiembre de 2016
+175,50.30.00 Variación neta del efectivo y efectivo equivalente,133876,9334,529154,57366,-19009,-33130,3331,107759,27638,692898,-86671,-7338,Septiembre de 2016
+176,50.40.00 Saldo inicial de efetivo y efectivo equivalente,426977,215411,236059,17603,451323,34841,28278,293436,,139328,388385,72016,Septiembre de 2016
+177,50.00.00 Saldo final de efectivo y efectivo equivalente,560853,224745,765213,74969,432314,1711,31609,401195,27638,832226,301714,64678,Septiembre de 2016

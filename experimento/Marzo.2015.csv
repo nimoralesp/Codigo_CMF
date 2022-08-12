@@ -1,0 +1,178 @@
+Unnamed: 0,Cuentas,ADDWISE 03 / 2015,AVLA 03 / 2015,BAN TATTERSALL 03 / 2015,CONTEMPORA 03 / 2015,DANK 03 / 2015,ECR OSORNO 03 / 2015,FINANCIA CAPITAL 03 / 2015,LARRAIN VIAL 03 / 2015,LATAM TRADE CAPITAL 03 / 2015,TANNER 03 / 2015,Fecha
+1,RUT,76.147.513-4,76.268.236-2,76.977.670-2,76.686.240-3,76.249.106-0,76.030.732-7,76.089.848-1,99.587.310-9,76.148.647-0,76.313.350-8,Marzo de 2015
+2,Razón social,ADDWISE,AVLA,BAN TATTERSALL,CONTEMPORA,DANK,ECR OSORNO,FINANCIA CAPITAL,LARRAIN VIAL,LATAM TRADE CAPITAL,TANNER,Marzo de 2015
+3,,,,,,,,,,,,Marzo de 2015
+4,Estado de situación financiera,,,,,,,,,,,Marzo de 2015
+5,Activos,,,,,,,,,,,Marzo de 2015
+6,11.01.00 Efectivo y efectivo equivalente,339443,203843,272677,304087,8952,265201,24517,3795207,107079,63571,Marzo de 2015
+7,11.02.00 Instrumentos financieros,,,643250,0,0,0,0,131469,0,0,Marzo de 2015
+8,11.02.10 A valor razonable - Cartera propia disponible,,,0,0,0,0,0,131469,0,0,Marzo de 2015
+9,11.02.11 Renta variable (IRV),,,,0,,,,131469,,0,Marzo de 2015
+10,11.02.12 Renta fija e Intermediación Financiera (IRF e IIF),,,,,,,,,,0,Marzo de 2015
+11,11.02.20 A valor razonable - Cartera propia comprometida,,,0,0,0,0,0,0,0,0,Marzo de 2015
+12,11.02.21 Renta variable,,,,,,,,,,0,Marzo de 2015
+13,11.02.22 Renta fija e Intermediación Financiera,,,,,,,,,,0,Marzo de 2015
+14,11.02.30 A valor razonable - Instrumentos financieros derivados,,,,,,,,,,0,Marzo de 2015
+15,11.02.40 A costo amortizado - Cartera propia disponible,,,643250,,,,,,,0,Marzo de 2015
+16,11.02.50 A costo amortizado - Cartera propia comprometida,,,,,,,,,,0,Marzo de 2015
+17,11.02.60 A costo amortizado - Operaciones de financiamiento,,,0,0,0,0,0,0,0,0,Marzo de 2015
+18,11.02.61 Operaciones de compra con retroventa sobre IRV,,,,,,,,,,,Marzo de 2015
+19,11.02.62 Operaciones de compra con retroventa sobre IRF e IIF,,,,,,,,,,,Marzo de 2015
+20,11.02.63 Otras,,,,,,,0,,,,Marzo de 2015
+21,11.03.00 Productos,,,0,0,0,269976,0,0,1209945,1757895,Marzo de 2015
+22,11.03.10 A valor razonable - Cartera propia disponible,,,0,0,0,269976,0,0,0,1757895,Marzo de 2015
+23,11.03.11 Productos agropecuarios,,,,,,,,,,0,Marzo de 2015
+24,11.03.12 Títulos representativos de productos agropecuarios (TRP),,,,,,,,,,0,Marzo de 2015
+25,11.03.13 Facturas,,,,,,269976,,,,1757895,Marzo de 2015
+26,11.03.14 Títulos representativos de facturas (TRF),,,,,,,,,,,Marzo de 2015
+27,11.03.15 Otros,,,,,,,,,,,Marzo de 2015
+28,11.03.20 A valor razonable - Cartera propia comprometida,,,0,0,0,0,0,0,0,0,Marzo de 2015
+29,11.03.21 Productos agropecuarios,,,,,,,,,,,Marzo de 2015
+30,11.03.22 Títulos representativos de productos agropecuarios,,,,,,,,,,,Marzo de 2015
+31,11.03.23 Otros,,,,,,,,,,,Marzo de 2015
+32,11.03.30 A valor razonable - Instrumentos derivados,,,,,,,,,,,Marzo de 2015
+33,11.03.40 A costo amortizado - Cartera propia disponible,,,0,0,0,0,0,0,1209945,0,Marzo de 2015
+34,11.03.41 Facturas,,,,,,,,,1209945,,Marzo de 2015
+35,11.03.42 Títulos representativos de facturas,,,,,,,,,,,Marzo de 2015
+36,11.03.43 Otros,,,,,,,,,,,Marzo de 2015
+37,11.03.50 A costo amortizado - Cartera propia comprometida,,,,,,,,,,,Marzo de 2015
+38,11.03.60 A costo amortizado - Operaciones de financiamiento,,,0,0,0,0,0,0,0,0,Marzo de 2015
+39,11.03.61 Operaciones de compra con retroventa sobre productos agropecuarios,,,,,,,,,,,Marzo de 2015
+40,11.03.62 Operaciones de compra con retroventa sobre TRP,,,,,,,,0,,,Marzo de 2015
+41,11.03.63 Otras,,,,,,,,,,,Marzo de 2015
+42,11.04.00 Deudores por intermediación,41720,,190257,95285,,,,0,38157,2146631,Marzo de 2015
+43,11.05.00 Cuentas por cobrar por operaciones de cartera propia,,,,,,,,,,503024,Marzo de 2015
+44,11.06.00 Cuentas por cobrar a partes relacionadas,,,5080,,4531,,506447,,,28230,Marzo de 2015
+45,11.07.00 Otras cuentas por cobrar,,,421684,14506,28072,73058,339060,48214,,527355,Marzo de 2015
+46,11.08.00 Impuestos por cobrar,4065,846,69696,,3622,1540,6835,64529,15657,40060,Marzo de 2015
+47,11.09.00 Impuestos diferidos,840,216,4129,47666,2618,457,0,14318,2756,10414,Marzo de 2015
+48,11.10.00 Inversiones en sociedades,,23328,143723,167351,23786,143863,0,143723,,143723,Marzo de 2015
+49,11.11.00 Intangibles,17846,17496,26404,2910,,,21202,,45375,54428,Marzo de 2015
+50,"11.12.00 Propiedades, planta y equipo",,,5327,0,,,77,,0,861,Marzo de 2015
+51,11.13.00 Otros activos,70477,3273,160,,203409,,2070,,806,47311,Marzo de 2015
+52,10.00.00 Total Activos,474391,249002,1782387,631805,274990,754095,900208,4197460,1419775,5323503,Marzo de 2015
+53,Pasivos y Patrimonio,,,,,,,,,,,Marzo de 2015
+54,Pasivos,,,,,,,,,,,Marzo de 2015
+55,21.01.00 Pasivos financieros,,,0,0,0,0,0,0,0,0,Marzo de 2015
+56,21.01.10 A valor razonable,,,,,,,,,,,Marzo de 2015
+57,21.01.20 A valor razonable - Instrumentos financieros derivados,,,,,,,,,,,Marzo de 2015
+58,21.01.30 Obligaciones por financiamiento,,,0,0,0,0,0,0,0,0,Marzo de 2015
+59,21.01.31 Operaciones de venta con retrocompra sobre IRV,,,,,,,,,,,Marzo de 2015
+60,21.01.32 Operaciones de venta con retrocompra sobre IRF e IIF,,,,,,,,,,,Marzo de 2015
+61,21.01.33 Otras,,,,,,,,,,,Marzo de 2015
+62,21.02.00 Pasivos del mercado de productos,,,0,0,0,0,0,0,0,0,Marzo de 2015
+63,21.02.10 A valor razonable,,,,,,,,,,,Marzo de 2015
+64,21.02.20 A valor razonable - Instrumentos derivados,,,,,,,,,,,Marzo de 2015
+65,21.02.30 Obligaciones por financiamiento,,,0,0,0,0,0,0,0,0,Marzo de 2015
+66,21.02.31 Operaciones de venta con retrocompra sobre productos agropecuarios,,,,,,,,,,,Marzo de 2015
+67,21.02.32 Operaciones de venta con retrocompra sobre TRP,,,,,,,,0,,,Marzo de 2015
+68,21.02.33 Otras,,,,,,,,,,,Marzo de 2015
+69,21.03.00 Obligaciones con bancos e instituciones financieras,,,,,,,0,,,,Marzo de 2015
+70,21.04.00 Acreedores por intermediación,162220,0,,0,,,4350,0,138372,2146631,Marzo de 2015
+71,21.05.00 Cuentas por pagar por operaciones de cartera propia,,,,,,,,,16646,0,Marzo de 2015
+72,21.06.00 Cuentas por pagar a partes relacionadas,921,43128,421268,,,,343837,995,684772,0,Marzo de 2015
+73,21.07.00 Otras cuentas por pagar,5290,584,226011,849,11734,325852,10333,3489893,31275,957963,Marzo de 2015
+74,21.08.00 Provisiones,29073,1288,21570,7852,8199,4354,2157,19011,7520,34804,Marzo de 2015
+75,21.09.00 Impuestos por pagar,3405,1001,55499,1121,2315,288,21265,6688,17643,62275,Marzo de 2015
+76,21.10.00 Impuestos diferidos,,,51,,,,3755,,,137,Marzo de 2015
+77,21.11.00 Otros pasivos,,0,4007,,,,,,,235275,Marzo de 2015
+78,21.00.00 Total Pasivos,200909,46001,728406,9822,22248,330494,385697,3516587,896228,3437085,Marzo de 2015
+79,Patrimonio,,,,,,,,,,,Marzo de 2015
+80,22.01.00 Capital,197000,180000,433711,720453,236222,387118,285060,701188,378000,902046,Marzo de 2015
+81,22.02.00 Reservas,,,149,-12521,,4940,-5060,17196,0,31652,Marzo de 2015
+82,22.03.00 Resultados acumulados,74494,21185,545596,-102885,25927,56110,213478,-56376,146493,1008138,Marzo de 2015
+83,22.04.00 Resultado del ejercicio,1988,1816,74525,16936,-9407,-24567,21033,18865,-946,170685,Marzo de 2015
+84,22.05.00 Dividendos provisorios o participaciones,,,,,,,,,,-226103,Marzo de 2015
+85,22.00.00 Total Patrimonio,273482,203001,1053981,621983,252742,423601,514511,680873,523547,1886418,Marzo de 2015
+86,20.00.00 TOTAL PAC.M.F Y PATRIMONIO,474391,249002,1782387,631805,274990,754095,900208,4197460,1419775,5323503,Marzo de 2015
+87,,,,,,,,,,,,Marzo de 2015
+88,Estado de resultados integrales,,,,,,,,,,,Marzo de 2015
+89,Estado de resultados,,,,,,,,,,,Marzo de 2015
+90,Resultado por intermediación,,,,,,,,,,,Marzo de 2015
+91,30.10.01 Comisiones por operaciones bursátiles,41155,14016,225770,55099,25971,5708,40624,78326,141,133734,Marzo de 2015
+92,30.10.02 Comisiones por operaciones extra bursátiles,,,,,,,,22736,,0,Marzo de 2015
+93,30.10.03 Gastos por comisiones y servicios,-10248,-6566,-49723,-9406,-8457,-5455,-7290,-20261,-10279,-28873,Marzo de 2015
+94,30.10.04 Otras comisiones,63,,17207,,3000,,25240,,49159,,Marzo de 2015
+95,30.10.00 Total resultado por intermediación,30970,7450,193254,45693,20514,253,58574,80801,39021,104861,Marzo de 2015
+96,Ingresos por servicios,,,,,,,,,,,Marzo de 2015
+97,30.20.01 Ingresos por custodia,,,,,,,,,,,Marzo de 2015
+98,30.20.02 Ingresos por asesorías,,,,,,3774,,,,128140,Marzo de 2015
+99,30.20.03 Otros ingresos por servicios,,,,,,,,,,51639,Marzo de 2015
+100,30.20.00 Total ingresos por servicios,0,,0,0,0,3774,0,0,0,179779,Marzo de 2015
+101,Resultado por productos,,,,,,,,,,,Marzo de 2015
+102,30.30.01 A valor razonable,,,,,,2595,,4777,,26680,Marzo de 2015
+103,30.30.02 A valor razonable - Instrumentos derivados,,,,,,,,,,,Marzo de 2015
+104,30.30.03 A costo amortizado,,,,,,,,,,,Marzo de 2015
+105,30.30.04 A costo amortizado - Operaciones de financiamiento,,,,,,,,,,,Marzo de 2015
+106,30.30.00 Total resultado por productos,0,,0,0,0,2595,0,4777,0,26680,Marzo de 2015
+107,Resultado por instrumentos financieros,,,,,,,,,,,Marzo de 2015
+108,30.40.01 A valor razonable,1436,431,,350,5269,,208,,0,0,Marzo de 2015
+109,30.40.02 A valor razonable - Instrumentos financieros derivados,,,,,,,,,,,Marzo de 2015
+110,30.40.03 A costo amortizado,,,,,,,0,,,,Marzo de 2015
+111,30.40.04 A costo amortizado - Operaciones de financiamiento,,,,,,,,,,,Marzo de 2015
+112,30.40.00 Total resultado por instrumentos financieros,1436,431,0,350,5269,0,208,0,0,0,Marzo de 2015
+113,Resultado por operaciones de financiamiento,,,,,,,,,,,Marzo de 2015
+114,30.50.01 Gastos por financiamiento del mercado de productos,,,,,,,,,,0,Marzo de 2015
+115,30.50.02 Gastos por financiamiento del mercado de valores,,,,,,,,,,,Marzo de 2015
+116,30.50.03 Otros gastos financieros,,0,-934,,-561,,,-1199,,,Marzo de 2015
+117,30.50.00 Total resultado por operaciones de financiamiento,0,0,-934,0,-561,0,0,-1199,0,0,Marzo de 2015
+118,Gastos de administración y comercialización,,,,,,,,,,,Marzo de 2015
+119,30.60.01 Remuneraciones y gastos de personal,-14766,-3803,-60351,-19139,-7886,-16694,-5892,-46960,-24288,-45162,Marzo de 2015
+120,30.60.02 Gastos de comercialización,-7291,0,,,,,,-27641,,-23671,Marzo de 2015
+121,30.60.03 Otros gastos de administración,-8361,-2262,-37804,-12106,-29361,-4373,-25803,,-15722,-11780,Marzo de 2015
+122,30.60.00 Total gastos de administración y comercialización,-30418,-6065,-98155,-31245,-37247,-21067,-31695,-74601,-40010,-80613,Marzo de 2015
+123,Otros resultados,,,,,,,,,,,Marzo de 2015
+124,30.70.01 Reajuste y diferencia de cambio,,0,-5,,,,3,,-362,55,Marzo de 2015
+125,30.70.02 Resultado de inversiones en sociedades,,0,2001,2138,,2138,,1194,,1194,Marzo de 2015
+126,30.70.03 Otros ingresos (gastos),,0,,,,-12053,0,,0,-9171,Marzo de 2015
+127,30.70.00 Total otros resultados,0,0,1996,2138,0,-9915,3,1194,-362,-7922,Marzo de 2015
+128,30.80.00 Resultado antes de impuesto a la renta,1988,1816,96161,16936,-12025,-24360,27090,10972,-1351,222785,Marzo de 2015
+129,30.90.00 Impuesto a la renta,,0,-21636,,2618,-207,-6057,7893,405,-52100,Marzo de 2015
+130,30.00.00 Utilidad (pérdida) del ejercicio,1988,1816,74525,16936,-9407,-24567,21033,18865,-946,170685,Marzo de 2015
+131,Estado de otros resultados integrales,,,,,,,,,,,Marzo de 2015
+132,30.00.00 Utilidad (pérdida) del ejercicio,1988,1816,74525,16936,-9407,-24567,21033,18865,-946,170685,Marzo de 2015
+133,Ingresos (gastos) registrados con abono (cargo) a patrimonio,,,,,,,,,,,Marzo de 2015
+134,"31.10.00 Revalorización de propiedades, planta y equipo",,,,,,,,,,,Marzo de 2015
+135,31.20.00 Activos financieros a valor razonable por patrimonio,,,,,,,,,,,Marzo de 2015
+136,31.30.00 Participación de otros resultados integrales de inversiones en sociedades,,,,,,,,,,,Marzo de 2015
+137,31.40.00 Otros ingresos (gastos) registrados con abono (cargo) a patrimonio,,,,,,,,,,,Marzo de 2015
+138,31.50.00 Impuesto a la renta de otros resultados integrales,,,,,,,,,,,Marzo de 2015
+139,31.00.00 Total ingresos (gastos) registrados con abono (cargo) a patrimonio,0,0,0,0,0,0,0,0,0,0,Marzo de 2015
+140,32.00.00 Total resultados integrales reconocidos del ejercicio,1988,1816,74525,16936,-9407,-24567,21033,18865,-946,170685,Marzo de 2015
+141,,,,,,,,,,,,Marzo de 2015
+142,Estados de Flujos de efectivo - Método directo,,,,,,,,,,,Marzo de 2015
+143,Flujo neto originado por actividades de la operación,,,,,,,,,,,Marzo de 2015
+144,51.11.00 Comisiones recaudadas (pagadas) por intermediación de productos,49063,1003,242977,45692,33637,5708,33333,28065,-4904784,136981,Marzo de 2015
+145,51.12.00 Ingreso (egreso) neto por cuenta de clientes,53913,0,-351019,-53174,,,,22736,4117231,12608,Marzo de 2015
+146,51.13.00 Ingreso (egreso) neto por instrumentos a valor razonable del mercado de productos,,,,,,236482,,4777,,19085,Marzo de 2015
+147,51.14.00 Ingreso (egreso) neto por instrumentos derivados del mercado de productos,,,,,673,,,,,0,Marzo de 2015
+148,51.15.00 Ingreso (egreso) neto por instrumentos a costo amortizado del mercado de productos,,,178889,,,,,,,0,Marzo de 2015
+149,51.16.00 Ingreso (egreso) neto por asesorías y custodia,,,,,,6139,,,,127044,Marzo de 2015
+150,51.17.00 Gastos de administración y comercialización pagados,-27729,-13751,-208835,-31245,-15464,-34759,-82534,-76406,-29040,-75255,Marzo de 2015
+151,51.18.00 Impuestos pagados,-4225,-1476,,-8238,-709,,-9470,-32426,,-67348,Marzo de 2015
+152,51.19.00 Otros ingresos (egresos) netos por actividades de la operación,63,0,,13018,-36507,-7767,25240,1096388,0,4279,Marzo de 2015
+153,51.10.00 Flujo neto originado por actividades de la operación,71085,-14224,-137988,-33947,-18370,205803,-33431,1043134,-816593,157394,Marzo de 2015
+154,Flujo neto originado por actividades de financiamiento,,,,,,,,,,,Marzo de 2015
+155,52.11.00 Ingreso (egreso) neto por pasivos del mercado de productos,,,,,,,,,,-1516506,Marzo de 2015
+156,52.12.00 Ingreso (egreso) neto por pasivos financieros del mercado de valores,,,,,,,,,,,Marzo de 2015
+157,52.13.00 Ingreso (egreso) neto por financiamiento de partes relacionadas,,15679,237001,,10050,,,,200000,,Marzo de 2015
+158,52.14.00 Aumentos de capital,,0,,,,,,,0,,Marzo de 2015
+159,52.15.00 Reparto de utilidades y de capital,,,,,,,,,,,Marzo de 2015
+160,52.16.00 Otros ingresos (egresos) netos por actividades de financiamiento,,0,,,,,,,,,Marzo de 2015
+161,52.10.00 Flujo neto originado por actividades de financiamiento,0,15679,237001,0,10050,0,0,0,200000,-1516506,Marzo de 2015
+162,Flujo neto originado por actividades de inversión,,,,,,,,,,,Marzo de 2015
+163,53.11.00 Ingreso (egreso) neto por instrumentos financieros a valor razonable del mercado de valores,1436,,,608,,,,,0,,Marzo de 2015
+164,53.12.00 Ingreso (egreso) neto por instrumentos financieros derivados del mercado de valores,,,,,,,,,0,,Marzo de 2015
+165,53.13.00 Ingreso (egreso) neto por instrumentos financieros a costo amortizado del mercado de valores,,,,,,,0,0,0,,Marzo de 2015
+166,"53.14.00 Ingresos por ventas de propiedades, planta y equipo",,,,,,,,,0,,Marzo de 2015
+167,53.15.00 Ingresos por ventas de inversiones en sociedades,,,,,,,,,0,,Marzo de 2015
+168,53.16.00 Dividendos y otros ingresos percibidos de inversiones en sociedades,,,,,,,,,0,,Marzo de 2015
+169,"53.17.00 Incorporación de propiedades, planta y equipo",,,-750,,,,,,0,,Marzo de 2015
+170,53.18.00 Inversiones en sociedades,,0,,,,,,,0,,Marzo de 2015
+171,53.19.00 Otros ingresos (egresos) netos de inversión,,0,-7921,0,,53347,,,0,,Marzo de 2015
+172,53.10.00 Flujo neto originado por actividades de inversión,1436,0,-8671,608,0,53347,0,0,0,0,Marzo de 2015
+173,50.10.00 Flujo neto total positivo (negativo) del período,72521,1455,90342,-33339,-8320,259150,-33431,1043134,-616593,-1359112,Marzo de 2015
+174,50.20.00 Efecto de la variación por tipo de cambio sobre el efectivo y efectivo equivalente,,0,,,,,0,,,,Marzo de 2015
+175,50.30.00 Variación neta del efectivo y efectivo equivalente,72521,1455,90342,-33339,-8320,259150,-33431,1043134,-616593,-1359112,Marzo de 2015
+176,50.40.00 Saldo inicial de efetivo y efectivo equivalente,266922,202388,182335,337426,17272,6051,57948,2752073,723672,1422683,Marzo de 2015
+177,50.00.00 Saldo final de efectivo y efectivo equivalente,339443,203843,272677,304087,8952,265201,24517,3795207,107079,63571,Marzo de 2015
